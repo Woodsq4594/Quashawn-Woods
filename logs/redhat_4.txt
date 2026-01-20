@@ -1,0 +1,2196 @@
+Mar  7 04:02:08 avas syslogd 1.4.1: restart..
+Mar  7 04:11:15 avas dccifd[11335]: write(MTA socket,4): Broken pipe
+Mar  7 04:58:25 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  7 05:59:01 avas clamd[27173]: SelfCheck: Database modification detected. Forcing reload. 
+Mar  7 05:59:01 avas clamd[27173]: Reading databases from /usr/local/share/clamav 
+Mar  7 05:59:02 avas clamd[27173]: Database correctly reloaded (20400 viruses) 
+Mar  7 06:12:56 avas dccifd[21165]: write(MTA socket,4): Broken pipe
+Mar  7 06:59:38 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  7 08:00:14 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  7 09:00:51 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  7 10:01:27 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  7 11:02:04 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  7 11:14:35 avas dccd[13284]: 20 requests/sec are too many from anonymous 205.201.1.56,2215
+Mar  7 11:14:35 avas dccd[13284]: 20 requests/sec are too many from anonymous 205.201.1.56,2214
+Mar  7 11:14:35 avas dccd[13284]: 21 requests/sec are too many from anonymous 205.201.1.56,1127
+Mar  7 11:14:35 avas dccd[13284]: 21 requests/sec are too many from anonymous 205.201.1.56,2245
+Mar  7 11:14:35 avas dccd[13284]: 21 requests/sec are too many from anonymous 205.201.1.56,2246
+Mar  7 11:14:35 avas dccd[13284]: 22 requests/sec are too many from anonymous 205.201.1.56,2248
+Mar  7 12:02:40 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  7 13:03:17 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  7 13:38:44 avas sshd(pam_unix)[29707]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h24-70-69-74.ca.shawcable.net  user=root
+Mar  7 13:38:49 avas sshd(pam_unix)[29707]: session opened for user tom by (uid=35567)
+Mar  7 13:39:29 avas sshd(pam_unix)[29707]: session closed for user tom
+Mar  7 14:03:53 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  7 15:04:29 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  7 16:05:06 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  7 16:50:58 avas dccifd[998]: missing message body
+Mar  7 17:05:43 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  7 18:06:19 avas clamd[27173]: SelfCheck: Database modification detected. Forcing reload. 
+Mar  7 18:06:19 avas clamd[27173]: Reading databases from /usr/local/share/clamav 
+Mar  7 18:06:20 avas clamd[27173]: Database correctly reloaded (20401 viruses) 
+Mar  7 19:01:28 avas dccd[13284]: no incoming flood connection from dcc1.example.no, server-ID XXXX
+Mar  7 19:01:58 avas dccd[13284]: no outgoing flood connection to dcc1.example.no, server-ID XXXX
+Mar  7 19:06:56 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  7 20:07:33 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  7 21:08:09 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  7 21:23:22 avas dccifd[6191]: missing message body
+Mar  7 22:08:46 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  7 23:09:22 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 00:00:00 avas dccifd[13451]: 1.2.32 rejected messages to 0 targets and discarded messages to 0 targets among 1775 total since 03/07/04 00:00:00
+Mar  8 00:09:59 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 00:22:57 avas dccifd[9933]: write(MTA socket,4): Broken pipe
+Mar  8 01:10:35 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 02:11:11 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 02:50:26 avas dccifd[12385]: no answer from 127.0.0.1 (127.0.0.1,6277) after 16016 ms
+Mar  8 02:50:26 avas dccifd[12385]: write(MTA socket,4): Broken pipe
+Mar  8 03:11:48 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 03:48:05 avas dccd[13362]: automatic dbclean; starting `dbclean -DPq -i 1189 -L info,local5.notice -L error,local5.err`
+Mar  8 03:48:05 avas dbclean[13362]: 1.2.32 cleaning dcc_db
+Mar  8 03:48:05 avas dccd[13284]: database cleaning begun
+Mar  8 03:50:40 avas dbclean[13362]: expired 3741033 records and 10305510 checksums in /home/dcc/dcc_db
+Mar  8 03:51:27 avas dbclean[13362]: hashed 8238442 records containing 17108406 checksums, compressed 1272157 records
+Mar  8 03:51:27 avas dbclean[13362]: 21596160 hash entries total, 12649013 or 58% used
+Mar  8 03:52:04 avas dccd[13284]: 1.2.32 database /home/dcc/dcc_db reopened with 997 MByte window
+Mar  8 04:12:24 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 05:13:01 avas clamd[27173]: SelfCheck: Database modification detected. Forcing reload. 
+Mar  8 05:13:02 avas clamd[27173]: Reading databases from /usr/local/share/clamav 
+Mar  8 05:13:02 avas clamd[27173]: Database correctly reloaded (20403 viruses) 
+Mar  8 06:13:39 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 07:14:15 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 08:14:52 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 08:24:29 avas dccifd[19670]: write(MTA socket,4): Broken pipe
+Mar  8 09:01:07 avas sshd(pam_unix)[21839]: session opened for user tom by (uid=35567)
+Mar  8 09:15:30 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 10:16:06 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 10:17:52 avas sshd(pam_unix)[24556]: session opened for user tom by (uid=35567)
+Mar  8 10:24:35 avas dccifd[25077]: write(MTA socket,4): Broken pipe
+Mar  8 10:24:42 avas dccifd[25083]: write(MTA socket,4): Broken pipe
+Mar  8 11:16:43 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 11:19:53 avas named[27554]: starting BIND 9.2.3
+Mar  8 11:19:53 avas named[27554]: using 1 CPU
+Mar  8 11:19:53 avas named[27554]: loading configuration from '/etc/named.conf'
+Mar  8 11:19:53 avas named[27554]: listening on IPv4 interface lo, 127.0.0.1#53
+Mar  8 11:19:53 avas named[27554]: listening on IPv4 interface eth0, 10.0.0.214#53
+Mar  8 11:19:53 avas named[27554]: command channel listening on 127.0.0.1#953
+Mar  8 11:19:53 avas named[27554]: running
+Mar  8 11:20:23 avas sshd(pam_unix)[24556]: session closed for user tom
+Mar  8 11:30:48 avas sshd(pam_unix)[28104]: session opened for user tom by (uid=35567)
+Mar  8 12:06:00 avas sshd(pam_unix)[29619]: session opened for user tom by (uid=35567)
+Mar  8 12:06:01 avas sshd(pam_unix)[29619]: session closed for user tom
+Mar  8 12:10:00 avas sshd(pam_unix)[28104]: session closed for user tom
+Mar  8 12:17:20 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 12:24:36 avas dccifd[30364]: write(MTA socket,4): Broken pipe
+Mar  8 13:17:57 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 14:18:34 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 14:24:56 avas dccifd[2062]: missing message body
+Mar  8 14:24:58 avas dccifd[2036]: write(MTA socket,4): Broken pipe
+Mar  8 14:25:05 avas dccifd[2042]: write(MTA socket,4): Broken pipe
+Mar  8 14:25:13 avas dccifd[2048]: write(MTA socket,4): Broken pipe
+Mar  8 14:25:20 avas dccifd[2049]: write(MTA socket,4): Broken pipe
+Mar  8 14:25:28 avas dccifd[2050]: write(MTA socket,4): Broken pipe
+Mar  8 14:25:35 avas dccifd[2051]: write(MTA socket,4): Broken pipe
+Mar  8 14:25:43 avas dccifd[2052]: write(MTA socket,4): Broken pipe
+Mar  8 14:25:50 avas dccifd[2053]: write(MTA socket,4): Broken pipe
+Mar  8 14:25:58 avas dccifd[2054]: write(MTA socket,4): Broken pipe
+Mar  8 14:57:30 avas arpwatch: changed ethernet address 10.0.0.9 0:a0:c9:5a:68:1 (0:1:2e:1:c9:88)
+Mar  8 15:01:48 avas arpwatch: bogon 0.0.0.0 0:50:ba:56:c6:af
+Mar  8 15:15:06 avas sshd(pam_unix)[3749]: session opened for user tom by (uid=35567)
+Mar  8 15:15:38 avas sshd(pam_unix)[3749]: session closed for user tom
+Mar  8 15:18:09 avas arpwatch: bogon 192.197.226.200 0:c0:b7:68:e2:9
+Mar  8 15:18:40 avas last message repeated 11 times
+Mar  8 15:19:11 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 16:05:26 avas arpwatch: listening on eth0
+Mar  8 16:06:02 avas sshd(pam_unix)[5444]: session opened for user tom by (uid=35567)
+Mar  8 16:06:03 avas sshd(pam_unix)[5444]: session closed for user tom
+Mar  8 16:07:10 avas sshd(pam_unix)[21839]: session closed for user tom
+Mar  8 16:19:48 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 17:20:25 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 18:21:01 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 19:01:33 avas dccd[13284]: no incoming flood connection from dcc1.example.no, server-ID XXXX
+Mar  8 19:02:03 avas dccd[13284]: no outgoing flood connection to dcc1.example.no, server-ID XXXX
+Mar  8 19:21:38 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 20:22:15 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 21:22:51 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 22:23:28 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  8 23:24:05 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 00:00:00 avas dccifd[13451]: 1.2.32 rejected messages to 0 targets and discarded messages to 0 targets among 3588 total since 03/08/04 00:00:00
+Mar  9 00:24:41 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 01:25:18 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 02:25:54 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 03:26:31 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 03:48:07 avas dccd[18781]: automatic dbclean; starting `dbclean -DPq -i 1189 -L info,local5.notice -L error,local5.err`
+Mar  9 03:48:07 avas dbclean[18781]: 1.2.32 cleaning dcc_db
+Mar  9 03:48:07 avas dccd[13284]: database cleaning begun
+Mar  9 03:49:47 avas dbclean[18781]: expired 3200772 records and 8671866 checksums in /home/dcc/dcc_db
+Mar  9 03:50:42 avas dbclean[18781]: hashed 8727961 records containing 19037720 checksums, compressed 813975 records
+Mar  9 03:50:42 avas dbclean[18781]: 23347200 hash entries total, 14648638 or 62% used
+Mar  9 03:51:22 avas dccd[13284]: 1.2.32 database /home/dcc/dcc_db reopened with 997 MByte window
+Mar  9 04:27:07 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 05:27:44 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 06:28:20 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 07:28:57 avas clamd[27173]: SelfCheck: Database modification detected. Forcing reload. 
+Mar  9 07:28:57 avas clamd[27173]: Reading databases from /usr/local/share/clamav 
+Mar  9 07:28:57 avas clamd[27173]: Database correctly reloaded (20413 viruses) 
+Mar  9 07:59:12 avas dccifd[23645]: missing message body
+Mar  9 08:29:34 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 09:30:11 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 09:37:17 avas dccifd[27686]: missing message body
+Mar  9 09:38:29 avas dccifd[27715]: missing message body
+Mar  9 10:30:48 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 10:32:42 avas dccifd[29735]: write(MTA socket,4): Broken pipe
+Mar  9 10:32:50 avas dccifd[29736]: write(MTA socket,4): Broken pipe
+Mar  9 10:40:47 avas sshd(pam_unix)[30036]: session opened for user tom by (uid=35567)
+Mar  9 11:31:25 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 11:43:33 avas dccifd[32436]: no answer from 127.0.0.1 (127.0.0.1,6277) after 16012 ms
+Mar  9 11:43:33 avas dccifd[32436]: write(MTA socket,4): Broken pipe
+Mar  9 11:43:39 avas dccd[13284]: gracefully stopping
+Mar  9 11:43:39 avas dccd[13284]: stopped
+Mar  9 11:43:57 avas dccd[3004]: 1.2.33 listening to port 6277 with /home/dcc and 997 MByte window
+Mar  9 11:43:59 avas dccifd[13451]: 1.2.32 rejected messages to 0 targets and discarded messages to 0 targets among 1638 total since 03/09/04 00:00:00
+Mar  9 11:44:03 avas dccifd[3080]: 1.2.33 listening to /home/dcc/dccifd
+Mar  9 11:47:28 avas dccd[3004]: increase from 800 to 1600 RL blocks
+Mar  9 11:54:18 avas dccd[3004]: increase from 1600 to 2400 RL blocks
+Mar  9 11:58:02 avas kernel: Intel 810 + AC97 Audio, version 0.24, 11:37:29 Dec 18 2003
+Mar  9 11:58:02 avas kernel: PCI: Sharing IRQ 11 with 00:1f.3
+Mar  9 11:58:02 avas kernel: PCI: Sharing IRQ 11 with 01:0c.0
+Mar  9 11:58:02 avas kernel: i810: Intel ICH4 mmio at 0xf8a18000 and 0xf8a1a000
+Mar  9 11:58:03 avas kernel: i810_audio: Primary codec has ID 2
+Mar  9 11:58:03 avas kernel: i810_audio: Audio Controller supports 6 channels.
+Mar  9 11:58:03 avas kernel: i810_audio: Defaulting to base 2 channel mode.
+Mar  9 11:58:03 avas kernel: i810_audio: Resetting connection 0
+Mar  9 11:58:03 avas kernel: i810_audio: Connection 0 with codec id 2
+Mar  9 11:58:03 avas kernel: ac97_codec: AC97 Audio codec, id: ALG48 (Unknown)
+Mar  9 11:58:03 avas kernel: i810_audio: only 48Khz playback available.
+Mar  9 11:58:03 avas kernel: i810_audio: AC'97 codec 2 supports AMAP, total channels = 2
+Mar  9 11:58:18 avas kernel: Intel 810 + AC97 Audio, version 0.24, 11:37:29 Dec 18 2003
+Mar  9 11:58:18 avas kernel: PCI: Sharing IRQ 11 with 00:1f.3
+Mar  9 11:58:18 avas kernel: PCI: Sharing IRQ 11 with 01:0c.0
+Mar  9 11:58:18 avas kernel: i810: Intel ICH4 mmio at 0xf8a18000 and 0xf8a1a000
+Mar  9 11:58:18 avas kernel: i810_audio: Primary codec has ID 2
+Mar  9 11:58:18 avas kernel: i810_audio: Audio Controller supports 6 channels.
+Mar  9 11:58:18 avas kernel: i810_audio: Defaulting to base 2 channel mode.
+Mar  9 11:58:18 avas kernel: i810_audio: Resetting connection 0
+Mar  9 11:58:18 avas kernel: i810_audio: Connection 0 with codec id 2
+Mar  9 11:58:18 avas kernel: ac97_codec: AC97 Audio codec, id: ALG48 (Unknown)
+Mar  9 11:58:18 avas kernel: i810_audio: only 48Khz playback available.
+Mar  9 11:58:18 avas kernel: i810_audio: AC'97 codec 2 supports AMAP, total channels = 2
+Mar  9 12:02:13 avas dccd[3004]: increase from 2400 to 3200 RL blocks
+Mar  9 12:06:05 avas sshd(pam_unix)[4019]: session opened for user tom by (uid=35567)
+Mar  9 12:06:07 avas sshd(pam_unix)[4019]: session closed for user tom
+Mar  9 12:11:54 avas dccd[3004]: increase from 3200 to 4000 RL blocks
+Mar  9 12:23:26 avas dccd[3004]: increase from 4000 to 4800 RL blocks
+Mar  9 12:32:02 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 12:36:49 avas dccd[3004]: increase from 4800 to 5600 RL blocks
+Mar  9 12:52:54 avas dccd[3004]: increase from 5600 to 6400 RL blocks
+Mar  9 13:12:47 avas arpwatch: flip flop 10.0.0.172 0:2:b3:a6:a7:d8 (0:2:b3:eb:67:e)
+Mar  9 13:12:47 avas arpwatch: flip flop 10.0.0.141 0:2:b3:a6:a7:d8 (0:2:b3:eb:67:e)
+Mar  9 13:12:47 avas arpwatch: flip flop 10.0.0.215 0:2:b3:a6:a7:d8 (0:2:b3:eb:67:e)
+Mar  9 13:13:16 avas dccd[3004]: increase from 6400 to 7200 RL blocks
+Mar  9 13:32:39 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 13:34:26 avas dccd[3004]: increase from 7200 to 8000 RL blocks
+Mar  9 13:43:11 avas sshd(pam_unix)[30036]: session closed for user tom
+Mar  9 13:45:04 avas dccifd[7167]: write(MTA socket,84): Broken pipe
+Mar  9 13:45:19 avas sshd(pam_unix)[7180]: session opened for user tom by (uid=35567)
+Mar  9 13:47:08 avas sa: spamd shutdown succeeded
+Mar  9 13:54:38 avas dccifd[7597]: no answer from 127.0.0.1 (127.0.0.1,6277) after 14411 ms
+Mar  9 13:54:38 avas dccifd[7597]: write(MTA socket,5): Broken pipe
+Mar  9 13:54:40 avas dccifd[7598]: write(MTA socket,84): Broken pipe
+Mar  9 13:54:41 avas dccifd[7610]: continue not asking DCC 5 seconds after failure
+Mar  9 14:33:16 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 14:37:15 avas dccd[3004]: increase from 8000 to 8800 RL blocks
+Mar  9 14:44:11 avas named[27554]: loading configuration from '/etc/named.conf'
+Mar  9 15:20:25 avas named[27554]: shutting down: flushing changes
+Mar  9 15:20:25 avas named[27554]: stopping command channel on 127.0.0.1#953
+Mar  9 15:20:25 avas named[27554]: no longer listening on 127.0.0.1#53
+Mar  9 15:20:25 avas named[27554]: no longer listening on 10.0.0.214#53
+Mar  9 15:20:25 avas named[27554]: exiting
+Mar  9 15:25:20 avas sshd(pam_unix)[10514]: session opened for user tom by (uid=35567)
+Mar  9 15:33:53 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 16:02:45 avas sshd(pam_unix)[10514]: session closed for user tom
+Mar  9 16:02:53 avas named[12045]: starting BIND 9.2.3
+Mar  9 16:02:53 avas named[12045]: using 1 CPU
+Mar  9 16:02:53 avas named[12045]: loading configuration from '/etc/named.conf'
+Mar  9 16:02:53 avas named[12045]: listening on IPv4 interface lo, 127.0.0.1#53
+Mar  9 16:02:53 avas named[12045]: listening on IPv4 interface eth0, 10.0.0.214#53
+Mar  9 16:02:53 avas named[12045]: command channel listening on 127.0.0.1#953
+Mar  9 16:02:53 avas named[12045]: zone 0.0.127.in-addr.arpa/IN: loading zone: no master file configured
+Mar  9 16:02:53 avas named[12045]: running
+Mar  9 16:02:53 avas named[12045]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar  9 16:03:14 avas sshd(pam_unix)[7180]: session closed for user tom
+Mar  9 16:03:40 avas named[12045]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar  9 16:05:17 avas named[12045]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar  9 16:06:04 avas sshd(pam_unix)[12054]: session opened for user tom by (uid=35567)
+Mar  9 16:06:06 avas sshd(pam_unix)[12054]: session closed for user tom
+Mar  9 16:08:47 avas named[12045]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar  9 16:15:02 avas named[12045]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar  9 16:29:21 avas named[12045]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar  9 16:34:31 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 16:56:31 avas named[12045]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar  9 17:35:09 avas clamd[27173]: SelfCheck: Database modification detected. Forcing reload. 
+Mar  9 17:35:09 avas clamd[27173]: Reading databases from /usr/local/share/clamav 
+Mar  9 17:35:09 avas clamd[27173]: Database correctly reloaded (20426 viruses) 
+Mar  9 17:51:14 avas named[12045]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar  9 18:35:46 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 19:01:38 avas dccd[3004]: no incoming flood connection from dcc1.example.no, server-ID XXXX
+Mar  9 19:02:08 avas dccd[3004]: no outgoing flood connection to dcc1.example.no, server-ID XXXX
+Mar  9 19:28:29 avas named[12045]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar  9 19:36:22 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 19:41:13 avas dccd[3004]: "packet length 44 too small for REPORT" sent to client 1 at 194.63.250.215,47577
+Mar  9 20:37:00 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 21:37:36 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 22:38:13 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar  9 23:32:27 avas dccd[3004]: increase from 8800 to 9600 RL blocks
+Mar  9 23:36:34 avas named[12045]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar  9 23:38:49 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 00:00:00 avas dccifd[3080]: 1.2.33 rejected messages to 0 targets and discarded messages to 0 targets among 2019 total since 03/09/04 11:44:03
+Mar 10 00:01:20 avas dccd[3004]: "packet length 44 too small for REPORT" sent to client 1 at 213.170.185.1,40729
+Mar 10 00:36:33 avas dccifd[23002]: no answer from 127.0.0.1 (127.0.0.1,6277) after 16012 ms
+Mar 10 00:36:33 avas dccifd[23002]: write(MTA socket,5): Broken pipe
+Mar 10 00:36:35 avas dccifd[23025]: continue not asking DCC 6 seconds after failure
+Mar 10 00:36:36 avas dccifd[23026]: continue not asking DCC 5 seconds after failure
+Mar 10 00:36:38 avas dccifd[23029]: continue not asking DCC 3 seconds after failure
+Mar 10 00:36:43 avas dccifd[23021]: write(MTA socket,76): Broken pipe
+Mar 10 00:36:44 avas dccifd[23022]: write(MTA socket,93): Broken pipe
+Mar 10 00:37:18 avas dccifd[23037]: no answer from 127.0.0.1 (127.0.0.1,6277) after 16010 ms
+Mar 10 00:37:18 avas dccifd[23037]: write(MTA socket,5): Broken pipe
+Mar 10 00:37:24 avas dccifd[23038]: no answer from 127.0.0.1 (127.0.0.1,6277) after 16010 ms
+Mar 10 00:37:24 avas dccifd[23038]: write(MTA socket,5): Broken pipe
+Mar 10 00:37:29 avas dccifd[23039]: no answer from 127.0.0.1 (127.0.0.1,6277) after 16039 ms
+Mar 10 00:37:29 avas dccifd[23039]: write(MTA socket,5): Broken pipe
+Mar 10 00:37:29 avas dccifd[23040]: no answer from 127.0.0.1 (127.0.0.1,6277) after 16008 ms
+Mar 10 00:37:29 avas dccifd[23040]: write(MTA socket,5): Broken pipe
+Mar 10 00:37:44 avas dccifd[23052]: continue not asking DCC 49 seconds after failure
+Mar 10 00:37:45 avas dccifd[23053]: continue not asking DCC 48 seconds after failure
+Mar 10 00:37:59 avas dccifd[23057]: continue not asking DCC 34 seconds after failure
+Mar 10 00:38:02 avas dccifd[23058]: continue not asking DCC 31 seconds after failure
+Mar 10 00:38:16 avas dccifd[23069]: continue not asking DCC 17 seconds after failure
+Mar 10 00:38:18 avas dccifd[23070]: continue not asking DCC 15 seconds after failure
+Mar 10 00:38:20 avas dccifd[23071]: continue not asking DCC 13 seconds after failure
+Mar 10 00:39:26 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 01:40:02 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 02:40:39 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 03:41:15 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 04:41:51 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 04:48:56 avas named[12045]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar 10 05:42:27 avas clamd[27173]: SelfCheck: Database modification detected. Forcing reload. 
+Mar 10 05:42:28 avas clamd[27173]: Reading databases from /usr/local/share/clamav 
+Mar 10 05:42:28 avas clamd[27173]: Database correctly reloaded (20427 viruses) 
+Mar 10 05:47:33 avas dccifd[28288]: write(MTA socket,87): Broken pipe
+Mar 10 06:02:40 avas dccifd[28562]: no answer from 127.0.0.1 (127.0.0.1,6277) after 8288 ms
+Mar 10 06:02:44 avas dccifd[28567]: no answer from 127.0.0.1 (127.0.0.1,6277) after 8280 ms
+Mar 10 06:02:46 avas dccifd[28570]: continue not asking DCC 14 seconds after failure
+Mar 10 06:43:05 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 07:43:41 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 08:11:01 avas sshd(pam_unix)[31289]: session opened for user tom by (uid=35567)
+Mar 10 08:35:21 avas dccd[3004]: gracefully stopping
+Mar 10 08:35:21 avas dccd[3004]: stopped
+Mar 10 08:35:25 avas dccifd[32234]: continue not asking DCC 8 seconds after failure
+Mar 10 08:35:29 avas dccifd[1692]: continue not asking DCC 4 seconds after failure
+Mar 10 08:35:29 avas dccifd[1738]: continue not asking DCC 4 seconds after failure
+Mar 10 08:35:30 avas dccifd[1812]: continue not asking DCC 3 seconds after failure
+Mar 10 08:35:42 avas dccd[2818]: 1.2.35 listening to port 6277 with /home/dcc and 997 MByte window
+Mar 10 08:35:43 avas dccifd[3080]: 1.2.33 rejected messages to 0 targets and discarded messages to 0 targets among 789 total since 03/10/04 00:00:00
+Mar 10 08:35:48 avas dccifd[2897]: 1.2.35 listening to /home/dcc/dccifd
+Mar 10 08:39:46 avas dccd[2818]: increase from 800 to 1600 RL blocks
+Mar 10 08:44:18 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 08:47:00 avas dccd[2818]: increase from 1600 to 2400 RL blocks
+Mar 10 08:55:18 avas dccd[2818]: increase from 2400 to 3200 RL blocks
+Mar 10 09:04:27 avas dccd[2818]: increase from 3200 to 4000 RL blocks
+Mar 10 09:15:39 avas dccd[2818]: increase from 4000 to 4800 RL blocks
+Mar 10 09:28:00 avas dccd[2818]: increase from 4800 to 5600 RL blocks
+Mar 10 09:39:58 avas named[12045]: loading configuration from '/etc/named.conf'
+Mar 10 09:39:58 avas named[12045]: zone 0.0.127.in-addr.arpa/IN: loading zone: no master file configured
+Mar 10 09:39:58 avas named[12045]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar 10 09:40:47 avas sshd(pam_unix)[6237]: session opened for user tom by (uid=35567)
+Mar 10 09:40:58 avas named[12045]: query logging is now on
+Mar 10 09:40:58 avas named[12045]: client 127.0.0.1#55437: query: district.vanderhoof.ca IN MX
+Mar 10 09:41:01 avas named[12045]: client 127.0.0.1#55438: query: 163.87.170.213.in-addr.arpa IN PTR
+Mar 10 09:41:03 avas named[12045]: client 127.0.0.1#55439: query: 209.192.72.217.in-addr.arpa IN PTR
+Mar 10 09:41:04 avas named[12045]: client 127.0.0.1#55440: query: unbc.ca.dsn.rfc-ignorant.org IN A
+Mar 10 09:41:04 avas named[12045]: client 127.0.0.1#55441: query: 98.144.207.142.ipwhois.rfc-ignorant.org IN TXT
+Mar 10 09:41:04 avas named[12045]: client 127.0.0.1#55442: query: 98.144.207.142.sbl.spamhaus.org IN TXT
+Mar 10 09:41:04 avas named[12045]: client 127.0.0.1#55443: query: 98.144.207.142.dnsbl.sorbs.net IN A
+Mar 10 09:41:05 avas named[12045]: client 127.0.0.1#55444: query: 98.144.207.142.bl.spamcop.net IN TXT
+Mar 10 09:41:05 avas named[12045]: client 127.0.0.1#55445: query: 98.144.207.142.list.dsbl.org IN TXT
+Mar 10 09:41:05 avas named[12045]: client 127.0.0.1#55446: query: 98.144.207.142.dnsbl.njabl.org IN A
+Mar 10 09:41:05 avas named[12045]: client 127.0.0.1#55447: query: 98.144.207.142.sa-trusted.bondedsender.org IN TXT
+Mar 10 09:41:05 avas named[12045]: client 127.0.0.1#55448: query: 98.144.207.142.opm.blitzed.org IN A
+Mar 10 09:41:05 avas named[12045]: client 127.0.0.1#55449: query: unbc.ca IN MX
+Mar 10 09:41:06 avas named[12045]: client 127.0.0.1#55450: query: telsur.cl.dsn.rfc-ignorant.org IN A
+Mar 10 09:41:07 avas named[12045]: client 127.0.0.1#55451: query: 163.87.170.213.ipwhois.rfc-ignorant.org IN TXT
+Mar 10 09:41:08 avas named[12045]: client 127.0.0.1#55452: query: 163.87.170.213.sbl.spamhaus.org IN TXT
+Mar 10 09:41:11 avas named[12045]: client 127.0.0.1#55453: query: 163.87.170.213.dnsbl.sorbs.net IN A
+Mar 10 09:41:13 avas named[12045]: client 127.0.0.1#55454: query: 163.87.170.213.bl.spamcop.net IN TXT
+Mar 10 09:41:14 avas named[12045]: client 127.0.0.1#55455: query: 163.87.170.213.list.dsbl.org IN TXT
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55456: query: 163.87.170.213.dnsbl.njabl.org IN A
+Mar 10 09:41:15 avas dccifd[6310]: no answer from 127.0.0.1 (127.0.0.1,6277) after 7516 ms
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55457: query: 163.87.170.213.sa-trusted.bondedsender.org IN TXT
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55458: query: 163.87.170.213.opm.blitzed.org IN A
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55459: query: 209.192.72.217.sa-other.bondedsender.org IN TXT
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55460: query: 11.224.133.80.sa-other.bondedsender.org IN TXT
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55461: query: web.de.dsn.rfc-ignorant.org IN A
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55462: query: httpd.apache.org.dsn.rfc-ignorant.org IN A
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55463: query: 11.224.133.80.ipwhois.rfc-ignorant.org IN TXT
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55464: query: 209.192.72.217.ipwhois.rfc-ignorant.org IN TXT
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55465: query: 12.179.185.208.ipwhois.rfc-ignorant.org IN TXT
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55466: query: 11.224.133.80.sbl.spamhaus.org IN TXT
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55467: query: 209.192.72.217.sbl.spamhaus.org IN TXT
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55468: query: 12.179.185.208.sbl.spamhaus.org IN TXT
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55469: query: 11.224.133.80.dnsbl.sorbs.net IN A
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55470: query: 209.192.72.217.dnsbl.sorbs.net IN A
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55471: query: 12.179.185.208.dnsbl.sorbs.net IN A
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55472: query: 11.224.133.80.bl.spamcop.net IN TXT
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55473: query: 209.192.72.217.bl.spamcop.net IN TXT
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55474: query: 12.179.185.208.bl.spamcop.net IN TXT
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55475: query: 11.224.133.80.list.dsbl.org IN TXT
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55476: query: 209.192.72.217.list.dsbl.org IN TXT
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55478: query: 12.179.185.208.list.dsbl.org IN TXT
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55479: query: 12.179.185.208.dnsbl.njabl.org IN A
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55480: query: 209.192.72.217.dnsbl.njabl.org IN A
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55481: query: 12.179.185.208.sa-trusted.bondedsender.org IN TXT
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55482: query: 11.224.133.80.opm.blitzed.org IN A
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55483: query: 209.192.72.217.opm.blitzed.org IN A
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55484: query: 12.179.185.208.opm.blitzed.org IN A
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55485: query: 11.224.133.80.dnsbl.njabl.org IN A
+Mar 10 09:41:15 avas named[12045]: client 127.0.0.1#55488: query: telsur.cl IN MX
+Mar 10 09:41:16 avas dccifd[6313]: continue not asking DCC 6 seconds after failure
+Mar 10 09:41:16 avas named[12045]: client 127.0.0.1#55492: query: httpd.apache.org IN MX
+Mar 10 09:41:17 avas named[12045]: client 127.0.0.1#55496: query: aol.com.dsn.rfc-ignorant.org IN A
+Mar 10 09:41:17 avas named[12045]: client 127.0.0.1#55497: query: 21.138.12.64.ipwhois.rfc-ignorant.org IN TXT
+Mar 10 09:41:17 avas named[12045]: client 127.0.0.1#55498: query: 21.138.12.64.sbl.spamhaus.org IN TXT
+Mar 10 09:41:17 avas named[12045]: client 127.0.0.1#55499: query: 21.138.12.64.dnsbl.sorbs.net IN A
+Mar 10 09:41:17 avas named[12045]: client 127.0.0.1#55501: query: 21.138.12.64.bl.spamcop.net IN TXT
+Mar 10 09:41:17 avas named[12045]: client 127.0.0.1#55502: query: 21.138.12.64.list.dsbl.org IN TXT
+Mar 10 09:41:17 avas named[12045]: client 127.0.0.1#55503: query: 21.138.12.64.dnsbl.njabl.org IN A
+Mar 10 09:41:17 avas named[12045]: client 127.0.0.1#55504: query: 21.138.12.64.sa-trusted.bondedsender.org IN TXT
+Mar 10 09:41:17 avas named[12045]: client 127.0.0.1#55505: query: 21.138.12.64.opm.blitzed.org IN A
+Mar 10 09:41:18 avas dccifd[6319]: continue not asking DCC 4 seconds after failure
+Mar 10 09:41:18 avas named[12045]: client 127.0.0.1#55508: query: aol.com IN MX
+Mar 10 09:41:26 avas named[12045]: client 127.0.0.1#55509: query: dns1.gov.bc.ca IN MX
+Mar 10 09:41:32 avas named[12045]: client 127.0.0.1#55511: query: compiling.spamassassin.taint.org.dsn.rfc-ignorant.org IN A
+Mar 10 09:42:06 avas named[12045]: client 127.0.0.1#55514: query: 251.70.27.142.in-addr.arpa IN PTR
+Mar 10 09:42:11 avas named[12045]: client 127.0.0.1#55516: query: 23.68.27.142.list.dsbl.org IN TXT
+Mar 10 09:42:11 avas named[12045]: client 127.0.0.1#55517: query: 23.68.27.142.dnsbl.njabl.org IN A
+Mar 10 09:42:11 avas named[12045]: client 127.0.0.1#55518: query: cnc.bc.ca.dsn.rfc-ignorant.org IN A
+Mar 10 09:42:11 avas named[12045]: client 127.0.0.1#55519: query: 23.68.27.142.sbl.spamhaus.org IN TXT
+Mar 10 09:42:11 avas named[12045]: client 127.0.0.1#55520: query: 23.68.27.142.dnsbl.sorbs.net IN A
+Mar 10 09:42:11 avas named[12045]: client 127.0.0.1#55521: query: 23.68.27.142.bl.spamcop.net IN TXT
+Mar 10 09:42:11 avas named[12045]: client 127.0.0.1#55522: query: 23.68.27.142.ipwhois.rfc-ignorant.org IN TXT
+Mar 10 09:42:11 avas named[12045]: client 127.0.0.1#55523: query: 23.68.27.142.opm.blitzed.org IN A
+Mar 10 09:42:11 avas named[12045]: client 127.0.0.1#55524: query: 23.68.27.142.sa-trusted.bondedsender.org IN TXT
+Mar 10 09:42:12 avas named[12045]: shutting down: flushing changes
+Mar 10 09:42:12 avas named[12045]: stopping command channel on 127.0.0.1#953
+Mar 10 09:42:12 avas named[12045]: no longer listening on 127.0.0.1#53
+Mar 10 09:42:12 avas named[12045]: no longer listening on 10.0.0.214#53
+Mar 10 09:42:12 avas named[12045]: exiting
+Mar 10 09:42:27 avas named[6416]: starting BIND 9.2.3 -d 10
+Mar 10 09:42:27 avas named[6416]: using 1 CPU
+Mar 10 09:42:27 avas named[6416]: loading configuration from '/etc/named.conf'
+Mar 10 09:42:27 avas named[6416]: listening on IPv4 interface lo, 127.0.0.1#53
+Mar 10 09:42:27 avas named[6416]: listening on IPv4 interface eth0, 10.0.0.214#53
+Mar 10 09:42:27 avas named[6416]: command channel listening on 127.0.0.1#953
+Mar 10 09:42:27 avas named[6416]: zone 0.0.127.in-addr.arpa/IN: loading zone: no master file configured
+Mar 10 09:42:27 avas named[6416]: running
+Mar 10 09:42:27 avas named[6416]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar 10 09:43:04 avas named[6416]: query logging is now on
+Mar 10 09:43:05 avas dccd[2818]: increase from 5600 to 6400 RL blocks
+Mar 10 09:43:14 avas named[6416]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar 10 09:43:17 avas named[6416]: client 127.0.0.1#55631: query: dns4.gov.bc.ca IN MX
+Mar 10 09:43:22 avas named[6416]: client 127.0.0.1#55632: query: aim.cnc.bc.ca IN MX
+Mar 10 09:43:27 avas named[6416]: client 127.0.0.1#55632: query: cim.cnc.bc.ca IN MX
+Mar 10 09:44:30 avas named[6416]: client 127.0.0.1#55636: query: www.west-fraser.com IN A
+Mar 10 09:44:45 avas named[6416]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar 10 09:44:56 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 09:48:02 avas named[6416]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar 10 09:51:20 avas named[6416]: client 127.0.0.1#55701: query: nvit.bc.ca IN MX
+Mar 10 09:51:35 avas last message repeated 3 times
+Mar 10 09:51:40 avas named[6416]: client 127.0.0.1#55703: query: nvit.bc.ca IN A
+Mar 10 09:51:43 avas named[6416]: client 127.0.0.1#55706: query: unbc.ca IN MX
+Mar 10 09:51:45 avas named[6416]: client 127.0.0.1#55707: query: telusplanet.net IN MX
+Mar 10 09:51:45 avas named[6416]: client 127.0.0.1#55703: query: nvit.bc.ca IN A
+Mar 10 09:51:48 avas named[6416]: client 127.0.0.1#55706: query: unbc.ca IN MX
+Mar 10 09:51:50 avas named[6416]: client 127.0.0.1#55707: query: telusplanet.net IN MX
+Mar 10 09:51:50 avas named[6416]: client 127.0.0.1#55703: query: nvit.bc.ca IN A
+Mar 10 09:51:53 avas named[6416]: client 127.0.0.1#55706: query: unbc.ca IN MX
+Mar 10 09:51:55 avas named[6416]: client 127.0.0.1#55707: query: telusplanet.net IN MX
+Mar 10 09:51:55 avas named[6416]: client 127.0.0.1#55703: query: nvit.bc.ca IN A
+Mar 10 09:51:58 avas named[6416]: client 127.0.0.1#55706: query: unbc.ca IN MX
+Mar 10 09:52:00 avas named[6416]: client 127.0.0.1#55707: query: telusplanet.net IN MX
+Mar 10 09:52:03 avas named[6416]: client 127.0.0.1#55710: query: unbc.ca IN A
+Mar 10 09:52:05 avas named[6416]: client 127.0.0.1#55711: query: telusplanet.net IN A
+Mar 10 09:52:08 avas named[6416]: client 127.0.0.1#55710: query: unbc.ca IN A
+Mar 10 09:52:10 avas named[6416]: client 127.0.0.1#55711: query: telusplanet.net IN A
+Mar 10 09:52:13 avas named[6416]: client 127.0.0.1#55710: query: unbc.ca IN A
+Mar 10 09:52:15 avas named[6416]: client 127.0.0.1#55711: query: telusplanet.net IN A
+Mar 10 09:52:18 avas named[6416]: client 127.0.0.1#55710: query: unbc.ca IN A
+Mar 10 09:52:20 avas named[6416]: client 127.0.0.1#55711: query: telusplanet.net IN A
+Mar 10 09:52:29 avas named[6416]: loading configuration from '/etc/named.conf'
+Mar 10 09:52:29 avas named[6416]: zone 0.0.127.in-addr.arpa/IN: loading zone: no master file configured
+Mar 10 09:52:29 avas named[6416]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar 10 09:52:30 avas named[6416]: zone PLNet/IN: refresh: non-authoritative answer from master 192.75.26.21#53
+Mar 10 09:52:40 avas named[6416]: client 127.0.0.1#55739: query: vcc.ca IN MX
+Mar 10 09:52:55 avas last message repeated 3 times
+Mar 10 09:52:55 avas named[6416]: shutting down: flushing changes
+Mar 10 09:52:55 avas named[6416]: stopping command channel on 127.0.0.1#953
+Mar 10 09:52:55 avas named[6416]: no longer listening on 127.0.0.1#53
+Mar 10 09:52:55 avas named[6416]: no longer listening on 10.0.0.214#53
+Mar 10 09:52:55 avas named[6416]: exiting
+Mar 10 09:53:09 avas named[6791]: starting BIND 9.2.3 -d 10 -f
+Mar 10 09:53:09 avas named[6791]: using 1 CPU
+Mar 10 09:53:09 avas named[6791]: loading configuration from '/etc/named.conf'
+Mar 10 09:53:09 avas named[6791]: listening on IPv4 interface lo, 127.0.0.1#53
+Mar 10 09:53:09 avas named[6791]: listening on IPv4 interface eth0, 10.0.0.214#53
+Mar 10 09:53:09 avas named[6791]: command channel listening on 127.0.0.1#953
+Mar 10 09:53:09 avas named[6791]: zone 0.0.127.in-addr.arpa/IN: loading zone: no master file configured
+Mar 10 09:53:09 avas named[6791]: running
+Mar 10 09:53:09 avas named[6791]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar 10 09:53:09 avas named[6791]: zone PLNet/IN: refresh: non-authoritative answer from master 192.75.26.21#53
+Mar 10 09:53:30 avas named[6791]: loading configuration from '/etc/named.conf'
+Mar 10 09:53:30 avas named[6791]: zone 0.0.127.in-addr.arpa/IN: loading zone: no master file configured
+Mar 10 09:53:30 avas named[6791]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar 10 09:53:30 avas named[6791]: zone PLNet/IN: refresh: non-authoritative answer from master 192.75.26.21#53
+Mar 10 09:53:39 avas named[6791]: query logging is now on
+Mar 10 09:53:44 avas named[6791]: client 127.0.0.1#55745: query: telus.net IN MX
+Mar 10 09:53:44 avas named[6791]: client 127.0.0.1#55746: query: wcb.bc.ca IN MX
+Mar 10 09:53:49 avas named[6791]: client 127.0.0.1#55747: query: unbc.ca IN MX
+Mar 10 09:53:49 avas named[6791]: client 127.0.0.1#55745: query: telus.net IN MX
+Mar 10 09:53:49 avas named[6791]: client 127.0.0.1#55746: query: wcb.bc.ca IN MX
+Mar 10 09:53:54 avas named[6791]: client 127.0.0.1#55747: query: unbc.ca IN MX
+Mar 10 09:53:54 avas named[6791]: client 127.0.0.1#55748: query: telus.net IN A
+Mar 10 09:53:54 avas named[6791]: client 127.0.0.1#55749: query: wcb.bc.ca IN A
+Mar 10 09:53:58 avas named[6791]: client 127.0.0.1#55751: query: hotmail.com IN MX
+Mar 10 09:53:59 avas named[6791]: client 127.0.0.1#55747: query: unbc.ca IN MX
+Mar 10 09:53:59 avas named[6791]: client 127.0.0.1#55748: query: telus.net IN A
+Mar 10 09:53:59 avas named[6791]: client 127.0.0.1#55749: query: wcb.bc.ca IN A
+Mar 10 09:54:03 avas named[6791]: client 127.0.0.1#55751: query: hotmail.com IN MX
+Mar 10 09:54:03 avas named[6791]: client 127.0.0.1#55753: query: shaw.ca IN MX
+Mar 10 09:54:04 avas named[6791]: client 127.0.0.1#55747: query: unbc.ca IN MX
+Mar 10 09:54:04 avas named[6791]: client 127.0.0.1#55748: query: telus.net IN A
+Mar 10 09:54:04 avas named[6791]: client 127.0.0.1#55749: query: wcb.bc.ca IN A
+Mar 10 09:54:08 avas named[6791]: client 127.0.0.1#55751: query: hotmail.com IN MX
+Mar 10 09:54:08 avas named[6791]: client 127.0.0.1#55753: query: shaw.ca IN MX
+Mar 10 09:54:09 avas named[6791]: client 127.0.0.1#55754: query: unbc.ca IN A
+Mar 10 09:54:09 avas named[6791]: client 127.0.0.1#55748: query: telus.net IN A
+Mar 10 09:54:09 avas named[6791]: client 127.0.0.1#55749: query: wcb.bc.ca IN A
+Mar 10 09:54:13 avas named[6791]: client 127.0.0.1#55751: query: hotmail.com IN MX
+Mar 10 09:54:13 avas named[6791]: client 127.0.0.1#55753: query: shaw.ca IN MX
+Mar 10 09:54:14 avas named[6791]: client 127.0.0.1#55754: query: unbc.ca IN A
+Mar 10 09:54:18 avas named[6791]: client 127.0.0.1#55757: query: hotmail.com IN A
+Mar 10 09:54:18 avas named[6791]: client 127.0.0.1#55753: query: shaw.ca IN MX
+Mar 10 09:54:19 avas named[6791]: client 127.0.0.1#55754: query: unbc.ca IN A
+Mar 10 09:54:23 avas named[6791]: client 127.0.0.1#55757: query: hotmail.com IN A
+Mar 10 09:54:23 avas named[6791]: client 127.0.0.1#55758: query: shaw.ca IN A
+Mar 10 09:54:24 avas named[6791]: client 127.0.0.1#55754: query: unbc.ca IN A
+Mar 10 09:54:28 avas named[6791]: client 127.0.0.1#55757: query: hotmail.com IN A
+Mar 10 09:54:28 avas named[6791]: client 127.0.0.1#55758: query: shaw.ca IN A
+Mar 10 09:54:33 avas named[6791]: client 127.0.0.1#55757: query: hotmail.com IN A
+Mar 10 09:54:33 avas named[6791]: client 127.0.0.1#55758: query: shaw.ca IN A
+Mar 10 09:54:38 avas named[6791]: client 127.0.0.1#55758: query: shaw.ca IN A
+Mar 10 09:54:51 avas named[6791]: shutting down: flushing changes
+Mar 10 09:54:51 avas named[6791]: stopping command channel on 127.0.0.1#953
+Mar 10 09:54:51 avas named[6791]: no longer listening on 127.0.0.1#53
+Mar 10 09:54:51 avas named[6791]: no longer listening on 10.0.0.214#53
+Mar 10 09:54:51 avas named[6791]: exiting
+Mar 10 09:56:54 avas dccifd[6974]: missing message body
+Mar 10 09:57:37 avas named[6986]: starting BIND 9.2.3
+Mar 10 09:57:37 avas named[6986]: using 1 CPU
+Mar 10 09:57:37 avas named[6986]: loading configuration from '/etc/named.conf'
+Mar 10 09:57:37 avas named[6986]: listening on IPv4 interface lo, 127.0.0.1#53
+Mar 10 09:57:37 avas named[6986]: listening on IPv4 interface eth0, 10.0.0.214#53
+Mar 10 09:57:37 avas named[6986]: command channel listening on 127.0.0.1#953
+Mar 10 09:57:37 avas named[6986]: zone 0.0.127.in-addr.arpa/IN: loading zone: no master file configured
+Mar 10 09:57:37 avas named[6986]: running
+Mar 10 09:57:37 avas named[6986]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar 10 09:57:37 avas named[6986]: zone PLNet/IN: refresh: non-authoritative answer from master 192.75.26.21#53
+Mar 10 09:58:07 avas named[6986]: query logging is now on
+Mar 10 09:58:11 avas named[6986]: client 127.0.0.1#55810: query: 210.201.4.218.in-addr.arpa IN PTR
+Mar 10 09:58:12 avas named[6986]: client 127.0.0.1#55811: query: 242.251.177.142.in-addr.arpa IN PTR
+Mar 10 09:58:12 avas named[6986]: client 127.0.0.1#55816: query: 108.226.160.67.in-addr.arpa IN PTR
+Mar 10 09:58:16 avas named[6986]: client 127.0.0.1#55810: query: 210.201.4.218.in-addr.arpa IN PTR
+Mar 10 09:58:17 avas named[6986]: client 127.0.0.1#55811: query: 242.251.177.142.in-addr.arpa IN PTR
+Mar 10 09:58:17 avas named[6986]: client 127.0.0.1#55816: query: 108.226.160.67.in-addr.arpa IN PTR
+Mar 10 09:58:22 avas named[6986]: client 127.0.0.1#55820: query: 210.201.4.218.reject_non_fqdn_hostname IN A
+Mar 10 09:58:23 avas named[6986]: client 127.0.0.1#55821: query: 108.226.160.67.reject_non_fqdn_hostname IN A
+Mar 10 09:58:23 avas named[6986]: client 127.0.0.1#55822: query: 242.251.177.142.reject_non_fqdn_hostname IN A
+Mar 10 09:58:24 avas named[6986]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar 10 09:58:24 avas named[6986]: zone PLNet/IN: refresh: non-authoritative answer from master 192.75.26.21#53
+Mar 10 09:58:27 avas named[6986]: client 127.0.0.1#55820: query: 210.201.4.218.reject_non_fqdn_hostname IN A
+Mar 10 09:58:28 avas named[6986]: client 127.0.0.1#55821: query: 108.226.160.67.reject_non_fqdn_hostname IN A
+Mar 10 09:58:28 avas named[6986]: client 127.0.0.1#55822: query: 242.251.177.142.reject_non_fqdn_hostname IN A
+Mar 10 09:58:32 avas named[6986]: client 127.0.0.1#55823: query: 210.201.4.218.reject_unknown_sender_domain IN A
+Mar 10 09:58:35 avas named[6986]: client 127.0.0.1#55824: query: 242.251.177.142.reject_unknown_sender_domain IN A
+Mar 10 09:58:35 avas named[6986]: client 127.0.0.1#55826: query: 108.226.160.67.reject_unknown_sender_domain IN A
+Mar 10 09:58:37 avas named[6986]: client 127.0.0.1#55823: query: 210.201.4.218.reject_unknown_sender_domain IN A
+Mar 10 09:58:40 avas named[6986]: client 127.0.0.1#55824: query: 242.251.177.142.reject_unknown_sender_domain IN A
+Mar 10 09:58:40 avas named[6986]: client 127.0.0.1#55826: query: 108.226.160.67.reject_unknown_sender_domain IN A
+Mar 10 09:58:42 avas named[6986]: client 127.0.0.1#55827: query: juno.com IN A
+Mar 10 09:58:45 avas named[6986]: client 127.0.0.1#55828: query: yahoo.com IN A
+Mar 10 09:58:45 avas named[6986]: client 127.0.0.1#55829: query: wizard.net IN A
+Mar 10 09:58:47 avas named[6986]: client 127.0.0.1#55827: query: juno.com IN A
+Mar 10 09:58:50 avas named[6986]: client 127.0.0.1#55828: query: yahoo.com IN A
+Mar 10 09:58:50 avas named[6986]: client 127.0.0.1#55829: query: wizard.net IN A
+Mar 10 09:58:52 avas named[6986]: client 127.0.0.1#55831: query: juno.com IN AAAA
+Mar 10 09:58:55 avas named[6986]: client 127.0.0.1#55832: query: yahoo.com IN AAAA
+Mar 10 09:58:55 avas named[6986]: client 127.0.0.1#55833: query: wizard.net IN AAAA
+Mar 10 09:58:57 avas named[6986]: client 127.0.0.1#55831: query: juno.com IN AAAA
+Mar 10 09:59:00 avas named[6986]: client 127.0.0.1#55832: query: yahoo.com IN AAAA
+Mar 10 09:59:00 avas named[6986]: client 127.0.0.1#55833: query: wizard.net IN AAAA
+Mar 10 09:59:02 avas named[6986]: client 127.0.0.1#55836: query: juno.com IN MX
+Mar 10 09:59:05 avas named[6986]: client 127.0.0.1#55837: query: yahoo.com IN MX
+Mar 10 09:59:05 avas named[6986]: client 127.0.0.1#55838: query: wizard.net IN MX
+Mar 10 09:59:07 avas named[6986]: client 127.0.0.1#55836: query: juno.com IN MX
+Mar 10 09:59:10 avas named[6986]: client 127.0.0.1#55837: query: yahoo.com IN MX
+Mar 10 09:59:10 avas named[6986]: client 127.0.0.1#55838: query: wizard.net IN MX
+Mar 10 09:59:12 avas named[6986]: client 127.0.0.1#55840: query: cnc.bc.ca IN A
+Mar 10 09:59:15 avas named[6986]: client 127.0.0.1#55843: query: cnc.bc.ca IN A
+Mar 10 09:59:15 avas named[6986]: client 127.0.0.1#55844: query: cnc.bc.ca IN A
+Mar 10 09:59:16 avas named[6986]: client 127.0.0.1#55845: query: cared45.com IN MX
+Mar 10 09:59:17 avas named[6986]: client 127.0.0.1#55840: query: cnc.bc.ca IN A
+Mar 10 09:59:20 avas named[6986]: client 127.0.0.1#55843: query: cnc.bc.ca IN A
+Mar 10 09:59:20 avas named[6986]: client 127.0.0.1#55844: query: cnc.bc.ca IN A
+Mar 10 09:59:21 avas named[6986]: client 127.0.0.1#55845: query: cared45.com IN MX
+Mar 10 09:59:22 avas named[6986]: client 127.0.0.1#55847: query: cnc.bc.ca IN AAAA
+Mar 10 09:59:22 avas named[6986]: client 127.0.0.1#55848: query: gems3.gov.bc.ca IN MX
+Mar 10 09:59:25 avas named[6986]: client 127.0.0.1#55849: query: cnc.bc.ca IN AAAA
+Mar 10 09:59:25 avas named[6986]: client 127.0.0.1#55850: query: cnc.bc.ca IN AAAA
+Mar 10 09:59:26 avas named[6986]: client 127.0.0.1#55845: query: cared45.com IN MX
+Mar 10 09:59:27 avas named[6986]: client 127.0.0.1#55847: query: cnc.bc.ca IN AAAA
+Mar 10 09:59:27 avas named[6986]: client 127.0.0.1#55848: query: gems3.gov.bc.ca IN MX
+Mar 10 09:59:30 avas named[6986]: client 127.0.0.1#55849: query: cnc.bc.ca IN AAAA
+Mar 10 09:59:30 avas named[6986]: client 127.0.0.1#55850: query: cnc.bc.ca IN AAAA
+Mar 10 09:59:31 avas named[6986]: client 127.0.0.1#55845: query: cared45.com IN MX
+Mar 10 09:59:32 avas named[6986]: client 127.0.0.1#55852: query: cnc.bc.ca IN MX
+Mar 10 09:59:32 avas named[6986]: client 127.0.0.1#55848: query: gems3.gov.bc.ca IN MX
+Mar 10 09:59:35 avas named[6986]: client 127.0.0.1#55854: query: cnc.bc.ca IN MX
+Mar 10 09:59:35 avas named[6986]: client 127.0.0.1#55855: query: cnc.bc.ca IN MX
+Mar 10 09:59:36 avas named[6986]: client 127.0.0.1#55856: query: cared45.com IN A
+Mar 10 09:59:37 avas named[6986]: client 127.0.0.1#55852: query: cnc.bc.ca IN MX
+Mar 10 09:59:37 avas named[6986]: client 127.0.0.1#55848: query: gems3.gov.bc.ca IN MX
+Mar 10 09:59:40 avas named[6986]: client 127.0.0.1#55854: query: cnc.bc.ca IN MX
+Mar 10 09:59:40 avas named[6986]: client 127.0.0.1#55855: query: cnc.bc.ca IN MX
+Mar 10 09:59:41 avas named[6986]: client 127.0.0.1#55856: query: cared45.com IN A
+Mar 10 09:59:42 avas named[6986]: client 127.0.0.1#55857: query: gems3.gov.bc.ca IN A
+Mar 10 09:59:45 avas named[6986]: client 127.0.0.1#55858: query: 242.251.177.142.sbl.spamhaus.org IN A
+Mar 10 09:59:45 avas named[6986]: client 127.0.0.1#55859: query: 108.226.160.67.sbl.spamhaus.org IN A
+Mar 10 09:59:46 avas named[6986]: client 127.0.0.1#55856: query: cared45.com IN A
+Mar 10 09:59:47 avas named[6986]: client 127.0.0.1#55857: query: gems3.gov.bc.ca IN A
+Mar 10 09:59:50 avas named[6986]: client 127.0.0.1#55858: query: 242.251.177.142.sbl.spamhaus.org IN A
+Mar 10 09:59:50 avas named[6986]: client 127.0.0.1#55859: query: 108.226.160.67.sbl.spamhaus.org IN A
+Mar 10 09:59:51 avas named[6986]: client 127.0.0.1#55856: query: cared45.com IN A
+Mar 10 09:59:52 avas named[6986]: client 127.0.0.1#55857: query: gems3.gov.bc.ca IN A
+Mar 10 09:59:55 avas named[6986]: client 127.0.0.1#55860: query: 242.251.177.142.dnsbl.sorbs.net IN A
+Mar 10 09:59:55 avas named[6986]: client 127.0.0.1#55862: query: 108.226.160.67.dnsbl.sorbs.net IN A
+Mar 10 09:59:57 avas named[6986]: client 127.0.0.1#55857: query: gems3.gov.bc.ca IN A
+Mar 10 10:00:00 avas named[6986]: client 127.0.0.1#55860: query: 242.251.177.142.dnsbl.sorbs.net IN A
+Mar 10 10:00:00 avas named[6986]: client 127.0.0.1#55862: query: 108.226.160.67.dnsbl.sorbs.net IN A
+Mar 10 10:00:00 avas named[6986]: client 127.0.0.1#55863: query: ftp.dcc-servers.net IN A
+Mar 10 10:00:00 avas named[6986]: client 127.0.0.1#55865: query: dcc1.cnc.bc.ca IN A
+Mar 10 10:00:01 avas named[6986]: client 127.0.0.1#55866: query: aim.cnc.bc.ca IN AAAA
+Mar 10 10:00:05 avas named[6986]: client 127.0.0.1#55867: query: mail.canfor.ca IN MX
+Mar 10 10:00:05 avas named[6986]: client 127.0.0.1#55868: query: 242.251.177.142.list.dsbl.org IN A
+Mar 10 10:00:05 avas named[6986]: client 127.0.0.1#55869: query: 108.226.160.67.list.dsbl.org IN A
+Mar 10 10:00:05 avas named[6986]: client 127.0.0.1#55863: query: ftp.dcc-servers.net IN A
+Mar 10 10:00:05 avas named[6986]: client 127.0.0.1#55865: query: dcc1.cnc.bc.ca IN A
+Mar 10 10:00:06 avas named[6986]: client 127.0.0.1#55866: query: aim.cnc.bc.ca IN AAAA
+Mar 10 10:00:06 avas named[6986]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar 10 10:00:06 avas named[6986]: zone PLNet/IN: refresh: non-authoritative answer from master 192.75.26.21#53
+Mar 10 10:00:10 avas named[6986]: client 127.0.0.1#55867: query: mail.canfor.ca IN MX
+Mar 10 10:00:10 avas named[6986]: client 127.0.0.1#55868: query: 242.251.177.142.list.dsbl.org IN A
+Mar 10 10:00:10 avas named[6986]: client 127.0.0.1#55869: query: 108.226.160.67.list.dsbl.org IN A
+Mar 10 10:00:10 avas named[6986]: client 127.0.0.1#55870: query: ftp.dcc-servers.net.cnc.bc.ca IN A
+Mar 10 10:00:10 avas named[6986]: client 127.0.0.1#55871: query: dcc1.cnc.bc.ca.cnc.bc.ca IN A
+Mar 10 10:00:11 avas named[6986]: client 127.0.0.1#55872: query: aim.cnc.bc.ca.cnc.bc.ca IN AAAA
+Mar 10 10:00:15 avas named[6986]: client 127.0.0.1#55867: query: mail.canfor.ca IN MX
+Mar 10 10:00:15 avas named[6986]: client 127.0.0.1#55876: query: 242.251.177.142.opm.blitzed.org IN A
+Mar 10 10:00:15 avas named[6986]: client 127.0.0.1#55877: query: 108.226.160.67.opm.blitzed.org IN A
+Mar 10 10:00:15 avas named[6986]: client 127.0.0.1#55870: query: ftp.dcc-servers.net.cnc.bc.ca IN A
+Mar 10 10:00:15 avas named[6986]: client 127.0.0.1#55871: query: dcc1.cnc.bc.ca.cnc.bc.ca IN A
+Mar 10 10:00:16 avas named[6986]: client 127.0.0.1#55872: query: aim.cnc.bc.ca.cnc.bc.ca IN AAAA
+Mar 10 10:00:20 avas named[6986]: client 127.0.0.1#55867: query: mail.canfor.ca IN MX
+Mar 10 10:00:20 avas named[6986]: client 127.0.0.1#55876: query: 242.251.177.142.opm.blitzed.org IN A
+Mar 10 10:00:20 avas named[6986]: client 127.0.0.1#55877: query: 108.226.160.67.opm.blitzed.org IN A
+Mar 10 10:00:21 avas named[6986]: client 127.0.0.1#55881: query: aim.cnc.bc.ca IN A
+Mar 10 10:00:25 avas named[6986]: client 127.0.0.1#55885: query: mail.canfor.ca IN A
+Mar 10 10:00:26 avas named[6986]: client 127.0.0.1#55881: query: aim.cnc.bc.ca IN A
+Mar 10 10:00:30 avas named[6986]: client 127.0.0.1#55885: query: mail.canfor.ca IN A
+Mar 10 10:00:31 avas named[6986]: client 127.0.0.1#55886: query: aim.cnc.bc.ca.cnc.bc.ca IN A
+Mar 10 10:00:35 avas named[6986]: client 127.0.0.1#55885: query: mail.canfor.ca IN A
+Mar 10 10:00:36 avas named[6986]: client 127.0.0.1#55886: query: aim.cnc.bc.ca.cnc.bc.ca IN A
+Mar 10 10:00:36 avas named[6986]: client 127.0.0.1#55887: query: 55.9.4.64.in-addr.arpa IN PTR
+Mar 10 10:00:40 avas named[6986]: client 127.0.0.1#55885: query: mail.canfor.ca IN A
+Mar 10 10:00:41 avas named[6986]: client 127.0.0.1#55888: query: aim.cnc.bc.ca IN AAAA
+Mar 10 10:00:41 avas named[6986]: client 127.0.0.1#55887: query: 55.9.4.64.in-addr.arpa IN PTR
+Mar 10 10:00:46 avas named[6986]: client 127.0.0.1#55888: query: aim.cnc.bc.ca IN AAAA
+Mar 10 10:00:46 avas named[6986]: client 127.0.0.1#55889: query: 55.9.4.64.reject_non_fqdn_hostname IN A
+Mar 10 10:00:51 avas named[6986]: client 127.0.0.1#55891: query: aim.cnc.bc.ca.cnc.bc.ca IN AAAA
+Mar 10 10:00:51 avas named[6986]: client 127.0.0.1#55889: query: 55.9.4.64.reject_non_fqdn_hostname IN A
+Mar 10 10:00:52 avas named[6986]: client 127.0.0.1#55892: query: citytel.net IN MX
+Mar 10 10:00:56 avas named[6986]: client 127.0.0.1#55891: query: aim.cnc.bc.ca.cnc.bc.ca IN AAAA
+Mar 10 10:00:56 avas named[6986]: client 127.0.0.1#55893: query: 55.9.4.64.reject_unknown_sender_domain IN A
+Mar 10 10:00:57 avas named[6986]: client 127.0.0.1#55892: query: citytel.net IN MX
+Mar 10 10:01:01 avas named[6986]: client 127.0.0.1#55894: query: aim.cnc.bc.ca IN A
+Mar 10 10:01:01 avas named[6986]: client 127.0.0.1#55893: query: 55.9.4.64.reject_unknown_sender_domain IN A
+Mar 10 10:01:02 avas named[6986]: client 127.0.0.1#55892: query: citytel.net IN MX
+Mar 10 10:01:06 avas named[6986]: client 127.0.0.1#55894: query: aim.cnc.bc.ca IN A
+Mar 10 10:01:06 avas named[6986]: client 127.0.0.1#55895: query: hotmail.com IN A
+Mar 10 10:01:07 avas named[6986]: client 127.0.0.1#55892: query: citytel.net IN MX
+Mar 10 10:01:11 avas named[6986]: client 127.0.0.1#55896: query: aim.cnc.bc.ca.cnc.bc.ca IN A
+Mar 10 10:01:11 avas named[6986]: client 127.0.0.1#55895: query: hotmail.com IN A
+Mar 10 10:01:12 avas named[6986]: client 127.0.0.1#55897: query: citytel.net IN A
+Mar 10 10:01:16 avas named[6986]: client 127.0.0.1#55896: query: aim.cnc.bc.ca.cnc.bc.ca IN A
+Mar 10 10:01:16 avas named[6986]: client 127.0.0.1#55899: query: hotmail.com IN AAAA
+Mar 10 10:01:17 avas named[6986]: client 127.0.0.1#55897: query: citytel.net IN A
+Mar 10 10:01:20 avas named[6986]: client 127.0.0.1#55901: query: ucfv.bc.ca IN MX
+Mar 10 10:01:21 avas named[6986]: client 127.0.0.1#55899: query: hotmail.com IN AAAA
+Mar 10 10:01:22 avas named[6986]: client 127.0.0.1#55897: query: citytel.net IN A
+Mar 10 10:01:25 avas named[6986]: client 127.0.0.1#55901: query: ucfv.bc.ca IN MX
+Mar 10 10:01:26 avas named[6986]: client 127.0.0.1#55904: query: hotmail.com IN MX
+Mar 10 10:01:27 avas named[6986]: client 127.0.0.1#55897: query: citytel.net IN A
+Mar 10 10:01:30 avas named[6986]: client 127.0.0.1#55901: query: ucfv.bc.ca IN MX
+Mar 10 10:01:31 avas named[6986]: client 127.0.0.1#55904: query: hotmail.com IN MX
+Mar 10 10:01:35 avas named[6986]: client 127.0.0.1#55901: query: ucfv.bc.ca IN MX
+Mar 10 10:01:36 avas named[6986]: client 127.0.0.1#55906: query: cnc.bc.ca IN A
+Mar 10 10:01:36 avas named[6986]: client 127.0.0.1#55908: query: 143.1.33.159.in-addr.arpa IN PTR
+Mar 10 10:01:37 avas named[6986]: client 127.0.0.1#55909: query: 35.76.113.68.in-addr.arpa IN PTR
+Mar 10 10:01:40 avas named[6986]: client 127.0.0.1#55910: query: ucfv.bc.ca IN A
+Mar 10 10:01:41 avas named[6986]: client 127.0.0.1#55906: query: cnc.bc.ca IN A
+Mar 10 10:01:42 avas named[6986]: client 127.0.0.1#55908: query: 143.1.33.159.in-addr.arpa IN PTR
+Mar 10 10:01:42 avas named[6986]: client 127.0.0.1#55909: query: 35.76.113.68.in-addr.arpa IN PTR
+Mar 10 10:01:45 avas named[6986]: client 127.0.0.1#55910: query: ucfv.bc.ca IN A
+Mar 10 10:01:46 avas named[6986]: client 127.0.0.1#55914: query: cnc.bc.ca IN AAAA
+Mar 10 10:01:47 avas named[6986]: client 127.0.0.1#55915: query: 143.1.33.159.reject_non_fqdn_hostname IN A
+Mar 10 10:01:48 avas named[6986]: client 127.0.0.1#55916: query: 35.76.113.68.reject_non_fqdn_hostname IN A
+Mar 10 10:01:50 avas named[6986]: client 127.0.0.1#55910: query: ucfv.bc.ca IN A
+Mar 10 10:01:51 avas named[6986]: client 127.0.0.1#55914: query: cnc.bc.ca IN AAAA
+Mar 10 10:01:52 avas named[6986]: client 127.0.0.1#55915: query: 143.1.33.159.reject_non_fqdn_hostname IN A
+Mar 10 10:01:53 avas named[6986]: client 127.0.0.1#55916: query: 35.76.113.68.reject_non_fqdn_hostname IN A
+Mar 10 10:01:55 avas named[6986]: client 127.0.0.1#55910: query: ucfv.bc.ca IN A
+Mar 10 10:01:56 avas named[6986]: client 127.0.0.1#55917: query: cnc.bc.ca IN MX
+Mar 10 10:01:57 avas named[6986]: client 127.0.0.1#55918: query: 143.1.33.159.reject_unknown_sender_domain IN A
+Mar 10 10:01:58 avas named[6986]: client 127.0.0.1#55921: query: 35.76.113.68.reject_unknown_sender_domain IN A
+Mar 10 10:02:01 avas named[6986]: client 127.0.0.1#55917: query: cnc.bc.ca IN MX
+Mar 10 10:02:02 avas named[6986]: client 127.0.0.1#55918: query: 143.1.33.159.reject_unknown_sender_domain IN A
+Mar 10 10:02:03 avas named[6986]: client 127.0.0.1#55921: query: 35.76.113.68.reject_unknown_sender_domain IN A
+Mar 10 10:02:06 avas named[6986]: client 127.0.0.1#55924: query: 55.9.4.64.sbl.spamhaus.org IN A
+Mar 10 10:02:07 avas named[6986]: client 127.0.0.1#55925: query: interact.cbc.ca IN A
+Mar 10 10:02:08 avas named[6986]: client 127.0.0.1#55926: query: yahoo.com IN A
+Mar 10 10:02:10 avas dccd[2818]: increase from 6400 to 7200 RL blocks
+Mar 10 10:02:11 avas named[6986]: client 127.0.0.1#55924: query: 55.9.4.64.sbl.spamhaus.org IN A
+Mar 10 10:02:12 avas named[6986]: client 127.0.0.1#55925: query: interact.cbc.ca IN A
+Mar 10 10:02:13 avas named[6986]: client 127.0.0.1#55926: query: yahoo.com IN A
+Mar 10 10:02:16 avas named[6986]: client 127.0.0.1#55932: query: 55.9.4.64.dnsbl.sorbs.net IN A
+Mar 10 10:02:17 avas named[6986]: client 127.0.0.1#55934: query: interact.cbc.ca IN AAAA
+Mar 10 10:02:18 avas named[6986]: client 127.0.0.1#55935: query: yahoo.com IN AAAA
+Mar 10 10:02:21 avas named[6986]: client 127.0.0.1#55932: query: 55.9.4.64.dnsbl.sorbs.net IN A
+Mar 10 10:02:22 avas named[6986]: client 127.0.0.1#55934: query: interact.cbc.ca IN AAAA
+Mar 10 10:02:23 avas named[6986]: client 127.0.0.1#55935: query: yahoo.com IN AAAA
+Mar 10 10:02:26 avas named[6986]: client 127.0.0.1#55940: query: 55.9.4.64.list.dsbl.org IN A
+Mar 10 10:02:27 avas named[6986]: client 127.0.0.1#55943: query: interact.cbc.ca IN MX
+Mar 10 10:02:28 avas named[6986]: client 127.0.0.1#55944: query: yahoo.com IN MX
+Mar 10 10:02:31 avas named[6986]: client 127.0.0.1#55940: query: 55.9.4.64.list.dsbl.org IN A
+Mar 10 10:02:32 avas named[6986]: client 127.0.0.1#55943: query: interact.cbc.ca IN MX
+Mar 10 10:02:33 avas named[6986]: client 127.0.0.1#55944: query: yahoo.com IN MX
+Mar 10 10:02:36 avas named[6986]: client 127.0.0.1#55951: query: 55.9.4.64.opm.blitzed.org IN A
+Mar 10 10:02:37 avas named[6986]: client 127.0.0.1#55952: query: cnc.bc.ca IN A
+Mar 10 10:02:38 avas named[6986]: client 127.0.0.1#55953: query: cnc.bc.ca IN A
+Mar 10 10:02:41 avas named[6986]: client 127.0.0.1#55951: query: 55.9.4.64.opm.blitzed.org IN A
+Mar 10 10:02:42 avas named[6986]: client 127.0.0.1#55952: query: cnc.bc.ca IN A
+Mar 10 10:02:43 avas named[6986]: client 127.0.0.1#55953: query: cnc.bc.ca IN A
+Mar 10 10:02:47 avas named[6986]: client 127.0.0.1#55954: query: cnc.bc.ca IN AAAA
+Mar 10 10:02:48 avas named[6986]: client 127.0.0.1#55955: query: cnc.bc.ca IN AAAA
+Mar 10 10:02:52 avas named[6986]: client 127.0.0.1#55954: query: cnc.bc.ca IN AAAA
+Mar 10 10:02:53 avas named[6986]: client 127.0.0.1#55955: query: cnc.bc.ca IN AAAA
+Mar 10 10:02:57 avas named[6986]: client 127.0.0.1#55960: query: cnc.bc.ca IN MX
+Mar 10 10:02:59 avas named[6986]: client 127.0.0.1#55964: query: cnc.bc.ca IN MX
+Mar 10 10:03:02 avas named[6986]: client 127.0.0.1#55960: query: cnc.bc.ca IN MX
+Mar 10 10:03:04 avas named[6986]: client 127.0.0.1#55964: query: cnc.bc.ca IN MX
+Mar 10 10:03:05 avas named[6986]: client 127.0.0.1#55969: query: 12.3.113.24.in-addr.arpa IN PTR
+Mar 10 10:03:07 avas named[6986]: client 127.0.0.1#55970: query: 143.1.33.159.sbl.spamhaus.org IN A
+Mar 10 10:03:08 avas named[6986]: client 127.0.0.1#55971: query: extremeice.ca IN MX
+Mar 10 10:03:09 avas named[6986]: client 127.0.0.1#55972: query: 35.76.113.68.sbl.spamhaus.org IN A
+Mar 10 10:03:10 avas named[6986]: client 127.0.0.1#55969: query: 12.3.113.24.in-addr.arpa IN PTR
+Mar 10 10:03:12 avas named[6986]: client 127.0.0.1#55970: query: 143.1.33.159.sbl.spamhaus.org IN A
+Mar 10 10:03:13 avas named[6986]: client 127.0.0.1#55971: query: extremeice.ca IN MX
+Mar 10 10:03:14 avas named[6986]: client 127.0.0.1#55972: query: 35.76.113.68.sbl.spamhaus.org IN A
+Mar 10 10:03:16 avas named[6986]: client 127.0.0.1#55973: query: 12.3.113.24.reject_non_fqdn_hostname IN A
+Mar 10 10:03:17 avas named[6986]: client 127.0.0.1#55975: query: 143.1.33.159.dnsbl.sorbs.net IN A
+Mar 10 10:03:18 avas named[6986]: client 127.0.0.1#55971: query: extremeice.ca IN MX
+Mar 10 10:03:19 avas named[6986]: client 127.0.0.1#55976: query: 35.76.113.68.dnsbl.sorbs.net IN A
+Mar 10 10:03:21 avas named[6986]: client 127.0.0.1#55973: query: 12.3.113.24.reject_non_fqdn_hostname IN A
+Mar 10 10:03:22 avas named[6986]: client 127.0.0.1#55975: query: 143.1.33.159.dnsbl.sorbs.net IN A
+Mar 10 10:03:23 avas named[6986]: client 127.0.0.1#55971: query: extremeice.ca IN MX
+Mar 10 10:03:24 avas named[6986]: client 127.0.0.1#55976: query: 35.76.113.68.dnsbl.sorbs.net IN A
+Mar 10 10:03:26 avas named[6986]: client 127.0.0.1#55977: query: 12.3.113.24.reject_unknown_sender_domain IN A
+Mar 10 10:03:27 avas named[6986]: client 127.0.0.1#55978: query: 143.1.33.159.list.dsbl.org IN A
+Mar 10 10:03:28 avas named[6986]: client 127.0.0.1#55979: query: extremeice.ca IN A
+Mar 10 10:03:29 avas named[6986]: client 127.0.0.1#55980: query: 35.76.113.68.list.dsbl.org IN A
+Mar 10 10:03:31 avas named[6986]: client 127.0.0.1#55977: query: 12.3.113.24.reject_unknown_sender_domain IN A
+Mar 10 10:03:32 avas named[6986]: client 127.0.0.1#55978: query: 143.1.33.159.list.dsbl.org IN A
+Mar 10 10:03:33 avas named[6986]: client 127.0.0.1#55979: query: extremeice.ca IN A
+Mar 10 10:03:34 avas named[6986]: client 127.0.0.1#55980: query: 35.76.113.68.list.dsbl.org IN A
+Mar 10 10:03:36 avas named[6986]: client 127.0.0.1#55981: query: slarti.ucd.ie IN A
+Mar 10 10:03:37 avas named[6986]: client 127.0.0.1#55983: query: 143.1.33.159.opm.blitzed.org IN A
+Mar 10 10:03:38 avas named[6986]: client 127.0.0.1#55979: query: extremeice.ca IN A
+Mar 10 10:03:39 avas named[6986]: client 127.0.0.1#55984: query: 35.76.113.68.opm.blitzed.org IN A
+Mar 10 10:03:41 avas named[6986]: client 127.0.0.1#55981: query: slarti.ucd.ie IN A
+Mar 10 10:03:42 avas named[6986]: client 127.0.0.1#55983: query: 143.1.33.159.opm.blitzed.org IN A
+Mar 10 10:03:43 avas named[6986]: client 127.0.0.1#55979: query: extremeice.ca IN A
+Mar 10 10:03:43 avas named[6986]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar 10 10:03:43 avas named[6986]: zone PLNet/IN: refresh: non-authoritative answer from master 192.75.26.21#53
+Mar 10 10:03:44 avas named[6986]: client 127.0.0.1#55984: query: 35.76.113.68.opm.blitzed.org IN A
+Mar 10 10:03:46 avas named[6986]: client 127.0.0.1#55986: query: slarti.ucd.ie IN AAAA
+Mar 10 10:03:48 avas named[6986]: client 127.0.0.1#55988: query: interact.cbc.ca IN A
+Mar 10 10:03:51 avas named[6986]: client 127.0.0.1#55986: query: slarti.ucd.ie IN AAAA
+Mar 10 10:03:53 avas named[6986]: client 127.0.0.1#55988: query: interact.cbc.ca IN A
+Mar 10 10:03:56 avas named[6986]: client 127.0.0.1#55995: query: slarti.ucd.ie IN MX
+Mar 10 10:03:58 avas named[6986]: client 127.0.0.1#55996: query: interact.cbc.ca IN AAAA
+Mar 10 10:04:01 avas named[6986]: client 127.0.0.1#55995: query: slarti.ucd.ie IN MX
+Mar 10 10:04:03 avas named[6986]: client 127.0.0.1#55998: query: godspeedhosting.com IN MX
+Mar 10 10:04:03 avas named[6986]: client 127.0.0.1#55996: query: interact.cbc.ca IN AAAA
+Mar 10 10:04:06 avas named[6986]: client 127.0.0.1#55999: query: cnc.bc.ca IN A
+Mar 10 10:04:08 avas named[6986]: client 127.0.0.1#55998: query: godspeedhosting.com IN MX
+Mar 10 10:04:08 avas named[6986]: client 127.0.0.1#56000: query: interact.cbc.ca IN MX
+Mar 10 10:04:11 avas named[6986]: client 127.0.0.1#55999: query: cnc.bc.ca IN A
+Mar 10 10:04:12 avas named[6986]: client 127.0.0.1#56008: query: 26.197.135.66.in-addr.arpa IN PTR
+Mar 10 10:04:13 avas named[6986]: client 127.0.0.1#55998: query: godspeedhosting.com IN MX
+Mar 10 10:04:13 avas named[6986]: client 127.0.0.1#56000: query: interact.cbc.ca IN MX
+Mar 10 10:04:16 avas named[6986]: client 127.0.0.1#56009: query: cnc.bc.ca IN AAAA
+Mar 10 10:04:17 avas named[6986]: client 127.0.0.1#56008: query: 26.197.135.66.in-addr.arpa IN PTR
+Mar 10 10:04:18 avas named[6986]: client 127.0.0.1#55998: query: godspeedhosting.com IN MX
+Mar 10 10:04:18 avas named[6986]: client 127.0.0.1#56010: query: cnc.bc.ca IN A
+Mar 10 10:04:21 avas named[6986]: client 127.0.0.1#56009: query: cnc.bc.ca IN AAAA
+Mar 10 10:04:22 avas named[6986]: client 127.0.0.1#56011: query: 26.197.135.66.reject_non_fqdn_hostname IN A
+Mar 10 10:04:23 avas named[6986]: client 127.0.0.1#56013: query: godspeedhosting.com IN A
+Mar 10 10:04:23 avas named[6986]: client 127.0.0.1#56010: query: cnc.bc.ca IN A
+Mar 10 10:04:26 avas named[6986]: client 127.0.0.1#56014: query: cnc.bc.ca IN MX
+Mar 10 10:04:27 avas named[6986]: client 127.0.0.1#56011: query: 26.197.135.66.reject_non_fqdn_hostname IN A
+Mar 10 10:04:28 avas named[6986]: client 127.0.0.1#56013: query: godspeedhosting.com IN A
+Mar 10 10:04:28 avas named[6986]: client 127.0.0.1#56015: query: cnc.bc.ca IN AAAA
+Mar 10 10:04:31 avas named[6986]: client 127.0.0.1#56014: query: cnc.bc.ca IN MX
+Mar 10 10:04:32 avas named[6986]: client 127.0.0.1#56016: query: 26.197.135.66.reject_unknown_sender_domain IN A
+Mar 10 10:04:33 avas named[6986]: client 127.0.0.1#56013: query: godspeedhosting.com IN A
+Mar 10 10:04:33 avas named[6986]: client 127.0.0.1#56015: query: cnc.bc.ca IN AAAA
+Mar 10 10:04:36 avas named[6986]: client 127.0.0.1#56017: query: 12.3.113.24.sbl.spamhaus.org IN A
+Mar 10 10:04:37 avas named[6986]: client 127.0.0.1#56016: query: 26.197.135.66.reject_unknown_sender_domain IN A
+Mar 10 10:04:38 avas named[6986]: client 127.0.0.1#56013: query: godspeedhosting.com IN A
+Mar 10 10:04:38 avas named[6986]: client 127.0.0.1#56019: query: cnc.bc.ca IN MX
+Mar 10 10:04:41 avas named[6986]: client 127.0.0.1#56017: query: 12.3.113.24.sbl.spamhaus.org IN A
+Mar 10 10:04:42 avas named[6986]: client 127.0.0.1#56021: query: ebay.ca IN A
+Mar 10 10:04:43 avas named[6986]: client 127.0.0.1#56019: query: cnc.bc.ca IN MX
+Mar 10 10:04:46 avas named[6986]: client 127.0.0.1#56022: query: 12.3.113.24.dnsbl.sorbs.net IN A
+Mar 10 10:04:47 avas named[6986]: client 127.0.0.1#56021: query: ebay.ca IN A
+Mar 10 10:04:51 avas named[6986]: client 127.0.0.1#56022: query: 12.3.113.24.dnsbl.sorbs.net IN A
+Mar 10 10:04:52 avas named[6986]: client 127.0.0.1#56024: query: ebay.ca IN AAAA
+Mar 10 10:04:56 avas named[6986]: client 127.0.0.1#56026: query: 12.3.113.24.list.dsbl.org IN A
+Mar 10 10:04:57 avas named[6986]: client 127.0.0.1#56024: query: ebay.ca IN AAAA
+Mar 10 10:05:01 avas named[6986]: client 127.0.0.1#56026: query: 12.3.113.24.list.dsbl.org IN A
+Mar 10 10:05:02 avas named[6986]: client 127.0.0.1#56027: query: ebay.ca IN MX
+Mar 10 10:05:06 avas named[6986]: client 127.0.0.1#56028: query: 12.3.113.24.opm.blitzed.org IN A
+Mar 10 10:05:07 avas named[6986]: client 127.0.0.1#56027: query: ebay.ca IN MX
+Mar 10 10:05:11 avas named[6986]: client 127.0.0.1#56028: query: 12.3.113.24.opm.blitzed.org IN A
+Mar 10 10:05:12 avas named[6986]: client 127.0.0.1#56029: query: cnc.bc.ca IN A
+Mar 10 10:05:17 avas named[6986]: client 127.0.0.1#56029: query: cnc.bc.ca IN A
+Mar 10 10:05:22 avas named[6986]: client 127.0.0.1#56036: query: cnc.bc.ca IN AAAA
+Mar 10 10:05:27 avas named[6986]: client 127.0.0.1#56036: query: cnc.bc.ca IN AAAA
+Mar 10 10:05:31 avas named[6986]: client 127.0.0.1#56037: query: 173.161.85.24.in-addr.arpa IN PTR
+Mar 10 10:05:32 avas named[6986]: client 127.0.0.1#56038: query: cnc.bc.ca IN MX
+Mar 10 10:05:36 avas named[6986]: client 127.0.0.1#56037: query: 173.161.85.24.in-addr.arpa IN PTR
+Mar 10 10:05:37 avas named[6986]: client 127.0.0.1#56038: query: cnc.bc.ca IN MX
+Mar 10 10:05:42 avas named[6986]: client 127.0.0.1#56039: query: 173.161.85.24.reject_non_fqdn_hostname IN A
+Mar 10 10:05:42 avas named[6986]: client 127.0.0.1#56040: query: 26.197.135.66.sbl.spamhaus.org IN A
+Mar 10 10:05:47 avas named[6986]: client 127.0.0.1#56039: query: 173.161.85.24.reject_non_fqdn_hostname IN A
+Mar 10 10:05:47 avas named[6986]: client 127.0.0.1#56040: query: 26.197.135.66.sbl.spamhaus.org IN A
+Mar 10 10:05:52 avas named[6986]: client 127.0.0.1#56043: query: 173.161.85.24.reject_unknown_sender_domain IN A
+Mar 10 10:05:52 avas named[6986]: client 127.0.0.1#56044: query: 26.197.135.66.dnsbl.sorbs.net IN A
+Mar 10 10:05:55 avas named[6986]: client 127.0.0.1#56045: query: 26.175.39.130.in-addr.arpa IN PTR
+Mar 10 10:05:57 avas named[6986]: client 127.0.0.1#56043: query: 173.161.85.24.reject_unknown_sender_domain IN A
+Mar 10 10:05:57 avas named[6986]: client 127.0.0.1#56044: query: 26.197.135.66.dnsbl.sorbs.net IN A
+Mar 10 10:06:00 avas named[6986]: client 127.0.0.1#56045: query: 26.175.39.130.in-addr.arpa IN PTR
+Mar 10 10:06:02 avas named[6986]: client 127.0.0.1#56046: query: bc.cancer.ca IN A
+Mar 10 10:06:02 avas named[6986]: client 127.0.0.1#56048: query: 26.197.135.66.list.dsbl.org IN A
+Mar 10 10:06:05 avas named[6986]: client 127.0.0.1#56049: query: 26.175.39.130.reject_non_fqdn_hostname IN A
+Mar 10 10:06:07 avas named[6986]: client 127.0.0.1#56046: query: bc.cancer.ca IN A
+Mar 10 10:06:07 avas named[6986]: client 127.0.0.1#56048: query: 26.197.135.66.list.dsbl.org IN A
+Mar 10 10:06:10 avas named[6986]: client 127.0.0.1#56049: query: 26.175.39.130.reject_non_fqdn_hostname IN A
+Mar 10 10:06:12 avas named[6986]: client 127.0.0.1#56050: query: bc.cancer.ca IN AAAA
+Mar 10 10:06:12 avas named[6986]: client 127.0.0.1#56051: query: 26.197.135.66.opm.blitzed.org IN A
+Mar 10 10:06:15 avas named[6986]: client 127.0.0.1#56052: query: 26.175.39.130.reject_unknown_sender_domain IN A
+Mar 10 10:06:17 avas named[6986]: client 127.0.0.1#56050: query: bc.cancer.ca IN AAAA
+Mar 10 10:06:17 avas named[6986]: client 127.0.0.1#56051: query: 26.197.135.66.opm.blitzed.org IN A
+Mar 10 10:06:20 avas named[6986]: client 127.0.0.1#56052: query: 26.175.39.130.reject_unknown_sender_domain IN A
+Mar 10 10:06:22 avas named[6986]: client 127.0.0.1#56053: query: bc.cancer.ca IN MX
+Mar 10 10:06:25 avas named[6986]: client 127.0.0.1#56055: query: listserv.lsu.edu IN A
+Mar 10 10:06:27 avas named[6986]: client 127.0.0.1#56053: query: bc.cancer.ca IN MX
+Mar 10 10:06:30 avas named[6986]: client 127.0.0.1#56055: query: listserv.lsu.edu IN A
+Mar 10 10:06:32 avas named[6986]: client 127.0.0.1#56057: query: cnc.bc.ca IN A
+Mar 10 10:06:35 avas named[6986]: client 127.0.0.1#56058: query: listserv.lsu.edu IN AAAA
+Mar 10 10:06:37 avas named[6986]: client 127.0.0.1#56057: query: cnc.bc.ca IN A
+Mar 10 10:06:40 avas named[6986]: client 127.0.0.1#56058: query: listserv.lsu.edu IN AAAA
+Mar 10 10:06:42 avas named[6986]: client 127.0.0.1#56059: query: cnc.bc.ca IN AAAA
+Mar 10 10:06:45 avas named[6986]: client 127.0.0.1#56060: query: listserv.lsu.edu IN MX
+Mar 10 10:06:47 avas named[6986]: client 127.0.0.1#56059: query: cnc.bc.ca IN AAAA
+Mar 10 10:06:50 avas named[6986]: client 127.0.0.1#56060: query: listserv.lsu.edu IN MX
+Mar 10 10:06:51 avas named[6986]: client 127.0.0.1#56062: query: sd57.bc.ca IN MX
+Mar 10 10:06:52 avas named[6986]: client 127.0.0.1#56063: query: cnc.bc.ca IN MX
+Mar 10 10:06:55 avas named[6986]: client 127.0.0.1#56064: query: cnc.bc.ca IN A
+Mar 10 10:06:56 avas named[6986]: client 127.0.0.1#56062: query: sd57.bc.ca IN MX
+Mar 10 10:06:57 avas named[6986]: client 127.0.0.1#56063: query: cnc.bc.ca IN MX
+Mar 10 10:07:00 avas named[6986]: client 127.0.0.1#56064: query: cnc.bc.ca IN A
+Mar 10 10:07:01 avas named[6986]: client 127.0.0.1#56062: query: sd57.bc.ca IN MX
+Mar 10 10:07:02 avas named[6986]: client 127.0.0.1#56064: query: cnc.bc.ca IN AAAA
+Mar 10 10:07:06 avas named[6986]: client 127.0.0.1#56062: query: sd57.bc.ca IN MX
+Mar 10 10:07:07 avas named[6986]: client 127.0.0.1#56064: query: cnc.bc.ca IN AAAA
+Mar 10 10:07:11 avas named[6986]: client 127.0.0.1#56065: query: sd57.bc.ca IN A
+Mar 10 10:07:12 avas named[6986]: client 127.0.0.1#56066: query: cnc.bc.ca IN MX
+Mar 10 10:07:16 avas named[6986]: client 127.0.0.1#56065: query: sd57.bc.ca IN A
+Mar 10 10:07:17 avas named[6986]: client 127.0.0.1#56066: query: cnc.bc.ca IN MX
+Mar 10 10:07:21 avas named[6986]: client 127.0.0.1#56065: query: sd57.bc.ca IN A
+Mar 10 10:07:22 avas named[6986]: client 127.0.0.1#56067: query: 26.175.39.130.sbl.spamhaus.org IN A
+Mar 10 10:07:26 avas named[6986]: client 127.0.0.1#56065: query: sd57.bc.ca IN A
+Mar 10 10:07:27 avas named[6986]: client 127.0.0.1#56067: query: 26.175.39.130.sbl.spamhaus.org IN A
+Mar 10 10:07:32 avas named[6986]: client 127.0.0.1#56068: query: 26.175.39.130.dnsbl.sorbs.net IN A
+Mar 10 10:07:37 avas named[6986]: client 127.0.0.1#56068: query: 26.175.39.130.dnsbl.sorbs.net IN A
+Mar 10 10:07:42 avas named[6986]: client 127.0.0.1#56070: query: 26.175.39.130.list.dsbl.org IN A
+Mar 10 10:07:47 avas named[6986]: client 127.0.0.1#56070: query: 26.175.39.130.list.dsbl.org IN A
+Mar 10 10:07:50 avas named[6986]: client 127.0.0.1#56071: query: 149.167.108.218.in-addr.arpa IN PTR
+Mar 10 10:07:52 avas named[6986]: client 127.0.0.1#56072: query: 26.175.39.130.opm.blitzed.org IN A
+Mar 10 10:07:55 avas named[6986]: client 127.0.0.1#56071: query: 149.167.108.218.in-addr.arpa IN PTR
+Mar 10 10:07:57 avas named[6986]: client 127.0.0.1#56072: query: 26.175.39.130.opm.blitzed.org IN A
+Mar 10 10:08:04 avas named[6986]: client 127.0.0.1#56073: query: 149.167.108.218.reject_non_fqdn_hostname IN A
+Mar 10 10:08:06 avas named[6986]: client 127.0.0.1#56074: query: 26.197.135.66.in-addr.arpa IN PTR
+Mar 10 10:08:09 avas named[6986]: client 127.0.0.1#56073: query: 149.167.108.218.reject_non_fqdn_hostname IN A
+Mar 10 10:08:11 avas named[6986]: client 127.0.0.1#56074: query: 26.197.135.66.in-addr.arpa IN PTR
+Mar 10 10:08:14 avas named[6986]: client 127.0.0.1#56075: query: 149.167.108.218.reject_unknown_sender_domain IN A
+Mar 10 10:08:16 avas named[6986]: client 127.0.0.1#56076: query: 26.197.135.66.reject_non_fqdn_hostname IN A
+Mar 10 10:08:19 avas named[6986]: client 127.0.0.1#56075: query: 149.167.108.218.reject_unknown_sender_domain IN A
+Mar 10 10:08:21 avas named[6986]: client 127.0.0.1#56076: query: 26.197.135.66.reject_non_fqdn_hostname IN A
+Mar 10 10:08:24 avas named[6986]: client 127.0.0.1#56077: query: xtram.com IN A
+Mar 10 10:08:26 avas named[6986]: client 127.0.0.1#56078: query: 26.197.135.66.reject_unknown_sender_domain IN A
+Mar 10 10:08:29 avas named[6986]: client 127.0.0.1#56077: query: xtram.com IN A
+Mar 10 10:08:31 avas named[6986]: client 127.0.0.1#56078: query: 26.197.135.66.reject_unknown_sender_domain IN A
+Mar 10 10:08:34 avas named[6986]: client 127.0.0.1#56079: query: xtram.com IN AAAA
+Mar 10 10:08:36 avas named[6986]: client 127.0.0.1#56081: query: yahoo.com IN A
+Mar 10 10:08:39 avas named[6986]: client 127.0.0.1#56079: query: xtram.com IN AAAA
+Mar 10 10:08:41 avas named[6986]: client 127.0.0.1#56081: query: yahoo.com IN A
+Mar 10 10:08:44 avas named[6986]: client 127.0.0.1#56082: query: xtram.com IN MX
+Mar 10 10:08:46 avas named[6986]: client 127.0.0.1#56083: query: yahoo.com IN AAAA
+Mar 10 10:08:49 avas named[6986]: client 127.0.0.1#56082: query: xtram.com IN MX
+Mar 10 10:08:51 avas named[6986]: client 127.0.0.1#56083: query: yahoo.com IN AAAA
+Mar 10 10:08:54 avas named[6986]: client 127.0.0.1#56084: query: cnc.bc.ca IN A
+Mar 10 10:08:55 avas named[6986]: client 127.0.0.1#56085: query: 234.192.37.208.in-addr.arpa IN PTR
+Mar 10 10:08:56 avas named[6986]: client 127.0.0.1#56086: query: yahoo.com IN MX
+Mar 10 10:08:59 avas named[6986]: client 127.0.0.1#56084: query: cnc.bc.ca IN A
+Mar 10 10:09:00 avas named[6986]: client 127.0.0.1#56085: query: 234.192.37.208.in-addr.arpa IN PTR
+Mar 10 10:09:02 avas named[6986]: client 127.0.0.1#56086: query: yahoo.com IN MX
+Mar 10 10:09:04 avas named[6986]: client 127.0.0.1#56087: query: cnc.bc.ca IN AAAA
+Mar 10 10:09:07 avas named[6986]: client 127.0.0.1#56089: query: cnc.bc.ca IN A
+Mar 10 10:09:09 avas named[6986]: client 127.0.0.1#56087: query: cnc.bc.ca IN AAAA
+Mar 10 10:09:12 avas named[6986]: client 127.0.0.1#56089: query: cnc.bc.ca IN A
+Mar 10 10:09:14 avas named[6986]: client 127.0.0.1#56090: query: cnc.bc.ca IN MX
+Mar 10 10:09:17 avas named[6986]: client 127.0.0.1#56092: query: cnc.bc.ca IN AAAA
+Mar 10 10:09:19 avas named[6986]: client 127.0.0.1#56090: query: cnc.bc.ca IN MX
+Mar 10 10:09:22 avas named[6986]: client 127.0.0.1#56092: query: cnc.bc.ca IN AAAA
+Mar 10 10:09:24 avas named[6986]: client 127.0.0.1#56095: query: 149.167.108.218.sbl.spamhaus.org IN A
+Mar 10 10:09:27 avas named[6986]: client 127.0.0.1#56096: query: cnc.bc.ca IN MX
+Mar 10 10:09:29 avas named[6986]: client 127.0.0.1#56095: query: 149.167.108.218.sbl.spamhaus.org IN A
+Mar 10 10:09:32 avas named[6986]: client 127.0.0.1#56096: query: cnc.bc.ca IN MX
+Mar 10 10:09:33 avas named[6986]: client 127.0.0.1#56097: query: 76.36.129.24.in-addr.arpa IN PTR
+Mar 10 10:09:35 avas named[6986]: client 127.0.0.1#56098: query: 149.167.108.218.dnsbl.sorbs.net IN A
+Mar 10 10:09:37 avas named[6986]: client 127.0.0.1#56099: query: 26.197.135.66.sbl.spamhaus.org IN A
+Mar 10 10:09:38 avas named[6986]: client 127.0.0.1#56097: query: 76.36.129.24.in-addr.arpa IN PTR
+Mar 10 10:09:40 avas named[6986]: client 127.0.0.1#56098: query: 149.167.108.218.dnsbl.sorbs.net IN A
+Mar 10 10:09:42 avas named[6986]: client 127.0.0.1#56099: query: 26.197.135.66.sbl.spamhaus.org IN A
+Mar 10 10:09:45 avas named[6986]: client 127.0.0.1#56106: query: 149.167.108.218.list.dsbl.org IN A
+Mar 10 10:09:46 avas named[6986]: client 127.0.0.1#56108: query: 76.36.129.24.reject_non_fqdn_hostname IN A
+Mar 10 10:09:47 avas named[6986]: client 127.0.0.1#56109: query: 26.197.135.66.dnsbl.sorbs.net IN A
+Mar 10 10:09:50 avas named[6986]: client 127.0.0.1#56106: query: 149.167.108.218.list.dsbl.org IN A
+Mar 10 10:09:51 avas named[6986]: client 127.0.0.1#56108: query: 76.36.129.24.reject_non_fqdn_hostname IN A
+Mar 10 10:09:52 avas named[6986]: client 127.0.0.1#56109: query: 26.197.135.66.dnsbl.sorbs.net IN A
+Mar 10 10:09:55 avas named[6986]: client 127.0.0.1#56111: query: 149.167.108.218.opm.blitzed.org IN A
+Mar 10 10:09:56 avas named[6986]: client 127.0.0.1#56113: query: 76.36.129.24.reject_unknown_sender_domain IN A
+Mar 10 10:09:57 avas named[6986]: client 127.0.0.1#56114: query: 26.197.135.66.list.dsbl.org IN A
+Mar 10 10:10:00 avas named[6986]: client 127.0.0.1#56111: query: 149.167.108.218.opm.blitzed.org IN A
+Mar 10 10:10:01 avas named[6986]: client 127.0.0.1#56116: query: dcc1.cnc.bc.ca IN A
+Mar 10 10:10:01 avas named[6986]: client 127.0.0.1#56113: query: 76.36.129.24.reject_unknown_sender_domain IN A
+Mar 10 10:10:02 avas named[6986]: client 127.0.0.1#56114: query: 26.197.135.66.list.dsbl.org IN A
+Mar 10 10:10:03 avas named[6986]: client 127.0.0.1#56119: query: ccsd.ca IN MX
+Mar 10 10:10:06 avas named[6986]: client 127.0.0.1#56116: query: dcc1.cnc.bc.ca IN A
+Mar 10 10:10:06 avas named[6986]: client 127.0.0.1#56120: query: ameritech.net IN A
+Mar 10 10:10:07 avas named[6986]: client 127.0.0.1#56121: query: 26.197.135.66.opm.blitzed.org IN A
+Mar 10 10:10:08 avas named[6986]: client 127.0.0.1#56119: query: ccsd.ca IN MX
+Mar 10 10:10:11 avas named[6986]: client 127.0.0.1#56122: query: dcc1.cnc.bc.ca.cnc.bc.ca IN A
+Mar 10 10:10:11 avas named[6986]: client 127.0.0.1#56120: query: ameritech.net IN A
+Mar 10 10:10:12 avas named[6986]: client 127.0.0.1#56121: query: 26.197.135.66.opm.blitzed.org IN A
+Mar 10 10:10:13 avas named[6986]: client 127.0.0.1#56119: query: ccsd.ca IN MX
+Mar 10 10:10:16 avas named[6986]: client 127.0.0.1#56122: query: dcc1.cnc.bc.ca.cnc.bc.ca IN A
+Mar 10 10:10:16 avas named[6986]: client 127.0.0.1#56123: query: ameritech.net IN AAAA
+Mar 10 10:10:18 avas named[6986]: client 127.0.0.1#56119: query: ccsd.ca IN MX
+Mar 10 10:10:21 avas named[6986]: client 127.0.0.1#56123: query: ameritech.net IN AAAA
+Mar 10 10:10:23 avas named[6986]: client 127.0.0.1#56124: query: ccsd.ca IN A
+Mar 10 10:10:26 avas named[6986]: client 127.0.0.1#56125: query: ameritech.net IN MX
+Mar 10 10:10:28 avas named[6986]: client 127.0.0.1#56124: query: ccsd.ca IN A
+Mar 10 10:10:31 avas named[6986]: client 127.0.0.1#56125: query: ameritech.net IN MX
+Mar 10 10:10:33 avas named[6986]: client 127.0.0.1#56124: query: ccsd.ca IN A
+Mar 10 10:10:36 avas named[6986]: client 127.0.0.1#56126: query: cnc.bc.ca IN A
+Mar 10 10:10:38 avas named[6986]: client 127.0.0.1#56124: query: ccsd.ca IN A
+Mar 10 10:10:41 avas named[6986]: client 127.0.0.1#56126: query: cnc.bc.ca IN A
+Mar 10 10:10:43 avas named[6986]: client 127.0.0.1#56128: query: 247.35.38.218.in-addr.arpa IN PTR
+Mar 10 10:10:46 avas named[6986]: client 127.0.0.1#56129: query: cnc.bc.ca IN AAAA
+Mar 10 10:10:47 avas named[6986]: client 127.0.0.1#56130: query: 231.236.71.24.in-addr.arpa IN PTR
+Mar 10 10:10:48 avas named[6986]: client 127.0.0.1#56128: query: 247.35.38.218.in-addr.arpa IN PTR
+Mar 10 10:10:51 avas named[6986]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar 10 10:10:51 avas named[6986]: client 127.0.0.1#56129: query: cnc.bc.ca IN AAAA
+Mar 10 10:10:51 avas named[6986]: zone PLNet/IN: refresh: non-authoritative answer from master 192.75.26.21#53
+Mar 10 10:10:52 avas named[6986]: client 127.0.0.1#56130: query: 231.236.71.24.in-addr.arpa IN PTR
+Mar 10 10:10:55 avas named[6986]: client 127.0.0.1#56131: query: 247.35.38.218.reject_non_fqdn_hostname IN A
+Mar 10 10:10:56 avas named[6986]: client 127.0.0.1#56132: query: cnc.bc.ca IN MX
+Mar 10 10:10:57 avas named[6986]: client 127.0.0.1#56133: query: 231.236.71.24.reject_non_fqdn_hostname IN A
+Mar 10 10:11:00 avas named[6986]: client 127.0.0.1#56131: query: 247.35.38.218.reject_non_fqdn_hostname IN A
+Mar 10 10:11:01 avas named[6986]: client 127.0.0.1#56132: query: cnc.bc.ca IN MX
+Mar 10 10:11:02 avas named[6986]: client 127.0.0.1#56133: query: 231.236.71.24.reject_non_fqdn_hostname IN A
+Mar 10 10:11:05 avas named[6986]: client 127.0.0.1#56139: query: 247.35.38.218.reject_unknown_sender_domain IN A
+Mar 10 10:11:06 avas named[6986]: client 127.0.0.1#56141: query: 76.36.129.24.sbl.spamhaus.org IN A
+Mar 10 10:11:07 avas named[6986]: client 127.0.0.1#56142: query: 231.236.71.24.reject_unknown_sender_domain IN A
+Mar 10 10:11:08 avas named[6986]: client 127.0.0.1#56143: query: 79.106.115.200.in-addr.arpa IN PTR
+Mar 10 10:11:10 avas named[6986]: client 127.0.0.1#56139: query: 247.35.38.218.reject_unknown_sender_domain IN A
+Mar 10 10:11:11 avas named[6986]: client 127.0.0.1#56141: query: 76.36.129.24.sbl.spamhaus.org IN A
+Mar 10 10:11:12 avas named[6986]: client 127.0.0.1#56142: query: 231.236.71.24.reject_unknown_sender_domain IN A
+Mar 10 10:11:13 avas named[6986]: client 127.0.0.1#56143: query: 79.106.115.200.in-addr.arpa IN PTR
+Mar 10 10:11:15 avas named[6986]: client 127.0.0.1#56149: query: hongkong.com IN A
+Mar 10 10:11:16 avas named[6986]: client 127.0.0.1#56150: query: 76.36.129.24.dnsbl.sorbs.net IN A
+Mar 10 10:11:17 avas named[6986]: client 127.0.0.1#56151: query: netflash.net IN A
+Mar 10 10:11:20 avas named[6986]: client 127.0.0.1#56149: query: hongkong.com IN A
+Mar 10 10:11:21 avas named[6986]: client 127.0.0.1#56150: query: 76.36.129.24.dnsbl.sorbs.net IN A
+Mar 10 10:11:23 avas named[6986]: client 127.0.0.1#56151: query: netflash.net IN A
+Mar 10 10:11:25 avas named[6986]: client 127.0.0.1#56152: query: 79.106.115.200.reject_non_fqdn_hostname IN A
+Mar 10 10:11:25 avas named[6986]: client 127.0.0.1#56154: query: hongkong.com IN AAAA
+Mar 10 10:11:26 avas named[6986]: client 127.0.0.1#56155: query: 76.36.129.24.list.dsbl.org IN A
+Mar 10 10:11:28 avas named[6986]: client 127.0.0.1#56156: query: netflash.net IN AAAA
+Mar 10 10:11:30 avas named[6986]: client 127.0.0.1#56152: query: 79.106.115.200.reject_non_fqdn_hostname IN A
+Mar 10 10:11:30 avas named[6986]: client 127.0.0.1#56154: query: hongkong.com IN AAAA
+Mar 10 10:11:31 avas named[6986]: client 127.0.0.1#56155: query: 76.36.129.24.list.dsbl.org IN A
+Mar 10 10:11:33 avas named[6986]: client 127.0.0.1#56156: query: netflash.net IN AAAA
+Mar 10 10:11:35 avas named[6986]: client 127.0.0.1#56159: query: 79.106.115.200.reject_unknown_sender_domain IN A
+Mar 10 10:11:35 avas named[6986]: client 127.0.0.1#56160: query: hongkong.com IN MX
+Mar 10 10:11:36 avas named[6986]: client 127.0.0.1#56161: query: 76.36.129.24.opm.blitzed.org IN A
+Mar 10 10:11:38 avas named[6986]: client 127.0.0.1#56162: query: netflash.net IN MX
+Mar 10 10:11:40 avas named[6986]: client 127.0.0.1#56159: query: 79.106.115.200.reject_unknown_sender_domain IN A
+Mar 10 10:11:40 avas named[6986]: client 127.0.0.1#56160: query: hongkong.com IN MX
+Mar 10 10:11:41 avas named[6986]: client 127.0.0.1#56161: query: 76.36.129.24.opm.blitzed.org IN A
+Mar 10 10:11:43 avas named[6986]: client 127.0.0.1#56162: query: netflash.net IN MX
+Mar 10 10:11:45 avas named[6986]: client 127.0.0.1#56163: query: news.com IN A
+Mar 10 10:11:45 avas named[6986]: client 127.0.0.1#56164: query: cnc.bc.ca IN A
+Mar 10 10:11:48 avas named[6986]: client 127.0.0.1#56165: query: cnc.bc.ca IN A
+Mar 10 10:11:48 avas named[6986]: client 127.0.0.1#56166: query: hotmail.com IN MX
+Mar 10 10:11:50 avas named[6986]: client 127.0.0.1#56163: query: news.com IN A
+Mar 10 10:11:50 avas named[6986]: client 127.0.0.1#56164: query: cnc.bc.ca IN A
+Mar 10 10:11:51 avas named[6986]: client 127.0.0.1#56167: query: nait.ab.ca IN MX
+Mar 10 10:11:53 avas named[6986]: client 127.0.0.1#56165: query: cnc.bc.ca IN A
+Mar 10 10:11:53 avas named[6986]: client 127.0.0.1#56166: query: hotmail.com IN MX
+Mar 10 10:11:55 avas named[6986]: client 127.0.0.1#56168: query: news.com IN AAAA
+Mar 10 10:11:55 avas named[6986]: client 127.0.0.1#56169: query: cnc.bc.ca IN AAAA
+Mar 10 10:11:56 avas named[6986]: client 127.0.0.1#56167: query: nait.ab.ca IN MX
+Mar 10 10:11:58 avas named[6986]: client 127.0.0.1#56170: query: cnc.bc.ca IN AAAA
+Mar 10 10:11:58 avas named[6986]: client 127.0.0.1#56166: query: hotmail.com IN MX
+Mar 10 10:12:00 avas named[6986]: client 127.0.0.1#56168: query: news.com IN AAAA
+Mar 10 10:12:00 avas named[6986]: client 127.0.0.1#56169: query: cnc.bc.ca IN AAAA
+Mar 10 10:12:01 avas named[6986]: client 127.0.0.1#56167: query: nait.ab.ca IN MX
+Mar 10 10:12:03 avas named[6986]: client 127.0.0.1#56170: query: cnc.bc.ca IN AAAA
+Mar 10 10:12:03 avas named[6986]: client 127.0.0.1#56166: query: hotmail.com IN MX
+Mar 10 10:12:05 avas named[6986]: client 127.0.0.1#56172: query: news.com IN MX
+Mar 10 10:12:05 avas named[6986]: client 127.0.0.1#56174: query: cnc.bc.ca IN MX
+Mar 10 10:12:06 avas named[6986]: client 127.0.0.1#56167: query: nait.ab.ca IN MX
+Mar 10 10:12:08 avas named[6986]: client 127.0.0.1#56176: query: cnc.bc.ca IN MX
+Mar 10 10:12:08 avas named[6986]: client 127.0.0.1#56178: query: hotmail.com IN A
+Mar 10 10:12:10 avas named[6986]: client 127.0.0.1#56172: query: news.com IN MX
+Mar 10 10:12:10 avas named[6986]: client 127.0.0.1#56174: query: cnc.bc.ca IN MX
+Mar 10 10:12:11 avas named[6986]: client 127.0.0.1#56183: query: nait.ab.ca IN A
+Mar 10 10:12:13 avas named[6986]: client 127.0.0.1#56176: query: cnc.bc.ca IN MX
+Mar 10 10:12:13 avas named[6986]: client 127.0.0.1#56178: query: hotmail.com IN A
+Mar 10 10:12:15 avas dccd[7527]: 1165620 free hash entries among 23347200 total; starting `dbclean -DPq -i 1189 -L info,local5.notice -L error,local5.err`
+Mar 10 10:12:15 avas dbclean[7527]: 1.2.35 cleaning dcc_db
+Mar 10 10:12:15 avas named[6986]: client 127.0.0.1#56187: query: dccnet.com IN MX
+Mar 10 10:12:15 avas dccd[2818]: database cleaning begun
+Mar 10 10:12:15 avas named[6986]: client 127.0.0.1#56188: query: cnc.bc.ca IN A
+Mar 10 10:12:15 avas named[6986]: client 127.0.0.1#56188: query: cnc.bc.ca IN A
+Mar 10 10:12:16 avas named[6986]: client 127.0.0.1#56183: query: nait.ab.ca IN A
+Mar 10 10:12:18 avas named[6986]: client 127.0.0.1#56189: query: 231.236.71.24.sbl.spamhaus.org IN A
+Mar 10 10:12:18 avas named[6986]: client 127.0.0.1#56178: query: hotmail.com IN A
+Mar 10 10:12:19 avas named[6986]: client 127.0.0.1#56190: query: 251.70.27.142.in-addr.arpa IN PTR
+Mar 10 10:12:20 avas named[6986]: client 127.0.0.1#56187: query: dccnet.com IN MX
+Mar 10 10:12:20 avas named[6986]: client 127.0.0.1#56191: query: cnc.bc.ca IN AAAA
+Mar 10 10:12:23 avas named[6986]: client 127.0.0.1#56183: query: nait.ab.ca IN A
+Mar 10 10:12:44 avas named[6986]: client 127.0.0.1#56189: query: 231.236.71.24.sbl.spamhaus.org IN A
+Mar 10 10:12:57 avas named[6986]: client 127.0.0.1#56178: query: hotmail.com IN A
+Mar 10 10:12:57 avas named[6986]: client 127.0.0.1#56190: query: 251.70.27.142.in-addr.arpa IN PTR
+Mar 10 10:12:57 avas named[6986]: client 127.0.0.1#56187: query: dccnet.com IN MX
+Mar 10 10:12:57 avas named[6986]: client 127.0.0.1#56191: query: cnc.bc.ca IN AAAA
+Mar 10 10:12:57 avas named[6986]: client 127.0.0.1#56183: query: nait.ab.ca IN A
+Mar 10 10:12:57 avas named[6986]: client 127.0.0.1#56187: query: dccnet.com IN MX
+Mar 10 10:12:57 avas named[6986]: client 127.0.0.1#56191: query: cnc.bc.ca IN MX
+Mar 10 10:12:57 avas named[6986]: client 127.0.0.1#56192: query: dccnet.com IN A
+Mar 10 10:12:57 avas named[6986]: client 127.0.0.1#56191: query: cnc.bc.ca IN MX
+Mar 10 10:12:57 avas named[6986]: client 127.0.0.1#56192: query: dccnet.com IN A
+Mar 10 10:12:57 avas named[6986]: client 127.0.0.1#56193: query: 79.106.115.200.sbl.spamhaus.org IN A
+Mar 10 10:12:57 avas named[6986]: client 127.0.0.1#56192: query: dccnet.com IN A
+Mar 10 10:12:57 avas named[6986]: client 127.0.0.1#56193: query: 79.106.115.200.sbl.spamhaus.org IN A
+Mar 10 10:12:57 avas named[6986]: client 127.0.0.1#56192: query: dccnet.com IN A
+Mar 10 10:12:57 avas named[6986]: client 127.0.0.1#56193: query: 231.236.71.24.dnsbl.sorbs.net IN A
+Mar 10 10:12:57 avas named[6986]: client 127.0.0.1#56193: query: 231.236.71.24.dnsbl.sorbs.net IN A
+Mar 10 10:12:57 avas named[6986]: client 127.0.0.1#56194: query: 79.106.115.200.dnsbl.sorbs.net IN A
+Mar 10 10:12:57 avas named[6986]: client 127.0.0.1#56195: query: cnc.bc.ca IN A
+Mar 10 10:13:02 avas named[6986]: client 127.0.0.1#56196: query: 231.236.71.24.list.dsbl.org IN A
+Mar 10 10:13:02 avas named[6986]: client 127.0.0.1#56194: query: 79.106.115.200.dnsbl.sorbs.net IN A
+Mar 10 10:13:02 avas named[6986]: client 127.0.0.1#56195: query: cnc.bc.ca IN A
+Mar 10 10:13:03 avas named[6986]: client 127.0.0.1#56198: query: 47.184.53.209.in-addr.arpa IN PTR
+Mar 10 10:13:07 avas named[6986]: client 127.0.0.1#56196: query: 231.236.71.24.list.dsbl.org IN A
+Mar 10 10:13:07 avas named[6986]: client 127.0.0.1#56199: query: 79.106.115.200.list.dsbl.org IN A
+Mar 10 10:13:07 avas named[6986]: client 127.0.0.1#56200: query: cnc.bc.ca IN AAAA
+Mar 10 10:13:08 avas named[6986]: client 127.0.0.1#56198: query: 47.184.53.209.in-addr.arpa IN PTR
+Mar 10 10:13:12 avas named[6986]: client 127.0.0.1#56201: query: 231.236.71.24.opm.blitzed.org IN A
+Mar 10 10:13:12 avas named[6986]: client 127.0.0.1#56199: query: 79.106.115.200.list.dsbl.org IN A
+Mar 10 10:13:12 avas named[6986]: client 127.0.0.1#56200: query: cnc.bc.ca IN AAAA
+Mar 10 10:13:13 avas named[6986]: client 127.0.0.1#56202: query: 47.184.53.209.reject_non_fqdn_hostname IN A
+Mar 10 10:13:17 avas named[6986]: client 127.0.0.1#56201: query: 231.236.71.24.opm.blitzed.org IN A
+Mar 10 10:13:17 avas named[6986]: client 127.0.0.1#56203: query: 79.106.115.200.opm.blitzed.org IN A
+Mar 10 10:13:17 avas named[6986]: client 127.0.0.1#56204: query: cnc.bc.ca IN MX
+Mar 10 10:13:18 avas named[6986]: client 127.0.0.1#56202: query: 47.184.53.209.reject_non_fqdn_hostname IN A
+Mar 10 10:13:22 avas named[6986]: client 127.0.0.1#56203: query: 79.106.115.200.opm.blitzed.org IN A
+Mar 10 10:13:22 avas named[6986]: client 127.0.0.1#56204: query: cnc.bc.ca IN MX
+Mar 10 10:13:23 avas named[6986]: client 127.0.0.1#56205: query: 47.184.53.209.reject_unknown_sender_domain IN A
+Mar 10 10:13:27 avas named[6986]: client 127.0.0.1#56207: query: aset.ab.ca IN A
+Mar 10 10:13:28 avas named[6986]: client 127.0.0.1#56205: query: 47.184.53.209.reject_unknown_sender_domain IN A
+Mar 10 10:13:32 avas named[6986]: client 127.0.0.1#56207: query: aset.ab.ca IN A
+Mar 10 10:13:33 avas named[6986]: client 127.0.0.1#56208: query: city.pg.bc.ca IN A
+Mar 10 10:13:37 avas named[6986]: client 127.0.0.1#56209: query: aset.ab.ca IN AAAA
+Mar 10 10:13:38 avas named[6986]: client 127.0.0.1#56208: query: city.pg.bc.ca IN A
+Mar 10 10:13:39 avas named[6986]: client 127.0.0.1#56210: query: 136.14.6.69.in-addr.arpa IN PTR
+Mar 10 10:13:39 avas named[6986]: client 127.0.0.1#56211: query: 237.204.65.212.in-addr.arpa IN PTR
+Mar 10 10:13:42 avas named[6986]: client 127.0.0.1#56209: query: aset.ab.ca IN AAAA
+Mar 10 10:13:43 avas named[6986]: client 127.0.0.1#56228: query: city.pg.bc.ca IN AAAA
+Mar 10 10:13:44 avas named[6986]: client 127.0.0.1#56210: query: 136.14.6.69.in-addr.arpa IN PTR
+Mar 10 10:13:44 avas named[6986]: client 127.0.0.1#56211: query: 237.204.65.212.in-addr.arpa IN PTR
+Mar 10 10:13:45 avas named[6986]: client 127.0.0.1#56229: query: cariboo.bc.ca IN MX
+Mar 10 10:13:47 avas named[6986]: client 127.0.0.1#56231: query: aset.ab.ca IN MX
+Mar 10 10:13:48 avas named[6986]: client 127.0.0.1#56228: query: city.pg.bc.ca IN AAAA
+Mar 10 10:13:49 avas named[6986]: client 127.0.0.1#56234: query: 136.14.6.69.reject_non_fqdn_hostname IN A
+Mar 10 10:13:49 avas named[6986]: client 127.0.0.1#56235: query: shaw.ca IN MX
+Mar 10 10:13:50 avas named[6986]: client 127.0.0.1#56229: query: cariboo.bc.ca IN MX
+Mar 10 10:13:52 avas named[6986]: client 127.0.0.1#56231: query: aset.ab.ca IN MX
+Mar 10 10:13:54 avas named[6986]: client 127.0.0.1#56236: query: city.pg.bc.ca IN MX
+Mar 10 10:13:54 avas named[6986]: client 127.0.0.1#56237: query: shaw.ca IN MX
+Mar 10 10:13:54 avas named[6986]: client 127.0.0.1#56234: query: 136.14.6.69.reject_non_fqdn_hostname IN A
+Mar 10 10:13:54 avas named[6986]: client 127.0.0.1#56235: query: shaw.ca IN MX
+Mar 10 10:13:55 avas named[6986]: client 127.0.0.1#56229: query: cariboo.bc.ca IN MX
+Mar 10 10:13:59 avas named[6986]: client 127.0.0.1#56236: query: city.pg.bc.ca IN MX
+Mar 10 10:13:59 avas named[6986]: client 127.0.0.1#56237: query: shaw.ca IN MX
+Mar 10 10:13:59 avas named[6986]: client 127.0.0.1#56238: query: 136.14.6.69.reject_unknown_sender_domain IN A
+Mar 10 10:13:59 avas named[6986]: client 127.0.0.1#56235: query: shaw.ca IN MX
+Mar 10 10:14:00 avas named[6986]: client 127.0.0.1#56229: query: cariboo.bc.ca IN MX
+Mar 10 10:14:04 avas named[6986]: client 127.0.0.1#56239: query: cnc.bc.ca IN A
+Mar 10 10:14:04 avas named[6986]: client 127.0.0.1#56237: query: shaw.ca IN MX
+Mar 10 10:14:04 avas named[6986]: client 127.0.0.1#56238: query: 136.14.6.69.reject_unknown_sender_domain IN A
+Mar 10 10:14:04 avas named[6986]: client 127.0.0.1#56235: query: shaw.ca IN MX
+Mar 10 10:14:05 avas named[6986]: client 127.0.0.1#56240: query: cariboo.bc.ca IN A
+Mar 10 10:14:09 avas named[6986]: client 127.0.0.1#56239: query: cnc.bc.ca IN A
+Mar 10 10:14:09 avas named[6986]: client 127.0.0.1#56237: query: shaw.ca IN MX
+Mar 10 10:14:09 avas named[6986]: client 127.0.0.1#56241: query: 36.moosq.com IN A
+Mar 10 10:14:09 avas named[6986]: client 127.0.0.1#56243: query: shaw.ca IN A
+Mar 10 10:14:10 avas named[6986]: client 127.0.0.1#56240: query: cariboo.bc.ca IN A
+Mar 10 10:14:14 avas named[6986]: client 127.0.0.1#56251: query: cnc.bc.ca IN AAAA
+Mar 10 10:14:14 avas named[6986]: client 127.0.0.1#56252: query: shaw.ca IN A
+Mar 10 10:14:14 avas named[6986]: client 127.0.0.1#56241: query: 36.moosq.com IN A
+Mar 10 10:14:14 avas named[6986]: client 127.0.0.1#56253: query: 237.204.65.212.reject_non_fqdn_hostname IN A
+Mar 10 10:14:14 avas named[6986]: client 127.0.0.1#56243: query: shaw.ca IN A
+Mar 10 10:14:15 avas named[6986]: client 127.0.0.1#56240: query: cariboo.bc.ca IN A
+Mar 10 10:14:19 avas named[6986]: client 127.0.0.1#56251: query: cnc.bc.ca IN AAAA
+Mar 10 10:14:19 avas named[6986]: client 127.0.0.1#56252: query: shaw.ca IN A
+Mar 10 10:14:19 avas named[6986]: client 127.0.0.1#56254: query: 36.moosq.com IN AAAA
+Mar 10 10:14:19 avas named[6986]: client 127.0.0.1#56253: query: 237.204.65.212.reject_non_fqdn_hostname IN A
+Mar 10 10:14:19 avas named[6986]: client 127.0.0.1#56243: query: shaw.ca IN A
+Mar 10 10:14:20 avas named[6986]: client 127.0.0.1#56240: query: cariboo.bc.ca IN A
+Mar 10 10:14:24 avas named[6986]: client 127.0.0.1#56255: query: cnc.bc.ca IN MX
+Mar 10 10:14:24 avas named[6986]: client 127.0.0.1#56252: query: shaw.ca IN A
+Mar 10 10:14:24 avas named[6986]: client 127.0.0.1#56254: query: 36.moosq.com IN AAAA
+Mar 10 10:14:24 avas named[6986]: client 127.0.0.1#56243: query: shaw.ca IN A
+Mar 10 10:14:24 avas named[6986]: client 127.0.0.1#56256: query: 237.204.65.212.reject_unknown_sender_domain IN A
+Mar 10 10:14:29 avas named[6986]: client 127.0.0.1#56255: query: cnc.bc.ca IN MX
+Mar 10 10:14:29 avas named[6986]: client 127.0.0.1#56252: query: shaw.ca IN A
+Mar 10 10:14:29 avas named[6986]: client 127.0.0.1#56257: query: 36.moosq.com IN MX
+Mar 10 10:14:29 avas named[6986]: client 127.0.0.1#56256: query: 237.204.65.212.reject_unknown_sender_domain IN A
+Mar 10 10:14:31 avas named[6986]: client 127.0.0.1#56258: query: 113.200.210.213.in-addr.arpa IN PTR
+Mar 10 10:14:34 avas named[6986]: client 127.0.0.1#56259: query: 47.184.53.209.sbl.spamhaus.org IN A
+Mar 10 10:14:34 avas named[6986]: client 127.0.0.1#56257: query: 36.moosq.com IN MX
+Mar 10 10:14:34 avas named[6986]: client 127.0.0.1#56260: query: vrflow.oulu.fi IN A
+Mar 10 10:14:36 avas named[6986]: client 127.0.0.1#56258: query: 113.200.210.213.in-addr.arpa IN PTR
+Mar 10 10:14:39 avas named[6986]: client 127.0.0.1#56259: query: 47.184.53.209.sbl.spamhaus.org IN A
+Mar 10 10:14:39 avas named[6986]: client 127.0.0.1#56262: query: cnc.bc.ca IN A
+Mar 10 10:14:39 avas named[6986]: client 127.0.0.1#56260: query: vrflow.oulu.fi IN A
+Mar 10 10:14:44 avas named[6986]: client 127.0.0.1#56263: query: 47.184.53.209.dnsbl.sorbs.net IN A
+Mar 10 10:14:44 avas named[6986]: client 127.0.0.1#56262: query: cnc.bc.ca IN A
+Mar 10 10:14:44 avas named[6986]: client 127.0.0.1#56264: query: vrflow.oulu.fi IN AAAA
+Mar 10 10:14:49 avas named[6986]: client 127.0.0.1#56263: query: 47.184.53.209.dnsbl.sorbs.net IN A
+Mar 10 10:14:49 avas named[6986]: client 127.0.0.1#56265: query: 113.200.210.213.reject_non_fqdn_hostname IN A
+Mar 10 10:14:49 avas named[6986]: client 127.0.0.1#56266: query: cnc.bc.ca IN AAAA
+Mar 10 10:14:49 avas named[6986]: client 127.0.0.1#56264: query: vrflow.oulu.fi IN AAAA
+Mar 10 10:14:54 avas named[6986]: client 127.0.0.1#56269: query: 47.184.53.209.list.dsbl.org IN A
+Mar 10 10:14:54 avas named[6986]: client 127.0.0.1#56265: query: 113.200.210.213.reject_non_fqdn_hostname IN A
+Mar 10 10:14:54 avas named[6986]: client 127.0.0.1#56266: query: cnc.bc.ca IN AAAA
+Mar 10 10:14:54 avas named[6986]: client 127.0.0.1#56272: query: vrflow.oulu.fi IN MX
+Mar 10 10:14:59 avas named[6986]: client 127.0.0.1#56269: query: 47.184.53.209.list.dsbl.org IN A
+Mar 10 10:14:59 avas named[6986]: client 127.0.0.1#56278: query: 113.200.210.213.reject_unknown_sender_domain IN A
+Mar 10 10:14:59 avas named[6986]: client 127.0.0.1#56279: query: cnc.bc.ca IN MX
+Mar 10 10:14:59 avas named[6986]: client 127.0.0.1#56281: query: 10.223.71.24.in-addr.arpa IN PTR
+Mar 10 10:15:00 avas named[6986]: client 127.0.0.1#56272: query: vrflow.oulu.fi IN MX
+Mar 10 10:15:03 avas named[6986]: client 127.0.0.1#56283: query: 231.236.71.24.in-addr.arpa IN PTR
+Mar 10 10:15:04 avas named[6986]: client 127.0.0.1#56284: query: 74.212.153.141.in-addr.arpa IN PTR
+Mar 10 10:15:04 avas named[6986]: client 127.0.0.1#56285: query: 47.184.53.209.opm.blitzed.org IN A
+Mar 10 10:15:04 avas named[6986]: client 127.0.0.1#56278: query: 113.200.210.213.reject_unknown_sender_domain IN A
+Mar 10 10:15:04 avas named[6986]: client 127.0.0.1#56279: query: cnc.bc.ca IN MX
+Mar 10 10:15:04 avas named[6986]: client 127.0.0.1#56281: query: 10.223.71.24.in-addr.arpa IN PTR
+Mar 10 10:15:05 avas named[6986]: client 127.0.0.1#56286: query: cnc.bc.ca IN A
+Mar 10 10:15:08 avas named[6986]: client 127.0.0.1#56283: query: 231.236.71.24.in-addr.arpa IN PTR
+Mar 10 10:15:09 avas named[6986]: client 127.0.0.1#56284: query: 74.212.153.141.in-addr.arpa IN PTR
+Mar 10 10:15:09 avas named[6986]: client 127.0.0.1#56285: query: 47.184.53.209.opm.blitzed.org IN A
+Mar 10 10:15:09 avas named[6986]: client 127.0.0.1#56287: query: nicole.org IN A
+Mar 10 10:15:09 avas named[6986]: client 127.0.0.1#56288: query: cnc.bc.ca IN A
+Mar 10 10:15:09 avas named[6986]: client 127.0.0.1#56289: query: 136.14.6.69.sbl.spamhaus.org IN A
+Mar 10 10:15:10 avas named[6986]: client 127.0.0.1#56290: query: 10.223.71.24.reject_non_fqdn_hostname IN A
+Mar 10 10:15:14 avas named[6986]: client 127.0.0.1#56287: query: nicole.org IN A
+Mar 10 10:15:14 avas named[6986]: client 127.0.0.1#56292: query: cnc.bc.ca IN AAAA
+Mar 10 10:15:14 avas named[6986]: client 127.0.0.1#56289: query: 136.14.6.69.sbl.spamhaus.org IN A
+Mar 10 10:15:15 avas named[6986]: client 127.0.0.1#56290: query: 10.223.71.24.reject_non_fqdn_hostname IN A
+Mar 10 10:15:15 avas named[6986]: client 127.0.0.1#56293: query: 231.236.71.24.reject_non_fqdn_hostname IN A
+Mar 10 10:15:18 avas named[6986]: client 127.0.0.1#56295: query: 45.29.196.221.in-addr.arpa IN PTR
+Mar 10 10:15:19 avas named[6986]: client 127.0.0.1#56297: query: nicole.org IN AAAA
+Mar 10 10:15:19 avas named[6986]: client 127.0.0.1#56292: query: cnc.bc.ca IN AAAA
+Mar 10 10:15:19 avas named[6986]: client 127.0.0.1#56298: query: cnc.bc.ca IN MX
+Mar 10 10:15:19 avas named[6986]: client 127.0.0.1#56299: query: 136.14.6.69.dnsbl.sorbs.net IN A
+Mar 10 10:15:20 avas named[6986]: client 127.0.0.1#56300: query: 10.223.71.24.reject_unknown_sender_domain IN A
+Mar 10 10:15:20 avas named[6986]: client 127.0.0.1#56293: query: 231.236.71.24.reject_non_fqdn_hostname IN A
+Mar 10 10:15:23 avas named[6986]: client 127.0.0.1#56295: query: 45.29.196.221.in-addr.arpa IN PTR
+Mar 10 10:15:24 avas named[6986]: client 127.0.0.1#56297: query: nicole.org IN AAAA
+Mar 10 10:15:24 avas named[6986]: client 127.0.0.1#56298: query: cnc.bc.ca IN MX
+Mar 10 10:15:24 avas named[6986]: client 127.0.0.1#56299: query: 136.14.6.69.dnsbl.sorbs.net IN A
+Mar 10 10:15:25 avas named[6986]: client 127.0.0.1#56300: query: 10.223.71.24.reject_unknown_sender_domain IN A
+Mar 10 10:15:25 avas named[6986]: client 127.0.0.1#56301: query: 231.236.71.24.reject_unknown_sender_domain IN A
+Mar 10 10:15:28 avas named[6986]: client 127.0.0.1#56305: query: 147.102.162.216.in-addr.arpa IN PTR
+Mar 10 10:15:28 avas named[6986]: client 127.0.0.1#56306: query: 74.212.153.141.reject_non_fqdn_hostname IN A
+Mar 10 10:15:29 avas named[6986]: client 127.0.0.1#56307: query: nicole.org IN MX
+Mar 10 10:15:29 avas named[6986]: client 127.0.0.1#56308: query: 237.204.65.212.sbl.spamhaus.org IN A
+Mar 10 10:15:29 avas named[6986]: client 127.0.0.1#56309: query: 136.14.6.69.list.dsbl.org IN A
+Mar 10 10:15:30 avas named[6986]: client 127.0.0.1#56310: query: mcgregor.bc.ca IN A
+Mar 10 10:15:30 avas named[6986]: client 127.0.0.1#56301: query: 231.236.71.24.reject_unknown_sender_domain IN A
+Mar 10 10:15:30 avas named[6986]: client 127.0.0.1#56311: query: 45.29.196.221.reject_non_fqdn_hostname IN A
+Mar 10 10:15:33 avas named[6986]: client 127.0.0.1#56305: query: 147.102.162.216.in-addr.arpa IN PTR
+Mar 10 10:15:33 avas named[6986]: client 127.0.0.1#56306: query: 74.212.153.141.reject_non_fqdn_hostname IN A
+Mar 10 10:15:34 avas named[6986]: client 127.0.0.1#56307: query: nicole.org IN MX
+Mar 10 10:15:34 avas named[6986]: client 127.0.0.1#56308: query: 237.204.65.212.sbl.spamhaus.org IN A
+Mar 10 10:15:34 avas named[6986]: client 127.0.0.1#56309: query: 136.14.6.69.list.dsbl.org IN A
+Mar 10 10:15:35 avas named[6986]: client 127.0.0.1#56310: query: mcgregor.bc.ca IN A
+Mar 10 10:15:35 avas named[6986]: client 127.0.0.1#56321: query: primus.ca IN A
+Mar 10 10:15:35 avas named[6986]: client 127.0.0.1#56311: query: 45.29.196.221.reject_non_fqdn_hostname IN A
+Mar 10 10:15:38 avas named[6986]: client 127.0.0.1#56323: query: 147.102.162.216.reject_non_fqdn_hostname IN A
+Mar 10 10:15:38 avas named[6986]: client 127.0.0.1#56324: query: 74.212.153.141.reject_unknown_sender_domain IN A
+Mar 10 10:15:39 avas named[6986]: client 127.0.0.1#56326: query: cnc.bc.ca IN A
+Mar 10 10:15:39 avas named[6986]: client 127.0.0.1#56326: query: cnc.bc.ca IN A
+Mar 10 10:15:39 avas named[6986]: client 127.0.0.1#56327: query: 136.14.6.69.opm.blitzed.org IN A
+Mar 10 10:15:39 avas named[6986]: client 127.0.0.1#56328: query: 237.204.65.212.dnsbl.sorbs.net IN A
+Mar 10 10:15:40 avas named[6986]: client 127.0.0.1#56329: query: mcgregor.bc.ca IN AAAA
+Mar 10 10:15:40 avas named[6986]: client 127.0.0.1#56321: query: primus.ca IN A
+Mar 10 10:15:40 avas named[6986]: client 127.0.0.1#56331: query: 45.29.196.221.reject_unknown_sender_domain IN A
+Mar 10 10:15:43 avas named[6986]: client 127.0.0.1#56323: query: 147.102.162.216.reject_non_fqdn_hostname IN A
+Mar 10 10:15:43 avas named[6986]: client 127.0.0.1#56324: query: 74.212.153.141.reject_unknown_sender_domain IN A
+Mar 10 10:15:44 avas named[6986]: client 127.0.0.1#56333: query: cnc.bc.ca IN AAAA
+Mar 10 10:15:44 avas named[6986]: client 127.0.0.1#56327: query: 136.14.6.69.opm.blitzed.org IN A
+Mar 10 10:15:44 avas named[6986]: client 127.0.0.1#56328: query: 237.204.65.212.dnsbl.sorbs.net IN A
+Mar 10 10:15:45 avas named[6986]: client 127.0.0.1#56329: query: mcgregor.bc.ca IN AAAA
+Mar 10 10:15:45 avas named[6986]: client 127.0.0.1#56334: query: primus.ca IN AAAA
+Mar 10 10:15:45 avas named[6986]: client 127.0.0.1#56331: query: 45.29.196.221.reject_unknown_sender_domain IN A
+Mar 10 10:15:48 avas named[6986]: client 127.0.0.1#56335: query: 147.102.162.216.reject_unknown_sender_domain IN A
+Mar 10 10:15:48 avas named[6986]: client 127.0.0.1#56336: query: msn.com IN A
+Mar 10 10:15:49 avas named[6986]: client 127.0.0.1#56333: query: cnc.bc.ca IN AAAA
+Mar 10 10:15:49 avas named[6986]: client 127.0.0.1#56337: query: cnc.bc.ca IN MX
+Mar 10 10:15:49 avas named[6986]: client 127.0.0.1#56339: query: 237.204.65.212.list.dsbl.org IN A
+Mar 10 10:15:50 avas named[6986]: client 127.0.0.1#56341: query: mcgregor.bc.ca IN MX
+Mar 10 10:15:50 avas named[6986]: client 127.0.0.1#56334: query: primus.ca IN AAAA
+Mar 10 10:15:50 avas named[6986]: client 127.0.0.1#56343: query: netscape.net IN A
+Mar 10 10:15:51 avas named[6986]: client 127.0.0.1#56345: query: 145.150.99.61.in-addr.arpa IN PTR
+Mar 10 10:15:53 avas named[6986]: client 127.0.0.1#56335: query: 147.102.162.216.reject_unknown_sender_domain IN A
+Mar 10 10:15:53 avas named[6986]: client 127.0.0.1#56336: query: msn.com IN A
+Mar 10 10:15:54 avas named[6986]: client 127.0.0.1#56337: query: cnc.bc.ca IN MX
+Mar 10 10:15:54 avas named[6986]: client 127.0.0.1#56339: query: 237.204.65.212.list.dsbl.org IN A
+Mar 10 10:15:55 avas named[6986]: client 127.0.0.1#56341: query: mcgregor.bc.ca IN MX
+Mar 10 10:15:55 avas named[6986]: client 127.0.0.1#56347: query: primus.ca IN MX
+Mar 10 10:15:55 avas named[6986]: client 127.0.0.1#56343: query: netscape.net IN A
+Mar 10 10:15:56 avas named[6986]: client 127.0.0.1#56345: query: 145.150.99.61.in-addr.arpa IN PTR
+Mar 10 10:15:56 avas named[6986]: client 127.0.0.1#56350: query: mail.canfor.ca IN MX
+Mar 10 10:15:57 avas named[6986]: client 127.0.0.1#56351: query: telusplanet.net IN MX
+Mar 10 10:15:57 avas named[6986]: client 127.0.0.1#56352: query: astrology.com IN MX
+Mar 10 10:15:57 avas named[6986]: client 127.0.0.1#56353: query: nvit.bc.ca IN MX
+Mar 10 10:15:57 avas named[6986]: client 127.0.0.1#56354: query: cstc.bc.ca IN MX
+Mar 10 10:15:57 avas named[6986]: client 127.0.0.1#56355: query: wcb.bc.ca IN MX
+Mar 10 10:15:57 avas named[6986]: client 127.0.0.1#56356: query: hgju77gf.com IN MX
+Mar 10 10:15:57 avas named[6986]: client 127.0.0.1#56357: query: shaw.ca IN MX
+Mar 10 10:15:57 avas named[6986]: client 127.0.0.1#56359: query: unbc.ca IN MX
+Mar 10 10:15:57 avas named[6986]: client 127.0.0.1#56360: query: hotmail.com IN MX
+Mar 10 10:15:57 avas named[6986]: client 127.0.0.1#56361: query: yahoo.com IN MX
+Mar 10 10:15:57 avas named[6986]: client 127.0.0.1#56362: query: unbc.ca IN MX
+Mar 10 10:15:57 avas named[6986]: client 127.0.0.1#56363: query: abitibiconsolidated.com IN MX
+Mar 10 10:15:57 avas named[6986]: client 127.0.0.1#56364: query: vcc.ca IN MX
+Mar 10 10:15:57 avas named[6986]: client 127.0.0.1#56365: query: telus.net IN MX
+Mar 10 10:15:57 avas named[6986]: client 127.0.0.1#56366: query: shaw.ca IN MX
+Mar 10 10:15:57 avas named[6986]: client 127.0.0.1#56367: query: unbc.ca IN MX
+Mar 10 10:15:57 avas named[6986]: client 127.0.0.1#56368: query: hotmail.com IN MX
+Mar 10 10:15:57 avas named[6986]: client 127.0.0.1#56369: query: unbc.ca IN MX
+Mar 10 10:15:58 avas named[6986]: client 127.0.0.1#56370: query: lolslideshow.com IN A
+Mar 10 10:15:58 avas named[6986]: client 127.0.0.1#56371: query: msn.com IN AAAA
+Mar 10 10:15:59 avas named[6986]: client 127.0.0.1#56372: query: 113.200.210.213.sbl.spamhaus.org IN A
+Mar 10 10:15:59 avas named[6986]: client 127.0.0.1#56374: query: 237.204.65.212.opm.blitzed.org IN A
+Mar 10 10:16:00 avas named[6986]: client 127.0.0.1#56377: query: cnc.bc.ca IN A
+Mar 10 10:16:00 avas named[6986]: client 127.0.0.1#56347: query: primus.ca IN MX
+Mar 10 10:16:00 avas named[6986]: client 127.0.0.1#56380: query: cox.net IN MX
+Mar 10 10:16:00 avas named[6986]: client 127.0.0.1#56381: query: netscape.net IN AAAA
+Mar 10 10:16:01 avas named[6986]: client 127.0.0.1#56382: query: 234.192.37.208.in-addr.arpa IN PTR
+Mar 10 10:16:01 avas named[6986]: client 127.0.0.1#56350: query: mail.canfor.ca IN MX
+Mar 10 10:16:02 avas named[6986]: client 127.0.0.1#56351: query: telusplanet.net IN MX
+Mar 10 10:16:02 avas named[6986]: client 127.0.0.1#56352: query: astrology.com IN MX
+Mar 10 10:16:02 avas named[6986]: client 127.0.0.1#56353: query: nvit.bc.ca IN MX
+Mar 10 10:16:02 avas named[6986]: client 127.0.0.1#56354: query: cstc.bc.ca IN MX
+Mar 10 10:16:02 avas named[6986]: client 127.0.0.1#56355: query: wcb.bc.ca IN MX
+Mar 10 10:16:02 avas named[6986]: client 127.0.0.1#56356: query: hgju77gf.com IN MX
+Mar 10 10:16:02 avas named[6986]: client 127.0.0.1#56357: query: shaw.ca IN MX
+Mar 10 10:16:02 avas named[6986]: client 127.0.0.1#56359: query: unbc.ca IN MX
+Mar 10 10:16:02 avas named[6986]: client 127.0.0.1#56360: query: hotmail.com IN MX
+Mar 10 10:16:02 avas named[6986]: client 127.0.0.1#56361: query: yahoo.com IN MX
+Mar 10 10:16:02 avas named[6986]: client 127.0.0.1#56362: query: unbc.ca IN MX
+Mar 10 10:16:02 avas named[6986]: client 127.0.0.1#56363: query: abitibiconsolidated.com IN MX
+Mar 10 10:16:02 avas named[6986]: client 127.0.0.1#56364: query: vcc.ca IN MX
+Mar 10 10:16:02 avas named[6986]: client 127.0.0.1#56365: query: telus.net IN MX
+Mar 10 10:16:02 avas named[6986]: client 127.0.0.1#56366: query: shaw.ca IN MX
+Mar 10 10:16:02 avas named[6986]: client 127.0.0.1#56367: query: unbc.ca IN MX
+Mar 10 10:16:02 avas named[6986]: client 127.0.0.1#56368: query: hotmail.com IN MX
+Mar 10 10:16:02 avas named[6986]: client 127.0.0.1#56369: query: unbc.ca IN MX
+Mar 10 10:16:02 avas named[6986]: client 127.0.0.1#56384: query: 145.150.99.61.reject_non_fqdn_hostname IN A
+Mar 10 10:16:03 avas named[6986]: client 127.0.0.1#56370: query: lolslideshow.com IN A
+Mar 10 10:16:03 avas named[6986]: client 127.0.0.1#56371: query: msn.com IN AAAA
+Mar 10 10:16:04 avas named[6986]: client 127.0.0.1#56372: query: 113.200.210.213.sbl.spamhaus.org IN A
+Mar 10 10:16:04 avas named[6986]: client 127.0.0.1#56374: query: 237.204.65.212.opm.blitzed.org IN A
+Mar 10 10:16:05 avas named[6986]: client 127.0.0.1#56377: query: cnc.bc.ca IN A
+Mar 10 10:16:05 avas named[6986]: client 127.0.0.1#56385: query: cnc.bc.ca IN A
+Mar 10 10:16:05 avas named[6986]: client 127.0.0.1#56380: query: cox.net IN MX
+Mar 10 10:16:05 avas named[6986]: client 127.0.0.1#56381: query: netscape.net IN AAAA
+Mar 10 10:16:06 avas named[6986]: client 127.0.0.1#56382: query: 234.192.37.208.in-addr.arpa IN PTR
+Mar 10 10:16:06 avas named[6986]: client 127.0.0.1#56386: query: 157.65.35.65.in-addr.arpa IN PTR
+Mar 10 10:16:06 avas named[6986]: client 127.0.0.1#56350: query: mail.canfor.ca IN MX
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56387: query: 55.247.14.69.in-addr.arpa IN PTR
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56351: query: telusplanet.net IN MX
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56352: query: astrology.com IN MX
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56353: query: nvit.bc.ca IN MX
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56354: query: cstc.bc.ca IN MX
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56355: query: wcb.bc.ca IN MX
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56356: query: hgju77gf.com IN MX
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56357: query: shaw.ca IN MX
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56359: query: unbc.ca IN MX
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56360: query: hotmail.com IN MX
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56361: query: yahoo.com IN MX
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56362: query: unbc.ca IN MX
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56363: query: abitibiconsolidated.com IN MX
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56364: query: vcc.ca IN MX
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56365: query: telus.net IN MX
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56366: query: shaw.ca IN MX
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56367: query: unbc.ca IN MX
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56368: query: hotmail.com IN MX
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56369: query: unbc.ca IN MX
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56388: query: 244.212.84.24.in-addr.arpa IN PTR
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56384: query: 145.150.99.61.reject_non_fqdn_hostname IN A
+Mar 10 10:16:07 avas named[6986]: client 127.0.0.1#56389: query: 174.22.252.193.in-addr.arpa IN PTR
+Mar 10 10:16:08 avas named[6986]: client 127.0.0.1#56390: query: lolslideshow.com IN AAAA
+Mar 10 10:16:08 avas named[6986]: client 127.0.0.1#56391: query: msn.com IN MX
+Mar 10 10:16:09 avas named[6986]: client 127.0.0.1#56392: query: cnc.bc.ca IN AAAA
+Mar 10 10:16:09 avas named[6986]: client 127.0.0.1#56394: query: 113.200.210.213.dnsbl.sorbs.net IN A
+Mar 10 10:16:09 avas named[6986]: client 127.0.0.1#56395: query: cnc.bc.ca IN A
+Mar 10 10:16:10 avas named[6986]: client 127.0.0.1#56380: query: cox.net IN MX
+Mar 10 10:16:10 avas named[6986]: client 127.0.0.1#56397: query: netscape.net IN MX
+Mar 10 10:16:11 avas named[6986]: client 127.0.0.1#56386: query: 157.65.35.65.in-addr.arpa IN PTR
+Mar 10 10:16:11 avas named[6986]: client 127.0.0.1#56350: query: mail.canfor.ca IN MX
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56387: query: 55.247.14.69.in-addr.arpa IN PTR
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56351: query: telusplanet.net IN MX
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56352: query: astrology.com IN MX
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56353: query: nvit.bc.ca IN MX
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56354: query: cstc.bc.ca IN MX
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56355: query: wcb.bc.ca IN MX
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56356: query: hgju77gf.com IN MX
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56357: query: shaw.ca IN MX
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56359: query: unbc.ca IN MX
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56360: query: hotmail.com IN MX
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56361: query: yahoo.com IN MX
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56362: query: unbc.ca IN MX
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56363: query: abitibiconsolidated.com IN MX
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56364: query: vcc.ca IN MX
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56365: query: telus.net IN MX
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56366: query: shaw.ca IN MX
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56367: query: unbc.ca IN MX
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56368: query: hotmail.com IN MX
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56369: query: unbc.ca IN MX
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56388: query: 244.212.84.24.in-addr.arpa IN PTR
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56398: query: 145.150.99.61.reject_unknown_sender_domain IN A
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56399: query: 244.212.84.24.in-addr.arpa IN PTR
+Mar 10 10:16:12 avas named[6986]: client 127.0.0.1#56389: query: 174.22.252.193.in-addr.arpa IN PTR
+Mar 10 10:16:13 avas named[6986]: client 127.0.0.1#56400: query: 193.24.218.211.in-addr.arpa IN PTR
+Mar 10 10:16:13 avas named[6986]: client 127.0.0.1#56390: query: lolslideshow.com IN AAAA
+Mar 10 10:16:13 avas named[6986]: client 127.0.0.1#56391: query: msn.com IN MX
+Mar 10 10:16:14 avas named[6986]: client 127.0.0.1#56392: query: cnc.bc.ca IN AAAA
+Mar 10 10:16:14 avas named[6986]: client 127.0.0.1#56394: query: 113.200.210.213.dnsbl.sorbs.net IN A
+Mar 10 10:16:14 avas named[6986]: client 127.0.0.1#56401: query: cnc.bc.ca IN AAAA
+Mar 10 10:16:15 avas named[6986]: client 127.0.0.1#56380: query: cox.net IN MX
+Mar 10 10:16:15 avas named[6986]: client 127.0.0.1#56397: query: netscape.net IN MX
+Mar 10 10:16:16 avas named[6986]: client 127.0.0.1#56405: query: mail.canfor.ca IN A
+Mar 10 10:16:17 avas named[6986]: client 127.0.0.1#56406: query: telusplanet.net IN A
+Mar 10 10:16:17 avas named[6986]: client 127.0.0.1#56407: query: astrology.com IN A
+Mar 10 10:16:17 avas named[6986]: client 127.0.0.1#56408: query: nvit.bc.ca IN A
+Mar 10 10:16:17 avas named[6986]: client 127.0.0.1#56409: query: cstc.bc.ca IN A
+Mar 10 10:16:17 avas named[6986]: client 127.0.0.1#56410: query: wcb.bc.ca IN A
+Mar 10 10:16:17 avas named[6986]: client 127.0.0.1#56411: query: hgju77gf.com IN A
+Mar 10 10:16:17 avas named[6986]: client 127.0.0.1#56412: query: shaw.ca IN A
+Mar 10 10:16:17 avas named[6986]: client 127.0.0.1#56413: query: unbc.ca IN A
+Mar 10 10:16:17 avas named[6986]: client 127.0.0.1#56414: query: hotmail.com IN A
+Mar 10 10:16:17 avas named[6986]: client 127.0.0.1#56415: query: yahoo.com IN A
+Mar 10 10:16:17 avas named[6986]: client 127.0.0.1#56416: query: unbc.ca IN A
+Mar 10 10:16:17 avas named[6986]: client 127.0.0.1#56417: query: abitibiconsolidated.com IN A
+Mar 10 10:16:17 avas named[6986]: client 127.0.0.1#56418: query: vcc.ca IN A
+Mar 10 10:16:17 avas named[6986]: client 127.0.0.1#56419: query: telus.net IN A
+Mar 10 10:16:17 avas named[6986]: client 127.0.0.1#56420: query: shaw.ca IN A
+Mar 10 10:16:17 avas named[6986]: client 127.0.0.1#56421: query: unbc.ca IN A
+Mar 10 10:16:17 avas named[6986]: client 127.0.0.1#56422: query: hotmail.com IN A
+Mar 10 10:16:17 avas named[6986]: client 127.0.0.1#56423: query: unbc.ca IN A
+Mar 10 10:16:17 avas named[6986]: client 127.0.0.1#56424: query: 55.247.14.69.reject_non_fqdn_hostname IN A
+Mar 10 10:16:17 avas named[6986]: client 127.0.0.1#56398: query: 145.150.99.61.reject_unknown_sender_domain IN A
+Mar 10 10:16:17 avas named[6986]: client 127.0.0.1#56399: query: 244.212.84.24.in-addr.arpa IN PTR
+Mar 10 10:16:18 avas named[6986]: client 127.0.0.1#56425: query: 157.65.35.65.reject_non_fqdn_hostname IN A
+Mar 10 10:16:18 avas named[6986]: client 127.0.0.1#56400: query: 193.24.218.211.in-addr.arpa IN PTR
+Mar 10 10:16:18 avas named[6986]: client 127.0.0.1#56426: query: 244.212.84.24.reject_non_fqdn_hostname IN A
+Mar 10 10:16:18 avas named[6986]: client 127.0.0.1#56427: query: lolslideshow.com IN MX
+Mar 10 10:16:18 avas named[6986]: client 127.0.0.1#56428: query: 174.22.252.193.reject_non_fqdn_hostname IN A
+Mar 10 10:16:18 avas named[6986]: client 127.0.0.1#56429: query: cnc.bc.ca IN A
+Mar 10 10:16:19 avas named[6986]: client 127.0.0.1#56430: query: cnc.bc.ca IN MX
+Mar 10 10:16:19 avas named[6986]: client 127.0.0.1#56432: query: cnc.bc.ca IN AAAA
+Mar 10 10:16:19 avas named[6986]: client 127.0.0.1#56433: query: 113.200.210.213.list.dsbl.org IN A
+Mar 10 10:16:20 avas named[6986]: client 127.0.0.1#56434: query: cox.net IN A
+Mar 10 10:16:20 avas named[6986]: client 127.0.0.1#56435: query: cnc.bc.ca IN A
+Mar 10 10:16:21 avas named[6986]: client 127.0.0.1#56405: query: mail.canfor.ca IN A
+Mar 10 10:16:22 avas named[6986]: client 127.0.0.1#56406: query: telusplanet.net IN A
+Mar 10 10:16:22 avas named[6986]: client 127.0.0.1#56407: query: astrology.com IN A
+Mar 10 10:16:22 avas named[6986]: client 127.0.0.1#56408: query: nvit.bc.ca IN A
+Mar 10 10:16:22 avas named[6986]: client 127.0.0.1#56409: query: cstc.bc.ca IN A
+Mar 10 10:16:22 avas named[6986]: client 127.0.0.1#56410: query: wcb.bc.ca IN A
+Mar 10 10:16:22 avas named[6986]: client 127.0.0.1#56411: query: hgju77gf.com IN A
+Mar 10 10:16:22 avas named[6986]: client 127.0.0.1#56412: query: shaw.ca IN A
+Mar 10 10:16:22 avas named[6986]: client 127.0.0.1#56413: query: unbc.ca IN A
+Mar 10 10:16:22 avas named[6986]: client 127.0.0.1#56414: query: hotmail.com IN A
+Mar 10 10:16:22 avas named[6986]: client 127.0.0.1#56415: query: yahoo.com IN A
+Mar 10 10:16:22 avas named[6986]: client 127.0.0.1#56416: query: unbc.ca IN A
+Mar 10 10:16:22 avas named[6986]: client 127.0.0.1#56417: query: abitibiconsolidated.com IN A
+Mar 10 10:16:22 avas named[6986]: client 127.0.0.1#56418: query: vcc.ca IN A
+Mar 10 10:16:22 avas named[6986]: client 127.0.0.1#56419: query: telus.net IN A
+Mar 10 10:16:22 avas named[6986]: client 127.0.0.1#56420: query: shaw.ca IN A
+Mar 10 10:16:22 avas named[6986]: client 127.0.0.1#56421: query: unbc.ca IN A
+Mar 10 10:16:22 avas named[6986]: client 127.0.0.1#56422: query: hotmail.com IN A
+Mar 10 10:16:22 avas named[6986]: client 127.0.0.1#56423: query: unbc.ca IN A
+Mar 10 10:16:22 avas named[6986]: client 127.0.0.1#56424: query: 55.247.14.69.reject_non_fqdn_hostname IN A
+Mar 10 10:16:22 avas named[6986]: client 127.0.0.1#56436: query: 168.com IN A
+Mar 10 10:16:23 avas named[6986]: client 127.0.0.1#56425: query: 157.65.35.65.reject_non_fqdn_hostname IN A
+Mar 10 10:16:23 avas named[6986]: client 127.0.0.1#56426: query: 244.212.84.24.reject_non_fqdn_hostname IN A
+Mar 10 10:16:23 avas named[6986]: client 127.0.0.1#56427: query: lolslideshow.com IN MX
+Mar 10 10:16:23 avas named[6986]: client 127.0.0.1#56428: query: 174.22.252.193.reject_non_fqdn_hostname IN A
+Mar 10 10:16:23 avas named[6986]: client 127.0.0.1#56429: query: cnc.bc.ca IN A
+Mar 10 10:16:23 avas named[6986]: client 127.0.0.1#56437: query: 244.212.84.24.reject_non_fqdn_hostname IN A
+Mar 10 10:16:24 avas named[6986]: client 127.0.0.1#56438: query: 193.24.218.211.reject_non_fqdn_hostname IN A
+Mar 10 10:16:24 avas named[6986]: client 127.0.0.1#56430: query: cnc.bc.ca IN MX
+Mar 10 10:16:24 avas named[6986]: client 127.0.0.1#56441: query: cnc.bc.ca IN MX
+Mar 10 10:16:24 avas named[6986]: client 127.0.0.1#56433: query: 113.200.210.213.list.dsbl.org IN A
+Mar 10 10:16:25 avas named[6986]: client 127.0.0.1#56434: query: cox.net IN A
+Mar 10 10:16:25 avas named[6986]: client 127.0.0.1#56435: query: cnc.bc.ca IN A
+Mar 10 10:16:26 avas named[6986]: client 127.0.0.1#56405: query: mail.canfor.ca IN A
+Mar 10 10:16:27 avas named[6986]: client 127.0.0.1#56406: query: telusplanet.net IN A
+Mar 10 10:16:27 avas named[6986]: client 127.0.0.1#56407: query: astrology.com IN A
+Mar 10 10:16:27 avas named[6986]: client 127.0.0.1#56408: query: nvit.bc.ca IN A
+Mar 10 10:16:27 avas named[6986]: client 127.0.0.1#56409: query: cstc.bc.ca IN A
+Mar 10 10:16:27 avas named[6986]: client 127.0.0.1#56410: query: wcb.bc.ca IN A
+Mar 10 10:16:27 avas named[6986]: client 127.0.0.1#56411: query: hgju77gf.com IN A
+Mar 10 10:16:27 avas named[6986]: client 127.0.0.1#56412: query: shaw.ca IN A
+Mar 10 10:16:27 avas named[6986]: client 127.0.0.1#56413: query: unbc.ca IN A
+Mar 10 10:16:27 avas named[6986]: client 127.0.0.1#56414: query: hotmail.com IN A
+Mar 10 10:16:27 avas named[6986]: client 127.0.0.1#56415: query: yahoo.com IN A
+Mar 10 10:16:27 avas named[6986]: client 127.0.0.1#56416: query: unbc.ca IN A
+Mar 10 10:16:27 avas named[6986]: client 127.0.0.1#56417: query: abitibiconsolidated.com IN A
+Mar 10 10:16:27 avas named[6986]: client 127.0.0.1#56418: query: vcc.ca IN A
+Mar 10 10:16:27 avas named[6986]: client 127.0.0.1#56419: query: telus.net IN A
+Mar 10 10:16:27 avas named[6986]: client 127.0.0.1#56420: query: shaw.ca IN A
+Mar 10 10:16:27 avas named[6986]: client 127.0.0.1#56421: query: unbc.ca IN A
+Mar 10 10:16:27 avas named[6986]: client 127.0.0.1#56422: query: hotmail.com IN A
+Mar 10 10:16:27 avas named[6986]: client 127.0.0.1#56423: query: unbc.ca IN A
+Mar 10 10:16:27 avas named[6986]: client 127.0.0.1#56443: query: 55.247.14.69.reject_unknown_sender_domain IN A
+Mar 10 10:16:27 avas named[6986]: client 127.0.0.1#56436: query: 168.com IN A
+Mar 10 10:16:28 avas named[6986]: client 127.0.0.1#56444: query: 157.65.35.65.reject_unknown_sender_domain IN A
+Mar 10 10:16:28 avas named[6986]: client 127.0.0.1#56445: query: 244.212.84.24.reject_unknown_sender_domain IN A
+Mar 10 10:16:28 avas named[6986]: client 127.0.0.1#56446: query: cnc.bc.ca IN A
+Mar 10 10:16:28 avas named[6986]: client 127.0.0.1#56447: query: 174.22.252.193.reject_unknown_sender_domain IN A
+Mar 10 10:16:28 avas named[6986]: client 127.0.0.1#56448: query: cnc.bc.ca IN AAAA
+Mar 10 10:16:28 avas named[6986]: client 127.0.0.1#56437: query: 244.212.84.24.reject_non_fqdn_hostname IN A
+Mar 10 10:16:29 avas named[6986]: client 127.0.0.1#56438: query: 193.24.218.211.reject_non_fqdn_hostname IN A
+Mar 10 10:16:29 avas named[6986]: client 127.0.0.1#56449: query: 10.223.71.24.sbl.spamhaus.org IN A
+Mar 10 10:16:29 avas named[6986]: client 127.0.0.1#56441: query: cnc.bc.ca IN MX
+Mar 10 10:16:29 avas named[6986]: client 127.0.0.1#56450: query: 113.200.210.213.opm.blitzed.org IN A
+Mar 10 10:16:30 avas named[6986]: client 127.0.0.1#56434: query: cox.net IN A
+Mar 10 10:16:30 avas named[6986]: client 127.0.0.1#56451: query: cnc.bc.ca IN AAAA
+Mar 10 10:16:32 avas named[6986]: client 127.0.0.1#56405: query: mail.canfor.ca IN A
+Mar 10 10:16:32 avas named[6986]: client 127.0.0.1#56406: query: telusplanet.net IN A
+Mar 10 10:16:32 avas named[6986]: client 127.0.0.1#56407: query: astrology.com IN A
+Mar 10 10:16:32 avas named[6986]: client 127.0.0.1#56408: query: nvit.bc.ca IN A
+Mar 10 10:16:32 avas named[6986]: client 127.0.0.1#56409: query: cstc.bc.ca IN A
+Mar 10 10:16:32 avas named[6986]: client 127.0.0.1#56410: query: wcb.bc.ca IN A
+Mar 10 10:16:32 avas named[6986]: client 127.0.0.1#56411: query: hgju77gf.com IN A
+Mar 10 10:16:32 avas named[6986]: client 127.0.0.1#56412: query: shaw.ca IN A
+Mar 10 10:16:32 avas named[6986]: client 127.0.0.1#56413: query: unbc.ca IN A
+Mar 10 10:16:32 avas named[6986]: client 127.0.0.1#56414: query: hotmail.com IN A
+Mar 10 10:16:32 avas named[6986]: client 127.0.0.1#56415: query: yahoo.com IN A
+Mar 10 10:16:32 avas named[6986]: client 127.0.0.1#56416: query: unbc.ca IN A
+Mar 10 10:16:32 avas named[6986]: client 127.0.0.1#56417: query: abitibiconsolidated.com IN A
+Mar 10 10:16:32 avas named[6986]: client 127.0.0.1#56418: query: vcc.ca IN A
+Mar 10 10:16:32 avas named[6986]: client 127.0.0.1#56419: query: telus.net IN A
+Mar 10 10:16:32 avas named[6986]: client 127.0.0.1#56420: query: shaw.ca IN A
+Mar 10 10:16:32 avas named[6986]: client 127.0.0.1#56421: query: unbc.ca IN A
+Mar 10 10:16:32 avas named[6986]: client 127.0.0.1#56422: query: hotmail.com IN A
+Mar 10 10:16:32 avas named[6986]: client 127.0.0.1#56423: query: unbc.ca IN A
+Mar 10 10:16:32 avas named[6986]: client 127.0.0.1#56443: query: 55.247.14.69.reject_unknown_sender_domain IN A
+Mar 10 10:16:32 avas named[6986]: client 127.0.0.1#56452: query: 168.com IN AAAA
+Mar 10 10:16:33 avas named[6986]: client 127.0.0.1#56444: query: 157.65.35.65.reject_unknown_sender_domain IN A
+Mar 10 10:16:33 avas named[6986]: client 127.0.0.1#56445: query: 244.212.84.24.reject_unknown_sender_domain IN A
+Mar 10 10:16:33 avas named[6986]: client 127.0.0.1#56446: query: cnc.bc.ca IN A
+Mar 10 10:16:33 avas named[6986]: client 127.0.0.1#56447: query: 174.22.252.193.reject_unknown_sender_domain IN A
+Mar 10 10:16:33 avas named[6986]: client 127.0.0.1#56448: query: cnc.bc.ca IN AAAA
+Mar 10 10:16:33 avas named[6986]: client 127.0.0.1#56454: query: 244.212.84.24.reject_unknown_sender_domain IN A
+Mar 10 10:16:34 avas named[6986]: client 127.0.0.1#56455: query: 193.24.218.211.reject_unknown_sender_domain IN A
+Mar 10 10:16:34 avas named[6986]: client 127.0.0.1#56449: query: 10.223.71.24.sbl.spamhaus.org IN A
+Mar 10 10:16:34 avas named[6986]: client 127.0.0.1#56450: query: 113.200.210.213.opm.blitzed.org IN A
+Mar 10 10:16:35 avas named[6986]: client 127.0.0.1#56456: query: 231.236.71.24.sbl.spamhaus.org IN A
+Mar 10 10:16:35 avas named[6986]: client 127.0.0.1#56434: query: cox.net IN A
+Mar 10 10:16:35 avas named[6986]: client 127.0.0.1#56451: query: cnc.bc.ca IN AAAA
+Mar 10 10:16:37 avas named[6986]: client 127.0.0.1#56457: query: bcit.ca IN MX
+Mar 10 10:16:37 avas named[6986]: client 127.0.0.1#56458: query: bzib.com IN A
+Mar 10 10:16:37 avas named[6986]: client 127.0.0.1#56452: query: 168.com IN AAAA
+Mar 10 10:16:38 avas named[6986]: client 127.0.0.1#56459: query: bellsouth.net IN A
+Mar 10 10:16:38 avas named[6986]: client 127.0.0.1#56460: query: aol.com IN A
+Mar 10 10:16:38 avas named[6986]: client 127.0.0.1#56461: query: cnc.bc.ca IN AAAA
+Mar 10 10:16:38 avas named[6986]: client 127.0.0.1#56462: query: voila.fr IN A
+Mar 10 10:16:38 avas named[6986]: client 127.0.0.1#56463: query: cnc.bc.ca IN MX
+Mar 10 10:16:38 avas named[6986]: client 127.0.0.1#56454: query: 244.212.84.24.reject_unknown_sender_domain IN A
+Mar 10 10:16:39 avas named[6986]: client 127.0.0.1#56455: query: 193.24.218.211.reject_unknown_sender_domain IN A
+Mar 10 10:16:39 avas named[6986]: client 127.0.0.1#56464: query: 10.223.71.24.dnsbl.sorbs.net IN A
+Mar 10 10:16:40 avas named[6986]: client 127.0.0.1#56456: query: 231.236.71.24.sbl.spamhaus.org IN A
+Mar 10 10:16:40 avas named[6986]: client 127.0.0.1#56465: query: cnc.bc.ca IN MX
+Mar 10 10:16:42 avas named[6986]: client 127.0.0.1#56457: query: bcit.ca IN MX
+Mar 10 10:16:42 avas named[6986]: client 127.0.0.1#56458: query: bzib.com IN A
+Mar 10 10:16:43 avas named[6986]: client 127.0.0.1#56466: query: 168.com IN MX
+Mar 10 10:16:43 avas named[6986]: client 127.0.0.1#56459: query: bellsouth.net IN A
+Mar 10 10:16:43 avas named[6986]: client 127.0.0.1#56460: query: aol.com IN A
+Mar 10 10:16:43 avas named[6986]: client 127.0.0.1#56461: query: cnc.bc.ca IN AAAA
+Mar 10 10:16:43 avas named[6986]: client 127.0.0.1#56462: query: voila.fr IN A
+Mar 10 10:16:43 avas named[6986]: client 127.0.0.1#56463: query: cnc.bc.ca IN MX
+Mar 10 10:16:43 avas named[6986]: client 127.0.0.1#56467: query: interchange.ubc.ca IN A
+Mar 10 10:16:44 avas named[6986]: client 127.0.0.1#56468: query: euireland.ie IN A
+Mar 10 10:16:44 avas named[6986]: client 127.0.0.1#56464: query: 10.223.71.24.dnsbl.sorbs.net IN A
+Mar 10 10:16:45 avas named[6986]: client 127.0.0.1#56469: query: 231.236.71.24.dnsbl.sorbs.net IN A
+Mar 10 10:16:45 avas named[6986]: client 127.0.0.1#56465: query: cnc.bc.ca IN MX
+Mar 10 10:16:47 avas named[6986]: client 127.0.0.1#56457: query: bcit.ca IN MX
+Mar 10 10:16:47 avas named[6986]: client 127.0.0.1#56470: query: bzib.com IN AAAA
+Mar 10 10:16:48 avas named[6986]: client 127.0.0.1#56466: query: 168.com IN MX
+Mar 10 10:16:48 avas named[6986]: client 127.0.0.1#56471: query: bellsouth.net IN AAAA
+Mar 10 10:16:48 avas named[6986]: client 127.0.0.1#56472: query: aol.com IN AAAA
+Mar 10 10:16:48 avas named[6986]: client 127.0.0.1#56473: query: cnc.bc.ca IN MX
+Mar 10 10:16:48 avas named[6986]: client 127.0.0.1#56474: query: voila.fr IN AAAA
+Mar 10 10:16:48 avas named[6986]: client 127.0.0.1#56475: query: 74.212.153.141.sbl.spamhaus.org IN A
+Mar 10 10:16:48 avas named[6986]: client 127.0.0.1#56467: query: interchange.ubc.ca IN A
+Mar 10 10:16:49 avas named[6986]: client 127.0.0.1#56468: query: euireland.ie IN A
+Mar 10 10:16:49 avas named[6986]: client 127.0.0.1#56476: query: cnc.bc.ca IN MX
+Mar 10 10:16:49 avas named[6986]: client 127.0.0.1#56477: query: 45.29.196.221.sbl.spamhaus.org IN A
+Mar 10 10:16:49 avas named[6986]: client 127.0.0.1#56478: query: 10.223.71.24.list.dsbl.org IN A
+Mar 10 10:16:50 avas named[6986]: client 127.0.0.1#56469: query: 231.236.71.24.dnsbl.sorbs.net IN A
+Mar 10 10:16:52 avas named[6986]: client 127.0.0.1#56457: query: bcit.ca IN MX
+Mar 10 10:16:52 avas named[6986]: client 127.0.0.1#56470: query: bzib.com IN AAAA
+Mar 10 10:16:53 avas named[6986]: client 127.0.0.1#56479: query: cnc.bc.ca IN A
+Mar 10 10:16:53 avas named[6986]: client 127.0.0.1#56471: query: bellsouth.net IN AAAA
+Mar 10 10:16:53 avas named[6986]: client 127.0.0.1#56472: query: aol.com IN AAAA
+Mar 10 10:16:53 avas named[6986]: client 127.0.0.1#56474: query: voila.fr IN AAAA
+Mar 10 10:16:53 avas named[6986]: client 127.0.0.1#56475: query: 74.212.153.141.sbl.spamhaus.org IN A
+Mar 10 10:16:54 avas named[6986]: client 127.0.0.1#56480: query: interchange.ubc.ca IN AAAA
+Mar 10 10:16:54 avas named[6986]: client 127.0.0.1#56481: query: euireland.ie IN AAAA
+Mar 10 10:16:54 avas named[6986]: client 127.0.0.1#56482: query: 147.102.162.216.sbl.spamhaus.org IN A
+Mar 10 10:16:54 avas named[6986]: client 127.0.0.1#56477: query: 45.29.196.221.sbl.spamhaus.org IN A
+Mar 10 10:16:54 avas named[6986]: client 127.0.0.1#56478: query: 10.223.71.24.list.dsbl.org IN A
+Mar 10 10:16:55 avas named[6986]: client 127.0.0.1#56483: query: 231.236.71.24.list.dsbl.org IN A
+Mar 10 10:16:57 avas named[6986]: client 127.0.0.1#56484: query: bcit.ca IN A
+Mar 10 10:16:57 avas named[6986]: client 127.0.0.1#56485: query: bzib.com IN MX
+Mar 10 10:16:58 avas named[6986]: client 127.0.0.1#56479: query: cnc.bc.ca IN A
+Mar 10 10:16:58 avas named[6986]: client 127.0.0.1#56487: query: bellsouth.net IN MX
+Mar 10 10:16:58 avas named[6986]: client 127.0.0.1#56488: query: aol.com IN MX
+Mar 10 10:16:58 avas named[6986]: client 127.0.0.1#56489: query: voila.fr IN MX
+Mar 10 10:16:58 avas named[6986]: client 127.0.0.1#56490: query: 74.212.153.141.dnsbl.sorbs.net IN A
+Mar 10 10:16:59 avas named[6986]: client 127.0.0.1#56480: query: interchange.ubc.ca IN AAAA
+Mar 10 10:16:59 avas named[6986]: client 127.0.0.1#56481: query: euireland.ie IN AAAA
+Mar 10 10:16:59 avas named[6986]: client 127.0.0.1#56482: query: 147.102.162.216.sbl.spamhaus.org IN A
+Mar 10 10:16:59 avas named[6986]: client 127.0.0.1#56491: query: 45.29.196.221.dnsbl.sorbs.net IN A
+Mar 10 10:16:59 avas named[6986]: client 127.0.0.1#56492: query: 10.223.71.24.opm.blitzed.org IN A
+Mar 10 10:17:00 avas named[6986]: client 127.0.0.1#56483: query: 231.236.71.24.list.dsbl.org IN A
+Mar 10 10:17:02 avas named[6986]: client 127.0.0.1#56484: query: bcit.ca IN A
+Mar 10 10:17:02 avas named[6986]: client 127.0.0.1#56485: query: bzib.com IN MX
+Mar 10 10:17:02 avas named[6986]: client 127.0.0.1#56493: query: 251.70.27.142.in-addr.arpa IN PTR
+Mar 10 10:17:03 avas named[6986]: client 127.0.0.1#56495: query: cnc.bc.ca IN AAAA
+Mar 10 10:17:03 avas named[6986]: client 127.0.0.1#56487: query: bellsouth.net IN MX
+Mar 10 10:17:03 avas named[6986]: client 127.0.0.1#56488: query: aol.com IN MX
+Mar 10 10:17:03 avas named[6986]: client 127.0.0.1#56489: query: voila.fr IN MX
+Mar 10 10:17:03 avas named[6986]: client 127.0.0.1#56490: query: 74.212.153.141.dnsbl.sorbs.net IN A
+Mar 10 10:17:04 avas named[6986]: client 127.0.0.1#56497: query: interchange.ubc.ca IN MX
+Mar 10 10:17:04 avas named[6986]: client 127.0.0.1#56498: query: euireland.ie IN MX
+Mar 10 10:17:04 avas named[6986]: client 127.0.0.1#56499: query: 147.102.162.216.dnsbl.sorbs.net IN A
+Mar 10 10:17:04 avas named[6986]: client 127.0.0.1#56491: query: 45.29.196.221.dnsbl.sorbs.net IN A
+Mar 10 10:17:04 avas named[6986]: client 127.0.0.1#56492: query: 10.223.71.24.opm.blitzed.org IN A
+Mar 10 10:17:05 avas named[6986]: client 127.0.0.1#56500: query: 231.236.71.24.opm.blitzed.org IN A
+Mar 10 10:17:07 avas named[6986]: client 127.0.0.1#56484: query: bcit.ca IN A
+Mar 10 10:17:07 avas named[6986]: client 127.0.0.1#56503: query: cnc.bc.ca IN A
+Mar 10 10:17:07 avas named[6986]: client 127.0.0.1#56493: query: 251.70.27.142.in-addr.arpa IN PTR
+Mar 10 10:17:08 avas named[6986]: client 127.0.0.1#56495: query: cnc.bc.ca IN AAAA
+Mar 10 10:17:08 avas named[6986]: client 127.0.0.1#56504: query: cnc.bc.ca IN A
+Mar 10 10:17:08 avas named[6986]: client 127.0.0.1#56505: query: cnc.bc.ca IN A
+Mar 10 10:17:08 avas named[6986]: client 127.0.0.1#56506: query: cnc.bc.ca IN A
+Mar 10 10:17:08 avas named[6986]: client 127.0.0.1#56507: query: 74.212.153.141.list.dsbl.org IN A
+Mar 10 10:17:08 avas named[6986]: client 127.0.0.1#56508: query: csf.bc.ca IN MX
+Mar 10 10:17:09 avas named[6986]: client 127.0.0.1#56497: query: interchange.ubc.ca IN MX
+Mar 10 10:17:09 avas named[6986]: client 127.0.0.1#56498: query: euireland.ie IN MX
+Mar 10 10:17:09 avas named[6986]: client 127.0.0.1#56499: query: 147.102.162.216.dnsbl.sorbs.net IN A
+Mar 10 10:17:09 avas named[6986]: client 127.0.0.1#56509: query: 45.29.196.221.list.dsbl.org IN A
+Mar 10 10:17:10 avas named[6986]: client 127.0.0.1#56500: query: 231.236.71.24.opm.blitzed.org IN A
+Mar 10 10:17:10 avas named[6986]: client 127.0.0.1#56510: query: mcgregor.bc.ca IN A
+Mar 10 10:17:12 avas named[6986]: client 127.0.0.1#56484: query: bcit.ca IN A
+Mar 10 10:17:12 avas named[6986]: client 127.0.0.1#56503: query: cnc.bc.ca IN A
+Mar 10 10:17:13 avas named[6986]: client 127.0.0.1#56511: query: cnc.bc.ca IN A
+Mar 10 10:17:13 avas named[6986]: client 127.0.0.1#56512: query: cnc.bc.ca IN MX
+Mar 10 10:17:13 avas named[6986]: client 127.0.0.1#56504: query: cnc.bc.ca IN A
+Mar 10 10:17:13 avas named[6986]: client 127.0.0.1#56505: query: cnc.bc.ca IN A
+Mar 10 10:17:13 avas named[6986]: client 127.0.0.1#56506: query: cnc.bc.ca IN A
+Mar 10 10:17:13 avas named[6986]: client 127.0.0.1#56507: query: 74.212.153.141.list.dsbl.org IN A
+Mar 10 10:17:13 avas named[6986]: client 127.0.0.1#56508: query: csf.bc.ca IN MX
+Mar 10 10:17:14 avas named[6986]: client 127.0.0.1#56513: query: cnc.bc.ca IN A
+Mar 10 10:17:14 avas named[6986]: client 127.0.0.1#56515: query: cnc.bc.ca IN A
+Mar 10 10:17:14 avas named[6986]: client 127.0.0.1#56516: query: 147.102.162.216.list.dsbl.org IN A
+Mar 10 10:17:14 avas named[6986]: client 127.0.0.1#56509: query: 45.29.196.221.list.dsbl.org IN A
+Mar 10 10:17:15 avas named[6986]: client 127.0.0.1#56510: query: mcgregor.bc.ca IN A
+Mar 10 10:17:17 avas named[6986]: client 127.0.0.1#56518: query: cnc.bc.ca IN AAAA
+Mar 10 10:17:18 avas named[6986]: client 127.0.0.1#56511: query: cnc.bc.ca IN A
+Mar 10 10:17:18 avas named[6986]: client 127.0.0.1#56512: query: cnc.bc.ca IN MX
+Mar 10 10:17:18 avas named[6986]: client 127.0.0.1#56519: query: cnc.bc.ca IN AAAA
+Mar 10 10:17:18 avas named[6986]: client 127.0.0.1#56520: query: cnc.bc.ca IN AAAA
+Mar 10 10:17:18 avas named[6986]: client 127.0.0.1#56521: query: 70.174.26.64.in-addr.arpa IN PTR
+Mar 10 10:17:18 avas named[6986]: client 127.0.0.1#56522: query: cnc.bc.ca IN AAAA
+Mar 10 10:17:18 avas named[6986]: client 127.0.0.1#56523: query: 74.212.153.141.opm.blitzed.org IN A
+Mar 10 10:17:18 avas named[6986]: client 127.0.0.1#56508: query: csf.bc.ca IN MX
+Mar 10 10:17:19 avas named[6986]: client 127.0.0.1#56513: query: cnc.bc.ca IN A
+Mar 10 10:17:19 avas named[6986]: client 127.0.0.1#56515: query: cnc.bc.ca IN A
+Mar 10 10:17:19 avas named[6986]: client 127.0.0.1#56526: query: 145.150.99.61.sbl.spamhaus.org IN A
+Mar 10 10:17:19 avas named[6986]: client 127.0.0.1#56516: query: 147.102.162.216.list.dsbl.org IN A
+Mar 10 10:17:19 avas named[6986]: client 127.0.0.1#56528: query: 45.29.196.221.opm.blitzed.org IN A
+Mar 10 10:17:20 avas named[6986]: client 127.0.0.1#56529: query: mcgregor.bc.ca IN AAAA
+Mar 10 10:17:22 avas named[6986]: client 127.0.0.1#56518: query: cnc.bc.ca IN AAAA
+Mar 10 10:17:23 avas named[6986]: client 127.0.0.1#56532: query: cnc.bc.ca IN AAAA
+Mar 10 10:17:23 avas named[6986]: client 127.0.0.1#56533: query: cnc.bc.ca IN AAAA
+Mar 10 10:17:23 avas named[6986]: client 127.0.0.1#56534: query: cnc.bc.ca IN AAAA
+Mar 10 10:17:23 avas named[6986]: client 127.0.0.1#56519: query: cnc.bc.ca IN AAAA
+Mar 10 10:17:23 avas named[6986]: client 127.0.0.1#56520: query: cnc.bc.ca IN AAAA
+Mar 10 10:17:23 avas named[6986]: client 127.0.0.1#56521: query: 70.174.26.64.in-addr.arpa IN PTR
+Mar 10 10:17:23 avas named[6986]: client 127.0.0.1#56522: query: cnc.bc.ca IN AAAA
+Mar 10 10:17:23 avas named[6986]: client 127.0.0.1#56523: query: 74.212.153.141.opm.blitzed.org IN A
+Mar 10 10:17:23 avas named[6986]: client 127.0.0.1#56508: query: csf.bc.ca IN MX
+Mar 10 10:17:24 avas named[6986]: client 127.0.0.1#56526: query: 145.150.99.61.sbl.spamhaus.org IN A
+Mar 10 10:17:24 avas named[6986]: client 127.0.0.1#56535: query: 147.102.162.216.opm.blitzed.org IN A
+Mar 10 10:17:24 avas named[6986]: client 127.0.0.1#56528: query: 45.29.196.221.opm.blitzed.org IN A
+Mar 10 10:17:25 avas named[6986]: client 127.0.0.1#56529: query: mcgregor.bc.ca IN AAAA
+Mar 10 10:17:26 avas named[6986]: client 127.0.0.1#56536: query: 33.244.102.207.in-addr.arpa IN PTR
+Mar 10 10:17:26 avas named[6986]: client 127.0.0.1#56537: query: 98.144.207.142.in-addr.arpa IN PTR
+Mar 10 10:17:28 avas named[6986]: client 127.0.0.1#56538: query: cnc.bc.ca IN MX
+Mar 10 10:17:28 avas named[6986]: client 127.0.0.1#56532: query: cnc.bc.ca IN AAAA
+Mar 10 10:17:28 avas named[6986]: client 127.0.0.1#56533: query: cnc.bc.ca IN AAAA
+Mar 10 10:17:28 avas named[6986]: client 127.0.0.1#56534: query: cnc.bc.ca IN AAAA
+Mar 10 10:17:28 avas named[6986]: client 127.0.0.1#56539: query: cnc.bc.ca IN MX
+Mar 10 10:17:28 avas named[6986]: client 127.0.0.1#56540: query: cnc.bc.ca IN MX
+Mar 10 10:17:28 avas named[6986]: client 127.0.0.1#56541: query: cnc.bc.ca IN MX
+Mar 10 10:17:28 avas named[6986]: client 127.0.0.1#56542: query: 70.174.26.64.reject_non_fqdn_hostname IN A
+Mar 10 10:17:28 avas named[6986]: client 127.0.0.1#56543: query: csf.bc.ca IN A
+Mar 10 10:17:29 avas named[6986]: client 127.0.0.1#56544: query: 145.150.99.61.dnsbl.sorbs.net IN A
+Mar 10 10:17:29 avas named[6986]: client 127.0.0.1#56535: query: 147.102.162.216.opm.blitzed.org IN A
+Mar 10 10:17:30 avas named[6986]: client 127.0.0.1#56545: query: 251.70.27.142.in-addr.arpa IN PTR
+Mar 10 10:17:30 avas named[6986]: client 127.0.0.1#56546: query: mcgregor.bc.ca IN MX
+Mar 10 10:17:31 avas named[6986]: client 127.0.0.1#56547: query: 234.192.37.208.in-addr.arpa IN PTR
+Mar 10 10:17:31 avas named[6986]: client 127.0.0.1#56536: query: 33.244.102.207.in-addr.arpa IN PTR
+Mar 10 10:17:31 avas named[6986]: client 127.0.0.1#56537: query: 98.144.207.142.in-addr.arpa IN PTR
+Mar 10 10:17:32 avas named[6986]: client 127.0.0.1#56548: query: 176.70.128.216.in-addr.arpa IN PTR
+Mar 10 10:17:32 avas named[6986]: client 127.0.0.1#56549: query: 251.70.27.142.in-addr.arpa IN PTR
+Mar 10 10:17:33 avas named[6986]: client 127.0.0.1#56538: query: cnc.bc.ca IN MX
+Mar 10 10:17:33 avas named[6986]: client 127.0.0.1#56550: query: cnc.bc.ca IN MX
+Mar 10 10:17:33 avas named[6986]: client 127.0.0.1#56552: query: cnc.bc.ca IN MX
+Mar 10 10:17:33 avas named[6986]: client 127.0.0.1#56553: query: cnc.bc.ca IN MX
+Mar 10 10:17:33 avas named[6986]: client 127.0.0.1#56539: query: cnc.bc.ca IN MX
+Mar 10 10:17:33 avas named[6986]: client 127.0.0.1#56540: query: cnc.bc.ca IN MX
+Mar 10 10:17:33 avas named[6986]: client 127.0.0.1#56541: query: cnc.bc.ca IN MX
+Mar 10 10:17:33 avas named[6986]: client 127.0.0.1#56542: query: 70.174.26.64.reject_non_fqdn_hostname IN A
+Mar 10 10:17:33 avas named[6986]: client 127.0.0.1#56543: query: csf.bc.ca IN A
+Mar 10 10:17:34 avas named[6986]: client 127.0.0.1#56544: query: 145.150.99.61.dnsbl.sorbs.net IN A
+Mar 10 10:17:35 avas named[6986]: client 127.0.0.1#56546: query: mcgregor.bc.ca IN MX
+Mar 10 10:17:36 avas named[6986]: client 127.0.0.1#56547: query: 234.192.37.208.in-addr.arpa IN PTR
+Mar 10 10:17:36 avas named[6986]: client 127.0.0.1#56554: query: 33.244.102.207.reject_non_fqdn_hostname IN A
+Mar 10 10:17:37 avas named[6986]: client 127.0.0.1#56555: query: 98.144.207.142.reject_non_fqdn_hostname IN A
+Mar 10 10:17:37 avas named[6986]: client 127.0.0.1#56548: query: 176.70.128.216.in-addr.arpa IN PTR
+Mar 10 10:17:38 avas named[6986]: client 127.0.0.1#56556: query: cnc.bc.ca IN A
+Mar 10 10:17:38 avas named[6986]: client 127.0.0.1#56557: query: 55.247.14.69.sbl.spamhaus.org IN A
+Mar 10 10:17:38 avas named[6986]: client 127.0.0.1#56550: query: cnc.bc.ca IN MX
+Mar 10 10:17:38 avas named[6986]: client 127.0.0.1#56552: query: cnc.bc.ca IN MX
+Mar 10 10:17:38 avas named[6986]: client 127.0.0.1#56553: query: cnc.bc.ca IN MX
+Mar 10 10:17:38 avas named[6986]: client 127.0.0.1#56558: query: 157.65.35.65.sbl.spamhaus.org IN A
+Mar 10 10:17:38 avas named[6986]: client 127.0.0.1#56560: query: 244.212.84.24.sbl.spamhaus.org IN A
+Mar 10 10:17:38 avas named[6986]: client 127.0.0.1#56561: query: 174.22.252.193.sbl.spamhaus.org IN A
+Mar 10 10:17:38 avas named[6986]: client 127.0.0.1#56562: query: 174.22.252.193.in-addr.arpa IN PTR
+Mar 10 10:17:38 avas named[6986]: client 127.0.0.1#56563: query: 70.174.26.64.reject_unknown_sender_domain IN A
+Mar 10 10:17:38 avas named[6986]: client 127.0.0.1#56543: query: csf.bc.ca IN A
+Mar 10 10:17:39 avas named[6986]: client 127.0.0.1#56564: query: 236.0.161.66.in-addr.arpa IN PTR
+Mar 10 10:17:39 avas named[6986]: client 127.0.0.1#56565: query: 145.150.99.61.list.dsbl.org IN A
+Mar 10 10:17:40 avas named[6986]: client 127.0.0.1#56567: query: cnc.bc.ca IN A
+Mar 10 10:17:41 avas named[6986]: client 127.0.0.1#56569: query: 193.24.218.211.in-addr.arpa IN PTR
+Mar 10 10:17:41 avas named[6986]: client 127.0.0.1#56554: query: 33.244.102.207.reject_non_fqdn_hostname IN A
+Mar 10 10:17:42 avas named[6986]: client 127.0.0.1#56555: query: 98.144.207.142.reject_non_fqdn_hostname IN A
+Mar 10 10:17:42 avas named[6986]: client 127.0.0.1#56571: query: 176.70.128.216.reject_non_fqdn_hostname IN A
+Mar 10 10:17:43 avas named[6986]: client 127.0.0.1#56556: query: cnc.bc.ca IN A
+Mar 10 10:17:43 avas named[6986]: client 127.0.0.1#56557: query: 55.247.14.69.sbl.spamhaus.org IN A
+Mar 10 10:17:43 avas named[6986]: client 127.0.0.1#56572: query: quesnelbc.com IN A
+Mar 10 10:17:43 avas named[6986]: client 127.0.0.1#56573: query: 244.212.84.24.sbl.spamhaus.org IN A
+Mar 10 10:17:43 avas named[6986]: client 127.0.0.1#56574: query: 193.24.218.211.sbl.spamhaus.org IN A
+Mar 10 10:17:43 avas named[6986]: client 127.0.0.1#56558: query: 157.65.35.65.sbl.spamhaus.org IN A
+Mar 10 10:17:43 avas named[6986]: client 127.0.0.1#56560: query: 244.212.84.24.sbl.spamhaus.org IN A
+Mar 10 10:17:43 avas named[6986]: client 127.0.0.1#56561: query: 174.22.252.193.sbl.spamhaus.org IN A
+Mar 10 10:17:43 avas named[6986]: client 127.0.0.1#56562: query: 174.22.252.193.in-addr.arpa IN PTR
+Mar 10 10:17:43 avas named[6986]: client 127.0.0.1#56563: query: 70.174.26.64.reject_unknown_sender_domain IN A
+Mar 10 10:17:43 avas named[6986]: client 127.0.0.1#56543: query: csf.bc.ca IN A
+Mar 10 10:17:44 avas named[6986]: client 127.0.0.1#56564: query: 236.0.161.66.in-addr.arpa IN PTR
+Mar 10 10:17:44 avas named[6986]: client 127.0.0.1#56565: query: 145.150.99.61.list.dsbl.org IN A
+Mar 10 10:17:45 avas named[6986]: client 127.0.0.1#56567: query: cnc.bc.ca IN A
+Mar 10 10:17:46 avas named[6986]: client 127.0.0.1#56569: query: 193.24.218.211.in-addr.arpa IN PTR
+Mar 10 10:17:46 avas named[6986]: client 127.0.0.1#56576: query: 234.192.37.208.in-addr.arpa IN PTR
+Mar 10 10:17:46 avas named[6986]: client 127.0.0.1#56577: query: 33.244.102.207.reject_unknown_sender_domain IN A
+Mar 10 10:17:47 avas named[6986]: client 127.0.0.1#56578: query: 98.144.207.142.reject_unknown_sender_domain IN A
+Mar 10 10:17:47 avas named[6986]: client 127.0.0.1#56571: query: 176.70.128.216.reject_non_fqdn_hostname IN A
+Mar 10 10:17:48 avas named[6986]: client 127.0.0.1#56579: query: cnc.bc.ca IN AAAA
+Mar 10 10:17:48 avas named[6986]: client 127.0.0.1#56580: query: 55.247.14.69.dnsbl.sorbs.net IN A
+Mar 10 10:17:48 avas named[6986]: client 127.0.0.1#56572: query: quesnelbc.com IN A
+Mar 10 10:17:48 avas named[6986]: client 127.0.0.1#56583: query: 70.97.216.209.in-addr.arpa IN PTR
+Mar 10 10:17:48 avas named[6986]: client 127.0.0.1#56573: query: 244.212.84.24.sbl.spamhaus.org IN A
+Mar 10 10:17:48 avas named[6986]: client 127.0.0.1#56574: query: 193.24.218.211.sbl.spamhaus.org IN A
+Mar 10 10:17:48 avas named[6986]: client 127.0.0.1#56585: query: 157.65.35.65.dnsbl.sorbs.net IN A
+Mar 10 10:17:48 avas named[6986]: client 127.0.0.1#56586: query: 244.212.84.24.dnsbl.sorbs.net IN A
+Mar 10 10:17:48 avas named[6986]: client 127.0.0.1#56588: query: 174.22.252.193.dnsbl.sorbs.net IN A
+Mar 10 10:17:48 avas named[6986]: client 127.0.0.1#56589: query: ccsd.ca IN A
+Mar 10 10:17:48 avas named[6986]: client 127.0.0.1#56590: query: 174.22.252.193.reject_non_fqdn_hostname IN A
+Mar 10 10:17:49 avas named[6986]: client 127.0.0.1#56591: query: 10.223.71.24.in-addr.arpa IN PTR
+Mar 10 10:17:49 avas named[6986]: client 127.0.0.1#56592: query: 145.150.99.61.opm.blitzed.org IN A
+Mar 10 10:17:49 avas named[6986]: client 127.0.0.1#56593: query: 236.0.161.66.reject_non_fqdn_hostname IN A
+Mar 10 10:17:50 avas named[6986]: client 127.0.0.1#56594: query: 154.229.66.24.in-addr.arpa IN PTR
+Mar 10 10:17:50 avas named[6986]: client 127.0.0.1#56595: query: cnc.bc.ca IN AAAA
+Mar 10 10:17:51 avas named[6986]: client 127.0.0.1#56576: query: 234.192.37.208.in-addr.arpa IN PTR
+Mar 10 10:17:51 avas named[6986]: client 127.0.0.1#56577: query: 33.244.102.207.reject_unknown_sender_domain IN A
+Mar 10 10:17:52 avas named[6986]: client 127.0.0.1#56578: query: 98.144.207.142.reject_unknown_sender_domain IN A
+Mar 10 10:17:52 avas named[6986]: client 127.0.0.1#56597: query: 193.24.218.211.reject_non_fqdn_hostname IN A
+Mar 10 10:17:52 avas named[6986]: client 127.0.0.1#56598: query: 176.70.128.216.reject_unknown_sender_domain IN A
+Mar 10 10:17:53 avas named[6986]: client 127.0.0.1#56579: query: cnc.bc.ca IN AAAA
+Mar 10 10:17:53 avas named[6986]: client 127.0.0.1#56580: query: 55.247.14.69.dnsbl.sorbs.net IN A
+Mar 10 10:17:53 avas named[6986]: client 127.0.0.1#56599: query: quesnelbc.com IN AAAA
+Mar 10 10:17:53 avas named[6986]: client 127.0.0.1#56583: query: 70.97.216.209.in-addr.arpa IN PTR
+Mar 10 10:17:53 avas named[6986]: client 127.0.0.1#56600: query: 244.212.84.24.dnsbl.sorbs.net IN A
+Mar 10 10:17:53 avas named[6986]: client 127.0.0.1#56601: query: 193.24.218.211.dnsbl.sorbs.net IN A
+Mar 10 10:17:53 avas named[6986]: client 127.0.0.1#56585: query: 157.65.35.65.dnsbl.sorbs.net IN A
+Mar 10 10:17:53 avas named[6986]: client 127.0.0.1#56586: query: 244.212.84.24.dnsbl.sorbs.net IN A
+Mar 10 10:17:53 avas named[6986]: client 127.0.0.1#56588: query: 174.22.252.193.dnsbl.sorbs.net IN A
+Mar 10 10:17:53 avas named[6986]: client 127.0.0.1#56589: query: ccsd.ca IN A
+Mar 10 10:17:54 avas named[6986]: client 127.0.0.1#56590: query: 174.22.252.193.reject_non_fqdn_hostname IN A
+Mar 10 10:17:54 avas named[6986]: client 127.0.0.1#56591: query: 10.223.71.24.in-addr.arpa IN PTR
+Mar 10 10:17:54 avas named[6986]: client 127.0.0.1#56592: query: 145.150.99.61.opm.blitzed.org IN A
+Mar 10 10:17:54 avas named[6986]: client 127.0.0.1#56593: query: 236.0.161.66.reject_non_fqdn_hostname IN A
+Mar 10 10:17:55 avas named[6986]: client 127.0.0.1#56594: query: 154.229.66.24.in-addr.arpa IN PTR
+Mar 10 10:17:55 avas named[6986]: client 127.0.0.1#56595: query: cnc.bc.ca IN AAAA
+Mar 10 10:17:56 avas named[6986]: client 127.0.0.1#56603: query: globalsec.com IN A
+Mar 10 10:17:57 avas named[6986]: client 127.0.0.1#56604: query: unbc.ca IN A
+Mar 10 10:17:57 avas named[6986]: client 127.0.0.1#56597: query: 193.24.218.211.reject_non_fqdn_hostname IN A
+Mar 10 10:17:57 avas named[6986]: client 127.0.0.1#56598: query: 176.70.128.216.reject_unknown_sender_domain IN A
+Mar 10 10:17:58 avas named[6986]: client 127.0.0.1#56605: query: cnc.bc.ca IN MX
+Mar 10 10:17:58 avas named[6986]: client 127.0.0.1#56606: query: 55.247.14.69.list.dsbl.org IN A
+Mar 10 10:17:58 avas named[6986]: client 127.0.0.1#56599: query: quesnelbc.com IN AAAA
+Mar 10 10:17:58 avas named[6986]: client 127.0.0.1#56600: query: 244.212.84.24.dnsbl.sorbs.net IN A
+Mar 10 10:17:58 avas named[6986]: client 127.0.0.1#56601: query: 193.24.218.211.dnsbl.sorbs.net IN A
+Mar 10 10:17:58 avas named[6986]: client 127.0.0.1#56607: query: 157.65.35.65.list.dsbl.org IN A
+Mar 10 10:17:58 avas named[6986]: client 127.0.0.1#56608: query: 244.212.84.24.list.dsbl.org IN A
+Mar 10 10:17:58 avas named[6986]: client 127.0.0.1#56609: query: 174.22.252.193.list.dsbl.org IN A
+Mar 10 10:17:58 avas named[6986]: client 127.0.0.1#56610: query: ccsd.ca IN AAAA
+Mar 10 10:17:59 avas named[6986]: client 127.0.0.1#56611: query: 174.22.252.193.reject_unknown_sender_domain IN A
+Mar 10 10:17:59 avas named[6986]: client 127.0.0.1#56612: query: 10.223.71.24.reject_non_fqdn_hostname IN A
+Mar 10 10:17:59 avas named[6986]: client 127.0.0.1#56613: query: 236.0.161.66.reject_unknown_sender_domain IN A
+Mar 10 10:18:00 avas named[6986]: client 127.0.0.1#56615: query: 154.229.66.24.reject_non_fqdn_hostname IN A
+Mar 10 10:18:00 avas named[6986]: client 127.0.0.1#56616: query: cnc.bc.ca IN MX
+Mar 10 10:18:01 avas named[6986]: client 127.0.0.1#56603: query: globalsec.com IN A
+Mar 10 10:18:02 avas named[6986]: client 127.0.0.1#56604: query: unbc.ca IN A
+Mar 10 10:18:02 avas named[6986]: client 127.0.0.1#56617: query: 193.24.218.211.reject_unknown_sender_domain IN A
+Mar 10 10:18:02 avas named[6986]: client 127.0.0.1#56618: query: bounce.ewrma.com IN A
+Mar 10 10:18:03 avas named[6986]: client 127.0.0.1#56605: query: cnc.bc.ca IN MX
+Mar 10 10:18:03 avas named[6986]: client 127.0.0.1#56606: query: 55.247.14.69.list.dsbl.org IN A
+Mar 10 10:18:03 avas named[6986]: client 127.0.0.1#56619: query: quesnelbc.com IN MX
+Mar 10 10:18:03 avas named[6986]: client 127.0.0.1#56620: query: 244.212.84.24.list.dsbl.org IN A
+Mar 10 10:18:03 avas named[6986]: client 127.0.0.1#56621: query: 193.24.218.211.list.dsbl.org IN A
+Mar 10 10:18:03 avas named[6986]: client 127.0.0.1#56607: query: 157.65.35.65.list.dsbl.org IN A
+Mar 10 10:18:03 avas named[6986]: client 127.0.0.1#56608: query: 244.212.84.24.list.dsbl.org IN A
+Mar 10 10:18:03 avas named[6986]: client 127.0.0.1#56609: query: 174.22.252.193.list.dsbl.org IN A
+Mar 10 10:18:03 avas named[6986]: client 127.0.0.1#56610: query: ccsd.ca IN AAAA
+Mar 10 10:18:04 avas named[6986]: client 127.0.0.1#56611: query: 174.22.252.193.reject_unknown_sender_domain IN A
+Mar 10 10:18:04 avas named[6986]: client 127.0.0.1#56612: query: 10.223.71.24.reject_non_fqdn_hostname IN A
+Mar 10 10:18:04 avas named[6986]: client 127.0.0.1#56613: query: 236.0.161.66.reject_unknown_sender_domain IN A
+Mar 10 10:18:05 avas named[6986]: client 127.0.0.1#56615: query: 154.229.66.24.reject_non_fqdn_hostname IN A
+Mar 10 10:18:05 avas named[6986]: client 127.0.0.1#56616: query: cnc.bc.ca IN MX
+Mar 10 10:18:06 avas named[6986]: client 127.0.0.1#56622: query: globalsec.com IN AAAA
+Mar 10 10:18:07 avas named[6986]: client 127.0.0.1#56623: query: unbc.ca IN AAAA
+Mar 10 10:18:07 avas named[6986]: client 127.0.0.1#56617: query: 193.24.218.211.reject_unknown_sender_domain IN A
+Mar 10 10:18:07 avas named[6986]: client 127.0.0.1#56618: query: bounce.ewrma.com IN A
+Mar 10 10:18:08 avas named[6986]: client 127.0.0.1#56624: query: aset.ab.ca IN A
+Mar 10 10:18:08 avas named[6986]: client 127.0.0.1#56625: query: 55.247.14.69.opm.blitzed.org IN A
+Mar 10 10:18:08 avas named[6986]: client 127.0.0.1#56619: query: quesnelbc.com IN MX
+Mar 10 10:18:08 avas named[6986]: client 127.0.0.1#56620: query: 244.212.84.24.list.dsbl.org IN A
+Mar 10 10:18:08 avas named[6986]: client 127.0.0.1#56621: query: 193.24.218.211.list.dsbl.org IN A
+Mar 10 10:18:08 avas named[6986]: client 127.0.0.1#56626: query: 157.65.35.65.opm.blitzed.org IN A
+Mar 10 10:18:08 avas named[6986]: client 127.0.0.1#56627: query: 244.212.84.24.opm.blitzed.org IN A
+Mar 10 10:18:08 avas named[6986]: client 127.0.0.1#56628: query: 174.22.252.193.opm.blitzed.org IN A
+Mar 10 10:18:08 avas named[6986]: client 127.0.0.1#56630: query: ccsd.ca IN MX
+Mar 10 10:18:09 avas named[6986]: client 127.0.0.1#56631: query: voila.fr IN A
+Mar 10 10:18:09 avas named[6986]: client 127.0.0.1#56632: query: 10.223.71.24.reject_unknown_sender_domain IN A
+Mar 10 10:18:09 avas named[6986]: client 127.0.0.1#56633: query: secure.invisiblepath.com IN A
+Mar 10 10:18:10 avas named[6986]: client 127.0.0.1#56634: query: 154.229.66.24.reject_unknown_sender_domain IN A
+Mar 10 10:18:11 avas named[6986]: client 127.0.0.1#56635: query: 173.18.45.198.in-addr.arpa IN PTR
+Mar 10 10:18:11 avas named[6986]: client 127.0.0.1#56622: query: globalsec.com IN AAAA
+Mar 10 10:18:12 avas named[6986]: client 127.0.0.1#56623: query: unbc.ca IN AAAA
+Mar 10 10:18:12 avas named[6986]: client 127.0.0.1#56636: query: 80.135.153.218.in-addr.arpa IN PTR
+Mar 10 10:18:12 avas named[6986]: client 127.0.0.1#56637: query: minedu.fi IN A
+Mar 10 10:18:12 avas named[6986]: client 127.0.0.1#56638: query: bounce.ewrma.com IN AAAA
+Mar 10 10:18:13 avas named[6986]: client 127.0.0.1#56624: query: aset.ab.ca IN A
+Mar 10 10:18:13 avas named[6986]: client 127.0.0.1#56625: query: 55.247.14.69.opm.blitzed.org IN A
+Mar 10 10:18:13 avas named[6986]: client 127.0.0.1#56639: query: 244.212.84.24.opm.blitzed.org IN A
+Mar 10 10:18:13 avas named[6986]: client 127.0.0.1#56640: query: 193.24.218.211.opm.blitzed.org IN A
+Mar 10 10:18:13 avas named[6986]: client 127.0.0.1#56626: query: 157.65.35.65.opm.blitzed.org IN A
+Mar 10 10:18:13 avas named[6986]: client 127.0.0.1#56627: query: 244.212.84.24.opm.blitzed.org IN A
+Mar 10 10:18:13 avas named[6986]: client 127.0.0.1#56628: query: 174.22.252.193.opm.blitzed.org IN A
+Mar 10 10:18:13 avas named[6986]: client 127.0.0.1#56630: query: ccsd.ca IN MX
+Mar 10 10:18:14 avas named[6986]: client 127.0.0.1#56631: query: voila.fr IN A
+Mar 10 10:18:14 avas named[6986]: client 127.0.0.1#56641: query: 215.209.135.66.in-addr.arpa IN PTR
+Mar 10 10:18:14 avas named[6986]: client 127.0.0.1#56632: query: 10.223.71.24.reject_unknown_sender_domain IN A
+Mar 10 10:18:14 avas named[6986]: client 127.0.0.1#56633: query: secure.invisiblepath.com IN A
+Mar 10 10:18:15 avas named[6986]: loading configuration from '/etc/named.conf'
+Mar 10 10:18:15 avas named[6986]: zone 0.0.127.in-addr.arpa/IN: could not find NS and/or SOA records
+Mar 10 10:18:15 avas named[6986]: zone 0.0.127.in-addr.arpa/IN: has 0 SOA records
+Mar 10 10:18:15 avas named[6986]: zone 0.0.127.in-addr.arpa/IN: has no NS records
+Mar 10 10:18:15 avas named[6986]: client 127.0.0.1#56634: query: 154.229.66.24.reject_unknown_sender_domain IN A
+Mar 10 10:18:15 avas named[6986]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar 10 10:18:16 avas named[6986]: zone PLNet/IN: refresh: non-authoritative answer from master 192.75.26.21#53
+Mar 10 10:18:16 avas named[6986]: client 127.0.0.1#56635: query: 173.18.45.198.in-addr.arpa IN PTR
+Mar 10 10:18:16 avas named[6986]: client 127.0.0.1#56643: query: globalsec.com IN MX
+Mar 10 10:18:17 avas named[6986]: client 127.0.0.1#56644: query: 243.252.71.24.in-addr.arpa IN PTR
+Mar 10 10:18:17 avas named[6986]: client 127.0.0.1#56645: query: unbc.ca IN MX
+Mar 10 10:18:17 avas named[6986]: client 127.0.0.1#56636: query: 80.135.153.218.in-addr.arpa IN PTR
+Mar 10 10:18:17 avas named[6986]: client 127.0.0.1#56637: query: minedu.fi IN A
+Mar 10 10:18:17 avas named[6986]: client 127.0.0.1#56638: query: bounce.ewrma.com IN AAAA
+Mar 10 10:18:18 avas named[6986]: client 127.0.0.1#56646: query: aset.ab.ca IN AAAA
+Mar 10 10:18:18 avas named[6986]: client 127.0.0.1#56639: query: 244.212.84.24.opm.blitzed.org IN A
+Mar 10 10:18:18 avas named[6986]: client 127.0.0.1#56640: query: 193.24.218.211.opm.blitzed.org IN A
+Mar 10 10:18:18 avas named[6986]: client 127.0.0.1#56647: query: cnc.bc.ca IN A
+Mar 10 10:18:19 avas named[6986]: client 127.0.0.1#56648: query: voila.fr IN AAAA
+Mar 10 10:18:19 avas named[6986]: client 127.0.0.1#56641: query: 215.209.135.66.in-addr.arpa IN PTR
+Mar 10 10:18:19 avas named[6986]: client 127.0.0.1#56649: query: shaw.ca IN A
+Mar 10 10:18:19 avas named[6986]: client 127.0.0.1#56650: query: 166.91.76.220.in-addr.arpa IN PTR
+Mar 10 10:18:20 avas named[6986]: client 127.0.0.1#56651: query: secure.invisiblepath.com IN AAAA
+Mar 10 10:18:20 avas named[6986]: client 127.0.0.1#56653: query: shaw.ca IN A
+Mar 10 10:18:21 avas named[6986]: client 127.0.0.1#56654: query: 173.18.45.198.reject_non_fqdn_hostname IN A
+Mar 10 10:18:21 avas named[6986]: client 127.0.0.1#56643: query: globalsec.com IN MX
+Mar 10 10:18:22 avas named[6986]: client 127.0.0.1#56644: query: 243.252.71.24.in-addr.arpa IN PTR
+Mar 10 10:18:22 avas named[6986]: client 127.0.0.1#56645: query: unbc.ca IN MX
+Mar 10 10:18:22 avas named[6986]: client 127.0.0.1#56655: query: minedu.fi IN AAAA
+Mar 10 10:18:22 avas named[6986]: client 127.0.0.1#56656: query: bounce.ewrma.com IN MX
+Mar 10 10:18:23 avas named[6986]: client 127.0.0.1#56646: query: aset.ab.ca IN AAAA
+Mar 10 10:18:23 avas named[6986]: client 127.0.0.1#56657: query: 80.135.153.218.reject_non_fqdn_hostname IN A
+Mar 10 10:18:23 avas named[6986]: client 127.0.0.1#56647: query: cnc.bc.ca IN A
+Mar 10 10:18:24 avas named[6986]: client 127.0.0.1#56648: query: voila.fr IN AAAA
+Mar 10 10:18:24 avas named[6986]: client 127.0.0.1#56659: query: 215.209.135.66.reject_non_fqdn_hostname IN A
+Mar 10 10:18:24 avas named[6986]: client 127.0.0.1#56649: query: shaw.ca IN A
+Mar 10 10:18:24 avas named[6986]: client 127.0.0.1#56650: query: 166.91.76.220.in-addr.arpa IN PTR
+Mar 10 10:18:25 avas named[6986]: client 127.0.0.1#56651: query: secure.invisiblepath.com IN AAAA
+Mar 10 10:18:25 avas named[6986]: client 127.0.0.1#56653: query: shaw.ca IN A
+Mar 10 10:18:26 avas named[6986]: client 127.0.0.1#56654: query: 173.18.45.198.reject_non_fqdn_hostname IN A
+Mar 10 10:18:26 avas named[6986]: client 127.0.0.1#56660: query: cnc.bc.ca IN A
+Mar 10 10:18:27 avas named[6986]: client 127.0.0.1#56661: query: cnc.bc.ca IN A
+Mar 10 10:18:27 avas named[6986]: client 127.0.0.1#56662: query: 243.252.71.24.reject_non_fqdn_hostname IN A
+Mar 10 10:18:27 avas named[6986]: client 127.0.0.1#56655: query: minedu.fi IN AAAA
+Mar 10 10:18:27 avas named[6986]: client 127.0.0.1#56656: query: bounce.ewrma.com IN MX
+Mar 10 10:18:28 avas named[6986]: client 127.0.0.1#56663: query: aset.ab.ca IN MX
+Mar 10 10:18:28 avas named[6986]: client 127.0.0.1#56657: query: 80.135.153.218.reject_non_fqdn_hostname IN A
+Mar 10 10:18:29 avas named[6986]: client 127.0.0.1#56664: query: cnc.bc.ca IN AAAA
+Mar 10 10:18:29 avas named[6986]: client 127.0.0.1#56665: query: voila.fr IN MX
+Mar 10 10:18:29 avas named[6986]: client 127.0.0.1#56659: query: 215.209.135.66.reject_non_fqdn_hostname IN A
+Mar 10 10:18:29 avas named[6986]: client 127.0.0.1#56666: query: shaw.ca IN AAAA
+Mar 10 10:18:30 avas named[6986]: client 127.0.0.1#56667: query: secure.invisiblepath.com IN MX
+Mar 10 10:18:30 avas named[6986]: client 127.0.0.1#56668: query: shaw.ca IN AAAA
+Mar 10 10:18:31 avas named[6986]: client 127.0.0.1#56669: query: 166.91.76.220.reject_non_fqdn_hostname IN A
+Mar 10 10:18:31 avas named[6986]: client 127.0.0.1#56670: query: 173.18.45.198.reject_unknown_sender_domain IN A
+Mar 10 10:18:31 avas named[6986]: client 127.0.0.1#56660: query: cnc.bc.ca IN A
+Mar 10 10:18:32 avas named[6986]: client 127.0.0.1#56661: query: cnc.bc.ca IN A
+Mar 10 10:18:32 avas named[6986]: client 127.0.0.1#56662: query: 243.252.71.24.reject_non_fqdn_hostname IN A
+Mar 10 10:18:32 avas named[6986]: client 127.0.0.1#56671: query: minedu.fi IN MX
+Mar 10 10:18:32 avas named[6986]: client 127.0.0.1#56672: query: cnc.bc.ca IN A
+Mar 10 10:18:33 avas named[6986]: client 127.0.0.1#56663: query: aset.ab.ca IN MX
+Mar 10 10:18:33 avas named[6986]: client 127.0.0.1#56673: query: 80.135.153.218.reject_unknown_sender_domain IN A
+Mar 10 10:18:34 avas named[6986]: client 127.0.0.1#56664: query: cnc.bc.ca IN AAAA
+Mar 10 10:18:34 avas named[6986]: client 127.0.0.1#56665: query: voila.fr IN MX
+Mar 10 10:18:34 avas named[6986]: client 127.0.0.1#56674: query: 215.209.135.66.reject_unknown_sender_domain IN A
+Mar 10 10:18:34 avas named[6986]: client 127.0.0.1#56666: query: shaw.ca IN AAAA
+Mar 10 10:18:35 avas named[6986]: client 127.0.0.1#56667: query: secure.invisiblepath.com IN MX
+Mar 10 10:18:35 avas named[6986]: client 127.0.0.1#56668: query: shaw.ca IN AAAA
+Mar 10 10:18:36 avas named[6986]: client 127.0.0.1#56669: query: 166.91.76.220.reject_non_fqdn_hostname IN A
+Mar 10 10:18:36 avas named[6986]: client 127.0.0.1#56670: query: 173.18.45.198.reject_unknown_sender_domain IN A
+Mar 10 10:18:36 avas named[6986]: client 127.0.0.1#56675: query: cnc.bc.ca IN AAAA
+Mar 10 10:18:37 avas named[6986]: client 127.0.0.1#56676: query: cnc.bc.ca IN AAAA
+Mar 10 10:18:37 avas named[6986]: client 127.0.0.1#56677: query: 243.252.71.24.reject_unknown_sender_domain IN A
+Mar 10 10:18:37 avas named[6986]: client 127.0.0.1#56671: query: minedu.fi IN MX
+Mar 10 10:18:37 avas named[6986]: client 127.0.0.1#56672: query: cnc.bc.ca IN A
+Mar 10 10:18:38 avas named[6986]: client 127.0.0.1#56673: query: 80.135.153.218.reject_unknown_sender_domain IN A
+Mar 10 10:18:39 avas named[6986]: client 127.0.0.1#56678: query: cnc.bc.ca IN A
+Mar 10 10:18:39 avas named[6986]: client 127.0.0.1#56679: query: cnc.bc.ca IN A
+Mar 10 10:18:39 avas named[6986]: client 127.0.0.1#56680: query: cnc.bc.ca IN MX
+Mar 10 10:18:39 avas named[6986]: client 127.0.0.1#56674: query: 215.209.135.66.reject_unknown_sender_domain IN A
+Mar 10 10:18:39 avas named[6986]: client 127.0.0.1#56681: query: shaw.ca IN MX
+Mar 10 10:18:40 avas named[6986]: client 127.0.0.1#56682: query: cnc.bc.ca IN A
+Mar 10 10:18:40 avas named[6986]: client 127.0.0.1#56683: query: shaw.ca IN MX
+Mar 10 10:18:41 avas named[6986]: client 127.0.0.1#56684: query: 166.91.76.220.reject_unknown_sender_domain IN A
+Mar 10 10:18:41 avas named[6986]: client 127.0.0.1#56685: query: mcgrawhill.ca IN A
+Mar 10 10:18:41 avas named[6986]: client 127.0.0.1#56675: query: cnc.bc.ca IN AAAA
+Mar 10 10:18:42 avas named[6986]: client 127.0.0.1#56676: query: cnc.bc.ca IN AAAA
+Mar 10 10:18:42 avas named[6986]: client 127.0.0.1#56677: query: 243.252.71.24.reject_unknown_sender_domain IN A
+Mar 10 10:18:42 avas named[6986]: client 127.0.0.1#56686: query: cnc.bc.ca IN A
+Mar 10 10:18:42 avas named[6986]: client 127.0.0.1#56688: query: cnc.bc.ca IN AAAA
+Mar 10 10:18:43 avas named[6986]: client 127.0.0.1#56689: query: syselog.fr IN A
+Mar 10 10:18:44 avas named[6986]: client 127.0.0.1#56678: query: cnc.bc.ca IN A
+Mar 10 10:18:44 avas named[6986]: client 127.0.0.1#56679: query: cnc.bc.ca IN A
+Mar 10 10:18:44 avas named[6986]: client 127.0.0.1#56680: query: cnc.bc.ca IN MX
+Mar 10 10:18:44 avas named[6986]: client 127.0.0.1#56690: query: ebay.ca IN A
+Mar 10 10:18:44 avas named[6986]: client 127.0.0.1#56681: query: shaw.ca IN MX
+Mar 10 10:18:45 avas named[6986]: client 127.0.0.1#56682: query: cnc.bc.ca IN A
+Mar 10 10:18:45 avas named[6986]: client 127.0.0.1#56683: query: shaw.ca IN MX
+Mar 10 10:18:46 avas named[6986]: shutting down: flushing changes
+Mar 10 10:18:46 avas named[6986]: stopping command channel on 127.0.0.1#953
+Mar 10 10:18:46 avas named[6986]: no longer listening on 127.0.0.1#53
+Mar 10 10:18:46 avas named[6986]: no longer listening on 10.0.0.214#53
+Mar 10 10:18:46 avas named[6986]: exiting
+Mar 10 10:18:57 avas named[7730]: starting BIND 9.2.3 -d 2 -f
+Mar 10 10:18:57 avas named[7730]: using 1 CPU
+Mar 10 10:18:57 avas named[7730]: loading configuration from '/etc/named.conf'
+Mar 10 10:18:57 avas named[7730]: listening on IPv4 interface lo, 127.0.0.1#53
+Mar 10 10:18:57 avas named[7730]: listening on IPv4 interface eth0, 10.0.0.214#53
+Mar 10 10:18:57 avas named[7730]: command channel listening on 127.0.0.1#953
+Mar 10 10:18:57 avas named[7730]: zone 0.0.127.in-addr.arpa/IN: could not find NS and/or SOA records
+Mar 10 10:18:57 avas named[7730]: zone 0.0.127.in-addr.arpa/IN: has 0 SOA records
+Mar 10 10:18:57 avas named[7730]: zone 0.0.127.in-addr.arpa/IN: has no NS records
+Mar 10 10:18:57 avas named[7730]: running
+Mar 10 10:18:57 avas named[7730]: zone PLNet/IN: refresh: non-authoritative answer from master 10.0.0.253#53
+Mar 10 10:18:57 avas named[7730]: zone PLNet/IN: refresh: non-authoritative answer from master 192.75.26.21#53
+Mar 10 10:19:04 avas named[7730]: shutting down
+Mar 10 10:19:04 avas named[7730]: stopping command channel on 127.0.0.1#953
+Mar 10 10:19:04 avas named[7730]: no longer listening on 127.0.0.1#53
+Mar 10 10:19:04 avas named[7730]: no longer listening on 10.0.0.214#53
+Mar 10 10:19:04 avas named[7730]: exiting
+Mar 10 10:20:11 avas dbclean[7527]: expired 3443149 records and 11057870 checksums in /home/dcc/dcc_db
+Mar 10 10:20:26 avas dbclean[7527]:   hash rebuilt 0 of 21670578 checksums or 0%
+Mar 10 10:20:45 avas dccifd[7819]: write(MTA socket,76): Broken pipe
+Mar 10 10:22:15 avas dbclean[7527]:   hash rebuilt 10479062 of 21670578 checksums or 48%
+Mar 10 10:23:01 avas dccd[2818]: increase from 7200 to 8000 RL blocks
+Mar 10 10:24:41 avas dccifd[7897]: no answer from 127.0.0.1 (127.0.0.1,6277) after 14940 ms
+Mar 10 10:24:41 avas dccifd[7897]: write(MTA socket,5): Broken pipe
+Mar 10 10:25:30 avas dccifd[7905]: no answer from 127.0.0.1 (127.0.0.1,6277) after 16010 ms
+Mar 10 10:25:30 avas dccifd[7905]: write(MTA socket,5): Broken pipe
+Mar 10 10:27:15 avas dbclean[7527]:   hash rebuilt 12401655 of 21670578 checksums or 57%
+Mar 10 10:27:33 avas dccifd[7942]: no answer from 127.0.0.1 (127.0.0.1,6277) after 16021 ms
+Mar 10 10:27:34 avas dccifd[7942]: write(MTA socket,5): Broken pipe
+Mar 10 10:30:19 avas dbclean[7527]:   hash rebuilt 21670312 of 21670578 checksums or 99%
+Mar 10 10:30:19 avas dbclean[7527]: hashed 10000861 records containing 21670312 checksums, compressed 984219 records
+Mar 10 10:30:19 avas dbclean[7527]: 26265600 hash entries total, 16480027 or 62% used
+Mar 10 10:31:08 avas dccd[2818]: 1.2.35 database /home/dcc/dcc_db reopened with 997 MByte window
+Mar 10 10:42:29 avas dccifd[8198]: write(MTA socket,53): Broken pipe
+Mar 10 10:45:33 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 11:42:34 avas dccd[2818]: increase from 8000 to 8800 RL blocks
+Mar 10 11:46:10 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 12:05:59 avas dccifd[10252]: missing message body
+Mar 10 12:06:12 avas sshd(pam_unix)[10257]: session opened for user tom by (uid=35567)
+Mar 10 12:06:13 avas sshd(pam_unix)[10257]: session closed for user tom
+Mar 10 12:28:56 avas dccifd[11457]: missing message body
+Mar 10 12:29:00 avas dccifd[11481]: missing message body
+Mar 10 12:41:33 avas sshd(pam_unix)[6237]: session closed for user tom
+Mar 10 12:46:47 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 13:47:26 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 14:48:03 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 15:40:08 avas dccifd[18330]: no answer from 127.0.0.1 (127.0.0.1,6277) after 7517 ms
+Mar 10 15:40:08 avas dccifd[18331]: no answer from 127.0.0.1 (127.0.0.1,6277) after 7525 ms
+Mar 10 15:40:08 avas dccifd[18360]: continue not asking DCC 15 seconds after failure
+Mar 10 15:40:11 avas dccifd[18419]: continue not asking DCC 12 seconds after failure
+Mar 10 15:40:11 avas dccifd[18420]: continue not asking DCC 12 seconds after failure
+Mar 10 15:40:17 avas dccifd[18424]: continue not asking DCC 6 seconds after failure
+Mar 10 15:48:43 avas clamd[27173]: SelfCheck: Database modification detected. Forcing reload. 
+Mar 10 15:48:43 avas clamd[27173]: Reading databases from /usr/local/share/clamav 
+Mar 10 15:48:43 avas clamd[27173]: Database correctly reloaded (20432 viruses) 
+Mar 10 15:59:28 avas dccifd[18859]: missing message body
+Mar 10 16:06:10 avas sshd(pam_unix)[19098]: session opened for user tom by (uid=35567)
+Mar 10 16:06:11 avas sshd(pam_unix)[19098]: session closed for user tom
+Mar 10 16:06:57 avas sshd(pam_unix)[31289]: session closed for user tom
+Mar 10 16:49:20 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 17:17:06 avas dccd[2818]: "unknown checksum length 114" sent to client 1 at 208.141.107.217,47954
+Mar 10 17:49:57 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 18:50:34 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 19:01:21 avas dccd[2818]: no outgoing flood connection to dcc1.example.no, server-ID XXXX
+Mar 10 19:01:21 avas dccd[2818]: no incoming flood connection from dcc1.example.no, server-ID XXXX
+Mar 10 19:03:18 avas dccd[2818]: increase from 8800 to 9600 RL blocks
+Mar 10 19:51:10 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 20:51:47 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 21:52:23 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 22:53:00 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 10 22:53:37 avas dccifd[27652]: write(MTA socket,87): Broken pipe
+Mar 10 23:13:13 avas dccifd[28076]: missing message body
+Mar 10 23:53:37 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 00:00:00 avas dccifd[2897]: 1.2.35 rejected messages to 0 targets and discarded messages to 0 targets among 2771 total since 03/10/04 08:35:48
+Mar 11 00:23:31 avas dccifd[29212]: no answer from 127.0.0.1 (127.0.0.1,6277) after 14884 ms
+Mar 11 00:23:31 avas dccifd[29212]: write(MTA socket,5): Broken pipe
+Mar 11 00:23:45 avas dccifd[29219]: no answer from 127.0.0.1 (127.0.0.1,6277) after 14884 ms
+Mar 11 00:23:45 avas dccifd[29219]: write(MTA socket,5): Broken pipe
+Mar 11 00:23:49 avas dccifd[29227]: continue not asking DCC 12 seconds after failure
+Mar 11 00:23:58 avas dccifd[29232]: continue not asking DCC 3 seconds after failure
+Mar 11 00:46:18 avas dccifd[29597]: write(MTA socket,84): Broken pipe
+Mar 11 00:54:15 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 01:54:51 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 02:45:24 avas dccifd[31885]: continue not asking DCC 8 seconds after failure
+Mar 11 02:55:28 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 03:56:05 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 04:00:55 avas dccifd[783]: missing message body
+Mar 11 04:56:41 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 05:34:53 avas dccd[2818]: "packet length 44 too small for REPORT" sent to client 1 at 69.7.33.8,55258
+Mar 11 05:57:18 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 06:57:55 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 07:58:31 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 08:59:08 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 09:59:45 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 10:47:10 avas dccifd[12336]: continue not asking DCC 8 seconds after failure
+Mar 11 10:47:13 avas dccifd[12343]: continue not asking DCC 5 seconds after failure
+Mar 11 11:00:22 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 11:38:40 avas dccd[2818]: 20 requests/sec are too many from anonymous 131.188.3.69,62388
+Mar 11 11:38:40 avas dccd[2818]: 20 requests/sec are too many from anonymous 131.188.3.69,58289
+Mar 11 11:38:40 avas dccd[2818]: 21 requests/sec are too many from anonymous 131.188.3.69,55905
+Mar 11 12:00:59 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 12:06:14 avas sshd(pam_unix)[15853]: session opened for user tom by (uid=35567)
+Mar 11 12:06:16 avas sshd(pam_unix)[15853]: session closed for user tom
+Mar 11 13:01:36 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 13:31:51 avas sshd(pam_unix)[19102]: session opened for user tom by (uid=35567)
+Mar 11 13:41:49 avas dccifd[19551]: missing message body
+Mar 11 13:41:54 avas dccifd[19571]: missing message body
+Mar 11 13:45:18 avas named[19651]: starting BIND 9.2.3
+Mar 11 13:45:18 avas named[19651]: using 1 CPU
+Mar 11 13:45:18 avas named[19651]: loading configuration from '/etc/named.conf'
+Mar 11 13:45:18 avas named[19651]: listening on IPv4 interface lo, 127.0.0.1#53
+Mar 11 13:45:18 avas named[19651]: listening on IPv4 interface eth0, 10.0.0.214#53
+Mar 11 13:45:18 avas named[19651]: command channel listening on 127.0.0.1#953
+Mar 11 13:45:18 avas named[19651]: dns_rdata_fromtext: /etc/namedb/localhost.rev:4: near '3h': not a valid number
+Mar 11 13:45:18 avas named[19651]: zone 0.0.127.in-addr.arpa/IN: loading master file /etc/namedb/localhost.rev: not a valid number
+Mar 11 13:45:18 avas named[19651]: running
+Mar 11 14:02:15 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 14:34:02 avas postfix/smtpd[20027]: gethostby*.getanswer: asked for "mail.cnc.bc.ca", got "cim.cnc.bc.ca"
+Mar 11 14:42:08 avas dccifd[21653]: missing message body
+Mar 11 14:49:45 avas dccifd[21842]: write(MTA socket,60): Broken pipe
+Mar 11 14:49:45 avas dccifd[21846]: write(MTA socket,84): Broken pipe
+Mar 11 14:49:45 avas dccifd[21850]: write(MTA socket,84): Broken pipe
+Mar 11 14:49:45 avas dccifd[21854]: write(MTA socket,84): Broken pipe
+Mar 11 14:49:45 avas dccifd[21876]: write(MTA socket,84): Broken pipe
+Mar 11 14:49:45 avas dccifd[21869]: write(MTA socket,84): Broken pipe
+Mar 11 14:49:45 avas dccifd[21864]: write(MTA socket,84): Broken pipe
+Mar 11 14:49:45 avas dccifd[21860]: write(MTA socket,76): Broken pipe
+Mar 11 14:49:45 avas dccifd[21880]: write(MTA socket,84): Broken pipe
+Mar 11 15:02:26 avas named[19651]: loading configuration from '/etc/named.conf'
+Mar 11 15:02:26 avas named[19651]: dns_rdata_fromtext: /etc/namedb/localhost.rev:4: near '3h': not a valid number
+Mar 11 15:02:26 avas named[19651]: zone 0.0.127.in-addr.arpa/IN: loading master file /etc/namedb/localhost.rev: not a valid number
+Mar 11 15:02:41 avas dccifd[22426]: no answer from 127.0.0.1 (127.0.0.1,6277) after 10269 ms
+Mar 11 15:02:41 avas dccifd[22426]: write(MTA socket,5): Broken pipe
+Mar 11 15:02:44 avas dccifd[22434]: no answer from 127.0.0.1 (127.0.0.1,6277) after 10269 ms
+Mar 11 15:02:44 avas dccifd[22434]: write(MTA socket,5): Broken pipe
+Mar 11 15:02:47 avas dccifd[22450]: continue not asking DCC 13 seconds after failure
+Mar 11 15:02:47 avas dccifd[22451]: continue not asking DCC 13 seconds after failure
+Mar 11 15:02:50 avas dccifd[22447]: no answer from 127.0.0.1 (127.0.0.1,6277) after 10697 ms
+Mar 11 15:02:50 avas dccifd[22447]: write(MTA socket,5): Broken pipe
+Mar 11 15:02:52 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 15:02:59 avas dccifd[22463]: continue not asking DCC 23 seconds after failure
+Mar 11 15:02:59 avas dccifd[22464]: continue not asking DCC 23 seconds after failure
+Mar 11 15:03:12 avas dccifd[22478]: continue not asking DCC 10 seconds after failure
+Mar 11 15:03:14 avas dccifd[22479]: continue not asking DCC 8 seconds after failure
+Mar 11 15:03:21 avas dccifd[22497]: continue not asking DCC 1 seconds after failure
+Mar 11 15:05:20 avas named[19651]: loading configuration from '/etc/named.conf'
+Mar 11 15:05:20 avas named[19651]: dns_rdata_fromtext: /etc/namedb/localhost.rev:4: near '3h': not a valid number
+Mar 11 15:05:20 avas named[19651]: zone 0.0.127.in-addr.arpa/IN: loading master file /etc/namedb/localhost.rev: not a valid number
+Mar 11 15:22:23 avas sshd(pam_unix)[23185]: session opened for user tom by (uid=35567)
+Mar 11 15:24:59 avas named[19651]: loading configuration from '/etc/named.conf'
+Mar 11 15:24:59 avas named[19651]: dns_rdata_fromtext: /etc/namedb/localhost.rev:4: near '3h': not a valid number
+Mar 11 15:24:59 avas named[19651]: zone 0.0.127.in-addr.arpa/IN: loading master file /etc/namedb/localhost.rev: not a valid number
+Mar 11 15:26:12 avas sshd(pam_unix)[23185]: session closed for user tom
+Mar 11 15:49:17 avas named[19651]: loading configuration from '/etc/named.conf'
+Mar 11 15:49:17 avas named[19651]: zone 0.0.127.in-addr.arpa/IN: loaded serial 42
+Mar 11 15:49:17 avas named[19651]: zone localhost/IN: loaded serial 42
+Mar 11 15:53:27 avas sshd(pam_unix)[19102]: session closed for user tom
+Mar 11 16:03:29 avas clamd[27173]: SelfCheck: Database modification detected. Forcing reload. 
+Mar 11 16:03:29 avas clamd[27173]: Reading databases from /usr/local/share/clamav 
+Mar 11 16:03:29 avas clamd[27173]: Database correctly reloaded (20433 viruses) 
+Mar 11 16:06:12 avas sshd(pam_unix)[24483]: session opened for user tom by (uid=35567)
+Mar 11 16:06:14 avas sshd(pam_unix)[24483]: session closed for user tom
+Mar 11 16:33:58 avas dccd[2818]: no incoming flood connection from dcc01.example.com, server-ID XXXX
+Mar 11 16:34:57 avas dccd[2818]: no outgoing flood connection to dcc01.example.com, server-ID XXXX
+Mar 11 17:04:06 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 18:04:42 avas clamd[27173]: SelfCheck: Database modification detected. Forcing reload. 
+Mar 11 18:04:43 avas clamd[27173]: Reading databases from /usr/local/share/clamav 
+Mar 11 18:04:43 avas clamd[27173]: Database correctly reloaded (20447 viruses) 
+Mar 11 18:50:21 avas dccifd[28639]: write(MTA socket,87): Broken pipe
+Mar 11 19:01:47 avas dccd[2818]: no outgoing flood connection to dcc1.example.no, server-ID XXXX
+Mar 11 19:01:47 avas dccd[2818]: no incoming flood connection from dcc1.example.no, server-ID XXXX
+Mar 11 19:05:20 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 20:05:56 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 20:50:38 avas dccifd[31288]: write(MTA socket,89): Broken pipe
+Mar 11 21:06:33 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 22:07:09 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 23:07:45 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 11 23:53:55 avas dccifd[2341]: missing message body
+Mar 12 00:00:00 avas dccifd[2897]: 1.2.35 rejected messages to 0 targets and discarded messages to 0 targets among 4191 total since 03/11/04 00:00:00
+Mar 12 00:08:22 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 00:25:29 avas dccifd[2932]: no answer from 127.0.0.1 (127.0.0.1,6277) after 16015 ms
+Mar 12 00:25:29 avas dccifd[2932]: write(MTA socket,5): Broken pipe
+Mar 12 00:27:48 avas dccifd[2948]: write(MTA socket,84): Broken pipe
+Mar 12 00:36:23 avas dccifd[3073]: write(MTA socket,90): Broken pipe
+Mar 12 00:52:11 avas dccifd[3344]: write(MTA socket,88): Broken pipe
+Mar 12 01:08:59 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 01:19:37 avas dccifd[3842]: write(MTA socket,84): Broken pipe
+Mar 12 02:09:35 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 02:48:10 avas dccd[5237]: automatic dbclean; starting `dbclean -DPq -i 1189 -L info,local5.notice -L error,local5.err`
+Mar 12 02:48:10 avas dbclean[5237]: 1.2.35 cleaning dcc_db
+Mar 12 02:48:10 avas dccd[2818]: database cleaning begun
+Mar 12 02:53:10 avas dbclean[5237]:   processed 257 of 1054 Mbytes or 24%
+Mar 12 02:58:10 avas dbclean[5237]:   processed 437 of 1054 Mbytes or 41%
+Mar 12 03:02:19 avas dbclean[5237]:   processed 1054 of 1054 Mbytes or 100%
+Mar 12 03:02:19 avas dbclean[5237]: expired 4694567 records and 15731483 checksums in /home/dcc/dcc_db
+Mar 12 03:03:10 avas dbclean[5237]:   hash rebuilt 2614181 of 20680152 checksums or 12%
+Mar 12 03:04:58 avas dccifd[5556]: write(MTA socket,88): Broken pipe
+Mar 12 03:05:26 avas dccifd[5568]: no answer from 127.0.0.1 (127.0.0.1,6277) after 16019 ms
+Mar 12 03:05:26 avas dccifd[5568]: write(MTA socket,5): Broken pipe
+Mar 12 03:08:10 avas dbclean[5237]:   hash rebuilt 16412121 of 20680152 checksums or 79%
+Mar 12 03:08:59 avas dbclean[5237]:   hash rebuilt 20679886 of 20680152 checksums or 99%
+Mar 12 03:08:59 avas dbclean[5237]: hashed 10470795 records containing 20679886 checksums, compressed 1934177 records
+Mar 12 03:08:59 avas dbclean[5237]: 26849280 hash entries total, 15193149 or 56% used
+Mar 12 03:09:41 avas dccd[2818]: 1.2.35 database /home/dcc/dcc_db reopened with 997 MByte window
+Mar 12 03:10:12 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 03:44:43 avas dccd[2818]: "packet length 44 too small for REPORT" sent to client 1 at 69.7.33.8,36651
+Mar 12 03:53:50 avas dccd[2818]: "packet length 44 too small for REPORT" sent to client 1 at 69.7.33.8,37030
+Mar 12 04:10:48 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 04:13:54 avas dccd[2818]: "packet length 44 too small for REPORT" sent to client 1 at 69.7.33.8,44808
+Mar 12 05:11:24 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 05:21:23 avas dccd[2818]: "packet length 44 too small for REPORT" sent to client 1 at 69.7.33.8,43203
+Mar 12 05:48:21 avas dccd[2818]: "packet length 44 too small for REPORT" sent to client 1 at 69.7.33.8,44475
+Mar 12 06:12:01 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 06:22:56 avas dccd[2818]: "packet length 44 too small for REPORT" sent to client 1 at 207.127.164.3,52651
+Mar 12 06:43:02 avas dccd[2818]: "packet length 44 too small for REPORT" sent to client 1 at 69.7.33.8,52709
+Mar 12 06:43:44 avas dccd[2818]: "packet length 44 too small for REPORT" sent to client 1 at 69.7.33.8,52735
+Mar 12 06:52:54 avas dccifd[10103]: write(MTA socket,87): Broken pipe
+Mar 12 07:10:12 avas dccd[2818]: "packet length 44 too small for REPORT" sent to client 1 at 69.7.33.8,43315
+Mar 12 07:12:37 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 08:13:14 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 08:55:02 avas dccifd[13965]: missing message body
+Mar 12 08:55:08 avas dccifd[13973]: missing message body
+Mar 12 09:13:51 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 10:06:18 avas sshd(pam_unix)[17227]: session opened for user tom by (uid=35567)
+Mar 12 10:14:29 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 10:45:10 avas dccifd[18619]: missing message body
+Mar 12 10:53:50 avas sshd(pam_unix)[18886]: session opened for user tom by (uid=35567)
+Mar 12 10:58:01 avas sshd(pam_unix)[18886]: session closed for user tom
+Mar 12 11:15:05 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 11:55:11 avas dccifd[20959]: missing message body
+Mar 12 11:56:14 avas dccifd[20997]: missing message body
+Mar 12 12:06:18 avas sshd(pam_unix)[21409]: session opened for user tom by (uid=35567)
+Mar 12 12:06:19 avas sshd(pam_unix)[21409]: session closed for user tom
+Mar 12 12:15:42 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 12:54:33 avas dccifd[22637]: write(MTA socket,84): Broken pipe
+Mar 12 13:16:19 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 13:19:53 avas dccifd[23351]: missing message body
+Mar 12 13:23:48 avas sshd(pam_unix)[23510]: check pass; user unknown
+Mar 12 13:23:48 avas sshd(pam_unix)[23510]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=10.0.0.153 
+Mar 12 13:23:56 avas sshd(pam_unix)[23510]: check pass; user unknown
+Mar 12 13:23:58 avas sshd(pam_unix)[23510]: 1 more authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=10.0.0.153 
+Mar 12 13:24:17 avas sshd(pam_unix)[23522]: session opened for user tom by (uid=35567)
+Mar 12 13:24:25 avas dccifd[23571]: missing message body
+Mar 7 13:38:49 avas sshd[29707]: Accepted password for tom from 24.70.69.74 port 64035
+Mar 8 09:01:06 avas sshd[21839]: Accepted password for tom from 10.0.0.19 port 32781 ssh2
+Mar 8 10:17:52 avas sshd[24556]: Accepted password for tom from 10.0.0.19 port 32798 ssh2
+Mar 8 11:30:48 avas sshd[28104]: Accepted password for tom from 10.0.0.19 port 32807 ssh2
+Mar 8 12:06:00 avas sshd[29619]: Accepted publickey for tom from 10.0.0.251 port 4242 ssh2
+Mar 8 12:06:00 avas sshd[29619]: subsystem request for sftp
+Mar 8 15:15:06 avas sshd[3749]: Could not reverse map address 10.0.0.153.
+Mar 8 15:15:06 avas sshd[3749]: Accepted password for tom from 10.0.0.153 port 4455 ssh2
+Mar 8 16:06:02 avas sshd[5444]: Accepted publickey for tom from 10.0.0.251 port 3460 ssh2
+Mar 8 16:06:02 avas sshd[5444]: subsystem request for sftp
+Mar 8 23:05:11 avas sshd[14340]: Did not receive identification string from 210.150.142.17
+Mar 9 10:40:47 avas sshd[30036]: Accepted password for tom from 10.0.0.19 port 32800 ssh2
+Mar 9 12:06:05 avas sshd[4019]: Accepted publickey for tom from 10.0.0.251 port 2624 ssh2
+Mar 9 12:06:05 avas sshd[4019]: subsystem request for sftp
+Mar 9 13:45:19 avas sshd[7180]: Accepted password for tom from 10.0.0.19 port 32829 ssh2
+Mar 9 15:25:19 avas sshd[10514]: Accepted password for tom from 10.0.0.19 port 32848 ssh2
+Mar 9 16:06:04 avas sshd[12054]: Accepted publickey for tom from 10.0.0.251 port 2173 ssh2
+Mar 9 16:06:04 avas sshd[12054]: subsystem request for sftp
+Mar 10 08:10:57 avas sshd[31289]: Could not reverse map address 10.0.0.19.
+Mar 10 08:11:01 avas sshd[31289]: Accepted password for tom from 10.0.0.19 port 32773 ssh2
+Mar 10 09:40:47 avas sshd[6237]: Accepted password for tom from 10.0.0.19 port 32792 ssh2
+Mar 10 12:06:10 avas sshd[10257]: Accepted publickey for tom from 10.0.0.251 port 3131 ssh2
+Mar 10 12:06:10 avas sshd[10257]: subsystem request for sftp
+Mar 10 12:59:27 avas sshd[12887]: Did not receive identification string from 24.242.145.152
+Mar 10 16:06:10 avas sshd[19098]: Accepted publickey for tom from 10.0.0.251 port 1764 ssh2
+Mar 10 16:06:10 avas sshd[19098]: subsystem request for sftp
+Mar 11 12:06:14 avas sshd[15853]: Accepted publickey for tom from 10.0.0.251 port 3657 ssh2
+Mar 11 12:06:14 avas sshd[15853]: subsystem request for sftp
+Mar 11 13:31:51 avas sshd[19102]: Accepted password for tom from 10.0.0.19 port 32834 ssh2
+Mar 11 15:22:22 avas sshd[23185]: Could not reverse map address 10.0.0.153.
+Mar 11 15:22:22 avas sshd[23185]: Accepted password for tom from 10.0.0.153 port 1741 ssh2
+Mar 11 16:06:12 avas sshd[24483]: Accepted publickey for tom from 10.0.0.251 port 1714 ssh2
+Mar 11 16:06:12 avas sshd[24483]: subsystem request for sftp
+Mar 12 10:06:17 avas sshd[17227]: Accepted password for tom from 10.0.0.19 port 32793 ssh2
+Mar 12 10:53:50 avas sshd[18886]: Could not reverse map address 10.0.0.153.
+Mar 12 10:53:50 avas sshd[18886]: Accepted password for tom from 10.0.0.153 port 1776 ssh2
+Mar 12 12:06:18 avas sshd[21409]: Accepted publickey for tom from 10.0.0.251 port 3247 ssh2
+Mar 12 12:06:18 avas sshd[21409]: subsystem request for sftp
+Mar 12 13:23:48 avas sshd[23510]: input_userauth_request: illegal user avas.cnc.bc.ca
+Mar 12 13:23:48 avas sshd[23510]: Could not reverse map address 10.0.0.153.
+Mar 12 13:23:48 avas sshd[23510]: Failed none for illegal user phil from 10.0.0.153 port 2006 ssh2
+Mar 12 13:23:48 avas sshd[23510]: Failed keyboard-interactive for illegal user phil from 10.0.0.153 port 2006 ssh2
+Mar 12 13:23:51 avas sshd[23510]: Failed password for illegal user phil from 10.0.0.153 port 2006 ssh2
+Mar 12 13:23:51 avas sshd[23510]: Failed none for illegal user phil from 10.0.0.153 port 2006 ssh2
+Mar 12 13:23:51 avas sshd[23510]: Failed keyboard-interactive for illegal user phil from 10.0.0.153 port 2006 ssh2
+Mar 12 13:23:58 avas sshd[23510]: Failed password for illegal user phil from 10.0.0.153 port 2006 ssh2
+Mar 12 13:23:58 avas sshd[23510]: Failed none for illegal user phil from 10.0.0.153 port 2006 ssh2
+Mar 12 13:23:58 avas sshd[23510]: Failed keyboard-interactive for illegal user phil from 10.0.0.153 port 2006 ssh2
+Mar 12 13:23:58 avas sshd[23510]: Disconnecting: Too many authentication failures for avas.cnc.bc.ca
+Mar 12 13:24:17 avas sshd[23522]: Could not reverse map address 10.0.0.153.
+Mar 12 13:24:17 avas sshd[23522]: Accepted password for tom from 10.0.0.153 port 2007 ssh2
+
