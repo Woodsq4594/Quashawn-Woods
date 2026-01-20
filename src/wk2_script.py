@@ -77,18 +77,19 @@ Class:   CYBV473
 '''
 
 import os
+import hashlib
+from prettytable import PrettyTable
 
 # Set to store unique worm names
 uniqueWorms = set()
 
 # Open the log file and process each line
-with open("redhat.txt", 'r') as logFile:
+with open("../logs/redhat.txt", 'r') as logFile:
     for eachLine in logFile:
-        fieldList = eachLine.split()  # Split the line into fields
+        fieldList = eachLine.split()
         for field in fieldList:
-            # Check if the word "worm" appears in the field (case-insensitive)
             if 'worm' in field.lower():
-                uniqueWorms.add(field)  # Add the worm name to the set
+                uniqueWorms.add(field)
 
 # Sort the set of unique worm names
 uniqueWorms = sorted(uniqueWorms)
@@ -97,8 +98,32 @@ uniqueWorms = sorted(uniqueWorms)
 for worm in uniqueWorms:
     print(worm)
 
-# Message to indicate the process is complete
-msg = "Job Complete!"
-print(msg)
+# Create a list of files using os.walk()
+fileList = []
+
+for root, dirs, files in os.walk("../logs"):
+    for fileName in files:
+        fileList.append(os.path.join(root, fileName))
+
+# Create empty dictionary for file hashes
+fileHashes = {}
+
+# Calculate SHA256 hash for each file
+for filePath in fileList:
+    with open(filePath, 'rb') as fileObj:
+        fileContent = fileObj.read()
+        sha256Obj = hashlib.sha256()
+        sha256Obj.update(fileContent)
+        hexDigest = sha256Obj.hexdigest()
+        fileHashes[os.path.basename(filePath)] = hexDigest
+
+# Display results using PrettyTable
+tbl = PrettyTable(["Filename", "SHA256 Hash"])
+
+for key, value in fileHashes.items():
+    tbl.add_row([key, value])
+
+tbl.align = "l"
+print(tbl)
         
         
