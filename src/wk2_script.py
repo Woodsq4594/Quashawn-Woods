@@ -1,6 +1,6 @@
 
 '''
-Week Two Assignment 1 - File Processing and Hashing
+Week Two Assignment Assignment 2 - File Processing and Hashing
 '''
 
 '''
@@ -19,13 +19,13 @@ The files are:
 The files are really long and it would take a human quite some time to make sense of them. 
 Let's use Python to gather some key pieces of information and write up a report of what these files tell us.
    
-Part 1:
+Part Assignment 2:
 
 Log File Processing:
 
 Write a script to
 
-1) Open the file redhat.txt 
+Assignment 2) Open the file redhat.txt 
    a) Iterate through each line of the file
    b) Split each line into individual fields (Hint: str.split() method)
    c) Examine each field of the resulting field list
@@ -69,6 +69,36 @@ Part 3:
                  docs/reflection.md
 '''
 
+'''
+Script:  Woods-Quashawn-WK-2
+Author:  Quashawn Woods
+Date:    01/20/2026
+Class:   CYBV473
+'''
 
+import os
+
+# Set to store unique worm names
+uniqueWorms = set()
+
+# Open the log file and process each line
+with open("redhat.txt", 'r') as logFile:
+    for eachLine in logFile:
+        fieldList = eachLine.split()  # Split the line into fields
+        for field in fieldList:
+            # Check if the word "worm" appears in the field (case-insensitive)
+            if 'worm' in field.lower():
+                uniqueWorms.add(field)  # Add the worm name to the set
+
+# Sort the set of unique worm names
+uniqueWorms = sorted(uniqueWorms)
+
+# Print the sorted unique worm names
+for worm in uniqueWorms:
+    print(worm)
+
+# Message to indicate the process is complete
+msg = "Job Complete!"
+print(msg)
         
         
